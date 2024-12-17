@@ -7447,3 +7447,11 @@ translate german strings:
     old "Siora"
     new ""
 
+# TODO: Translation updated at 2024-12-17 11:11
+
+# game/extras.rpy:1624
+translate german extra_scene_22_95509110:
+
+    # "The commander swallowed everything and turned her attention back to me."
+    ""
+

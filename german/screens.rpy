@@ -565,3 +565,15 @@ translate german strings:
     old "{a=[track[composer_website]]}[track[composer_website]]{/a}"
     new ""
 
+# TODO: Translation updated at 2024-12-17 11:11
+
+translate german strings:
+
+    # game/screens.rpy:1471
+    old "Lovense"
+    new ""
+
+    # game/screens.rpy:1473
+    old "Connect your toy"
+    new ""
+

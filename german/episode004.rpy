@@ -6366,3 +6366,47 @@ translate german strings:
     old "Rhenkoy society is stricly hierarchical, divided in to commune-like living groups and governed by the Council of Nkoy."
     new "Die Gesellschaft der Rhenkoy ist streng hierarchisch aufgebaut, in gemeinschaftsähnliche Lebensgruppen unterteilt und wird vom Rat der Nkoy regiert."
 
+# TODO: Translation updated at 2024-12-17 11:11
+
+# game/episode004.rpy:417
+translate german episode004_0bd52634:
+
+    # ka "I hope this message gets to you, because they’re finally coming for me."
+    ka ""
+
+# game/episode004.rpy:418
+translate german episode004_b6ce8f11:
+
+    # ka "I don’t know who it is, but they’re nearly through the security doors."
+    ka ""
+
+# game/episode004.rpy:419
+translate german episode004_00e8fd50:
+
+    # ka "Maybe it has something to do with you, or maybe it’s just my time."
+    ka ""
+
+# game/episode004.rpy:420
+translate german episode004_6c563974:
+
+    # ka "It doesn’t matter now."
+    ka ""
+
+# game/episode004.rpy:421
+translate german episode004_b6455126:
+
+    # ka "The warrior women you’re searching for are the Acarhyn, product of an illicit genetics experiment."
+    ka ""
+
+# game/episode004.rpy:422
+translate german episode004_d707f2f6:
+
+    # ka "The location of their home planet is unknown, but Ranimo Cetruvar probably knows."
+    ka ""
+
+# game/episode004.rpy:423
+translate german episode004_b4e97370:
+
+    # ka "Nadya, you’ve been a loyal friend, I-"
+    ka ""
+

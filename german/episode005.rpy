@@ -14196,3 +14196,11 @@ translate german ep005_doarn_finger_03374062:
     # "This wasn't sensual masturbation, but rather a frantic finger fuck, a single-minded pursuit of climax."
     "Das war kein sinnliches Masturbieren, sondern ein hektischer Fingerfick, ein gezieltes Erreichen eines Höhepunkts."
 
+# TODO: Translation updated at 2024-12-17 11:11
+
+# game/episode005.rpy:1712
+translate german ep005_thim_c5f9a2ed:
+
+    # c "I just thought you were happy with that guaranteed officer title waiting on you after graduation."
+    c ""
+

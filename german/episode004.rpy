@@ -6372,41 +6372,41 @@ translate german strings:
 translate german episode004_0bd52634:
 
     # ka "I hope this message gets to you, because they’re finally coming for me."
-    ka ""
+    ka "Ich hoffe das dich diese Nachricht erreicht denn sie kommen um mich zu holen."
 
 # game/episode004.rpy:418
 translate german episode004_b6ce8f11:
 
     # ka "I don’t know who it is, but they’re nearly through the security doors."
-    ka ""
+    ka "Ich weiß nicht wer es ist aber sie sind fast durch die Sicherheitstüren."
 
 # game/episode004.rpy:419
 translate german episode004_00e8fd50:
 
     # ka "Maybe it has something to do with you, or maybe it’s just my time."
-    ka ""
+    ka "Vielleicht hat es was mit dir zu tun, oder meine zeit ist einfach gekommen."
 
 # game/episode004.rpy:420
 translate german episode004_6c563974:
 
     # ka "It doesn’t matter now."
-    ka ""
+    ka "Es ist jetzt nicht mehr wichtig"
 
 # game/episode004.rpy:421
 translate german episode004_b6455126:
 
     # ka "The warrior women you’re searching for are the Acarhyn, product of an illicit genetics experiment."
-    ka ""
+    ka "Die Kriegerinnen, nach denen Sie suchen, sind die Acarhyn, das Produkt eines illegalen Genexperiments."
 
 # game/episode004.rpy:422
 translate german episode004_d707f2f6:
 
     # ka "The location of their home planet is unknown, but Ranimo Cetruvar probably knows."
-    ka ""
+    ka "Der Standort ihres Heimatplaneten ist unbekannt, aber Ranimo Cetruvar weiß es wahrscheinlich."
 
 # game/episode004.rpy:423
 translate german episode004_b4e97370:
 
     # ka "Nadya, you’ve been a loyal friend, I-"
-    ka ""
+    ka "Nadya du warst eine loyale freundin, ich-"
 

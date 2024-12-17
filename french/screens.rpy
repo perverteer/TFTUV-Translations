@@ -1,548 +1,557 @@
-# TODO: Translation updated at 2022-03-25 15:14
-
+﻿
 translate french strings:
 
-    # game/screens.rpy:292
+    # screens.rpy:261
     old "Back"
     new "Retour"
 
-    # game/screens.rpy:293
+    # screens.rpy:262
     old "History"
-    new "HIstoire"
+    new "Historique"
 
-    # game/screens.rpy:294
+    # screens.rpy:263
     old "Skip"
-    new "Passer"
+    new "Avance rapide"
 
-    # game/screens.rpy:295
+    # screens.rpy:264
     old "Auto"
     new "Auto"
 
-    # game/screens.rpy:296
+    # screens.rpy:265
     old "Save"
-    new "Sauvegarder"
+    new "Sauvegarde"
 
-    # game/screens.rpy:297
+    # screens.rpy:266
     old "Q.Save"
-    new "Sauvegarde rapide"
+    new "Sauvegarde R."
 
-    # game/screens.rpy:298
+    # screens.rpy:267
     old "Q.Load"
-    new "Chargement rapide"
+    new "Chargement R."
+
+    # screens.rpy:268
+    old "Prefs"
+    new "Préf."
+
+    # screens.rpy:309
+    old "Start"
+    new "Nouvelle partie"
+
+    # screens.rpy:317
+    old "Load"
+    new "Charger"
+
+    # screens.rpy:319
+    old "Preferences"
+    new "Préférences"
+
+    # screens.rpy:323
+    old "End Replay"
+    new "Fin de la relecture"
+
+    # screens.rpy:327
+    old "Main Menu"
+    new "Menu principal"
+
+    # screens.rpy:329
+    old "About"
+    new "À propos"
+
+    # screens.rpy:334
+    old "Help"
+    new "Aide"
+
+    # screens.rpy:337
+    old "Quit"
+    new "Quitter"
+
+    # screens.rpy:564
+    old "Version [config.version!t]\n"
+    new "Version [config.version!t]\n"
+
+    # screens.rpy:570
+    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+    new "Conçu avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+
+    # screens.rpy:652
+    old "{#file_time}%A, %B %d %Y, %H:%M"
+    new "{#file_time}%A %d %B %Y, %H:%M"
+
+    # screens.rpy:652
+    old "empty slot"
+    new "emplacement vide"
+
+    # screens.rpy:669
+    old "<"
+    new "<"
+
+    # screens.rpy:672
+    old "{#auto_page}A"
+    new "{#auto_page}A"
+
+    # screens.rpy:675
+    old "{#quick_page}Q"
+    new "{#quick_page}R"
+
+    # screens.rpy:681
+    old ">"
+    new ">"
+
+    # screens.rpy:743
+    old "Display"
+    new "Affichage"
+
+    # screens.rpy:744
+    old "Window"
+    new "Fenêtre"
+
+    # screens.rpy:745
+    old "Fullscreen"
+    new "Plein écran"
+
+    # screens.rpy:757
+    old "Unseen Text"
+    new "Texte non lu"
+
+    # screens.rpy:758
+    old "After Choices"
+    new "Après les choix"
+
+    # screens.rpy:764
+    old "Examples"
+    new "Exemples"
+
+    # screens.rpy:793
+    old "Text Speed"
+    new "Vitesse du texte"
+
+    # screens.rpy:797
+    old "Auto-Forward Time"
+    new "Avance automatique"
+
+    # screens.rpy:804
+    old "Music Volume"
+    new "Volume de la musique"
+
+    # screens.rpy:811
+    old "Sound Volume"
+    new "Volume des sons"
+
+    # screens.rpy:817
+    old "Test"
+    new "Tester"
+
+    # screens.rpy:821
+    old "Voice Volume"
+    new "Volume des voix"
+
+    # screens.rpy:832
+    old "Mute All"
+    new "Couper tous"
+
+    # screens.rpy:948
+    old "The dialogue history is empty."
+    new "L'historique des dialogues est vide."
+
+    # screens.rpy:1013
+    old "Keyboard"
+    new "Clavier"
+
+    # screens.rpy:1014
+    old "Mouse"
+    new "Souris"
+
+    # screens.rpy:1030
+    old "Enter"
+    new "Entrée"
+
+    # screens.rpy:1031
+    old "Advances dialogue and activates the interface."
+    new "Avance dans les dialogues et active l’interface (effectue un choix)."
+
+    # screens.rpy:1034
+    old "Space"
+    new "Espace"
+
+    # screens.rpy:1035
+    old "Advances dialogue without selecting choices."
+    new "Avance dans les dialogues sans effectuer de choix."
+
+    # screens.rpy:1038
+    old "Arrow Keys"
+    new "Flèches directionnelles"
+
+    # screens.rpy:1039
+    old "Navigate the interface."
+    new "Permet de se déplacer dans l’interface."
+
+    # screens.rpy:1042
+    old "Escape"
+    new "Échap."
+
+    # screens.rpy:1043
+    old "Accesses the game menu."
+    new "Ouvre le menu du jeu."
+
+    # screens.rpy:1046
+    old "Ctrl"
+    new "Ctrl"
+
+    # screens.rpy:1047
+    old "Skips dialogue while held down."
+    new "Fait défiler les dialogues tant que la touche est pressée."
+
+    # screens.rpy:1050
+    old "Tab"
+    new "Tab"
+
+    # screens.rpy:1051
+    old "Toggles dialogue skipping."
+    new "Active ou désactives les «sauts des dialogues»."
+
+    # screens.rpy:1054
+    old "Page Up"
+    new "Page Haut"
+
+    # screens.rpy:1055
+    old "Rolls back to earlier dialogue."
+    new "Retourne au précédent dialogue."
+
+    # screens.rpy:1058
+    old "Page Down"
+    new "Page Bas"
+
+    # screens.rpy:1059
+    old "Rolls forward to later dialogue."
+    new "Avance jusqu'au prochain dialogue."
+
+    # screens.rpy:1063
+    old "Hides the user interface."
+    new "Cache l’interface utilisateur."
+
+    # screens.rpy:1067
+    old "Takes a screenshot."
+    new "Prend une capture d’écran."
+
+    # screens.rpy:1071
+    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "Active la {a=https://www.renpy.org/l/voicing}{size=24}vocalisation automatique{/size}{/a}."
+
+    # screens.rpy:1077
+    old "Left Click"
+    new "Bouton gauche"
+
+    # screens.rpy:1081
+    old "Middle Click"
+    new "Bouton central"
+
+    # screens.rpy:1085
+    old "Right Click"
+    new "Bouton droit"
+
+    # screens.rpy:1089
+    old "Mouse Wheel Up"
+    new "Molette de souris vers le haut"
+
+    # screens.rpy:1093
+    old "Mouse Wheel Down"
+    new "Molette vers le bas"
+
+    # screens.rpy:1100
+    old "Right Trigger\nA/Bottom Button"
+    new "Bouton R1\nA/Bouton du bas"
+
+    # screens.rpy:1104
+    old "Left Trigger\nLeft Shoulder"
+    new "Déclencheur gauche\nBouton L1"
+
+    # screens.rpy:1108
+    old "Right Shoulder"
+    new "Bouton R1"
+
+    # screens.rpy:1112
+    old "D-Pad, Sticks"
+    new "Boutons directionnels, stick gauche"
+
+    # screens.rpy:1116
+    old "Start, Guide"
+    new "Start, Guide"
+
+    # screens.rpy:1120
+    old "Y/Top Button"
+    new "Y/Bouton du haut"
+
+    # screens.rpy:1188
+    old "Yes"
+    new "Oui"
+
+    # screens.rpy:1189
+    old "No"
+    new "Non"
+
+    # screens.rpy:1235
+    old "Skipping"
+    new "Avance rapide"
+
+    # screens.rpy:1456
+    old "Menu"
+    new "Menu"
+
+    # game/screens.rpy:1083
+    old "Opens the accessibility menu."
+    new "Ouvre le menu d'accessibilité."
+# TODO: Translation updated at 2024-08-24 15:49
+
+translate french strings:
 
     # game/screens.rpy:300
     old "Codex"
     new "Codex"
 
-    # game/screens.rpy:301
-    old "Prefs"
-    new "Prefs"
-
-    # game/screens.rpy:361
-    old "Start"
-    new "Démarrer"
-
-    # game/screens.rpy:363
-    old "Continue"
-    new "Continuer"
-
-    # game/screens.rpy:371
-    old "Load"
-    new "Charger"
-
-    # game/screens.rpy:376
-    old "Preferences"
-    new "Préférences"
-
-    # game/screens.rpy:380
-    old "End Replay"
-    new "Fin rediffusion"
-
     # game/screens.rpy:383
     old "Scene Gallery"
-    new "Gallerie"
+    new "Galerie de scènes"
+
+    # game/screens.rpy:386
+    old "Achievements"
+    new "Réalisations"
 
     # game/screens.rpy:389
     old "Bonus"
     new "Bonus"
 
-    # game/screens.rpy:393
-    old "Main Menu"
-    new "Menu principal"
-
-    # game/screens.rpy:395
-    old "About"
-    new "Au sujet de"
-
-    # game/screens.rpy:400
-    old "Help"
-    new "Aide"
-
-    # game/screens.rpy:622
-    old "Return"
-    new "Retour"
-
     # game/screens.rpy:779
     old "Relationships"
-    new "Relation"
+    new "Relations"
 
     # game/screens.rpy:785
     old "Close"
     new "Fermer"
 
     # game/screens.rpy:817
-    old "Relationship: %s"
-    new "En relation: %s"
+    old "Relationship: No"
+    new "Relation : Non"
 
     # game/screens.rpy:819
-    old "Pregnant: %s"
-    new "Enceinte"
-
-    # game/screens.rpy:914
-    old "Extras"
-    new "Extras"
-
-    # game/screens.rpy:916
-    old "Ep"
-    new "Ep"
-
-    # game/screens.rpy:950
-    old "Achievements"
-    new "Accomplissements"
-
-    # game/screens.rpy:1008
-    old "Achievements Unlocked: %d / %d"
-    new "Acomplissements déverouillés: %d / %d"
-
-    # game/screens.rpy:1041
-    old "Version "
-    new "Version "
-
-    # game/screens.rpy:1041
-    old "[config.version!t]\n"
-    new "[config.version!t]\n"
-
-    # game/screens.rpy:1047
-    old "Translations"
-    new "Traductions"
-
-    # game/screens.rpy:1050
-    old "Music"
-    new "Musique"
-
-    # game/screens.rpy:1069
-    old "{a=[track[website]]}[track[website]]{/a}"
-    new "{a=[track[website]]}[track[website]]{/a}"
-
-    # game/screens.rpy:1070
-    old "License: "
-    new "License: "
-
-    # game/screens.rpy:1070
-    old "{a=[track[license_url]]}[track[license]]{/a}"
-    new "{a=[track[license_url]]}[track[license]]{/a}"
-
-    # game/screens.rpy:1074
-    old "{size=-8}Uses portions of the {a=https://github.com/jsfehler/renpy-encyclopaedia}Encyclopaedia Framework for Ren'Py{/a} by jsfehler"
-    new "{size=-8}Uses portions of the {a=https://github.com/jsfehler/renpy-encyclopaedia}Encyclopaedia Framework for Ren'Py{/a} by jsfehler"
-
-    # game/screens.rpy:1075
-    old "{size=-8}Ashtar Flying Disk, Federation Interceptor HN48, Endor Battlecruiser, Sky Ranger Dominator, Titan Class II Cargo Ship, Wraith Raider Starship, Eagle 5 Transport models created by {a=https://www.renderosity.com/?uid=767619}sevein/Herminio Nieves{/a}"
-    new "{size=-8}Ashtar Flying Disk, Federation Interceptor HN48, Endor Battlecruiser, Sky Ranger Dominator, Titan Class II Cargo Ship, Wraith Raider Starship, Eagle 5 Transport models created by {a=https://www.renderosity.com/?uid=767619}sevein/Herminio Nieves{/a}"
-
-    # game/screens.rpy:1076
-    old "{size=-8}Crucero Space Army and Space Gate models created by {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}"
-    new "{size=-8}Crucero Space Army and Space Gate models created by {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}"
-
-    # game/screens.rpy:1077
-    old "{size=-8}Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "{size=-8}Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-
-    # game/screens.rpy:1115
-    old "Page {}"
-    new "Page {}"
-
-    # game/screens.rpy:1115
-    old "Automatic saves"
-    new "Sauvegardes automatiques"
-
-    # game/screens.rpy:1115
-    old "Quick saves"
-    new "Sauvegardes rapides"
-
-    # game/screens.rpy:1151
-    old "Jump to page: "
-    new "Sauter à la page:"
-
-    # game/screens.rpy:1181
-    old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%A, %B %d %Y, %H:%M"
-
-    # game/screens.rpy:1181
-    old "empty slot"
-    new "Espace libre"
-
-    # game/screens.rpy:1222
-    old "<"
-    new "<"
-
-    # game/screens.rpy:1225
-    old "{#auto_page}A"
-    new "{#auto_page}A"
-
-    # game/screens.rpy:1228
-    old "{#quick_page}Q"
-    new "{#quick_page}Q"
-
-    # game/screens.rpy:1234
-    old ">"
-    new ">"
-
-    # game/screens.rpy:1292
-    old "Please name your save:"
-    new "Merci de nommer votre sauvegarde:"
-
-    # game/screens.rpy:1303
-    old "Save game"
-    new "Sauvgarder"
-
-    # game/screens.rpy:1334
-    old "Player Names"
-    new "Nom joueur"
-
-    # game/screens.rpy:1335
-    old "Name: "
-    new "Nom"
-
-    # game/screens.rpy:1336
-    old "Nickname: "
-    new "Surnom"
-
-    # game/screens.rpy:1342
-    old "Display"
-    new "Affichage"
-
-    # game/screens.rpy:1343
-    old "Window"
-    new "Fenêtre"
-
-    # game/screens.rpy:1344
-    old "Fullscreen"
-    new "Plein écran"
-
-    # game/screens.rpy:1348
-    old "Rollback Side"
-    new "Retour côté"
-
-    # game/screens.rpy:1349
-    old "Disable"
-    new "Déactivé"
-
-    # game/screens.rpy:1350
-    old "Left"
-    new "Gauche"
-
-    # game/screens.rpy:1351
-    old "Right"
-    new "Droit"
-
-    # game/screens.rpy:1356
-    old "Unseen Text"
-    new "Text invisible"
-
-    # game/screens.rpy:1357
-    old "After Choices"
-    new "Après choix"
-
-    # game/screens.rpy:1358
-    old "Transitions"
-    new "Transitions"
-
-    # game/screens.rpy:1365
-    old "Language"
-    new "Langue"
-
-    # game/screens.rpy:1366
-    old "English"
-    new "Anglais"
-
-    # game/screens.rpy:1367
-    old "Italian (partial)"
-    new "Italien (partiel)"
-
-    # game/screens.rpy:1368
-    old "Polish (partial)"
-    new "Polonais (partiel)"
-
-    # game/screens.rpy:1369
-    old "Portuguese"
-    new "Portugais"
-
-    # game/screens.rpy:1370
-    old "Russian (partial)"
-    new "Russe (partiel)"
-
-    # game/screens.rpy:1371
-    old "Spanish (partial)"
-    new "Espagnol (partiel)"
-
-    # game/screens.rpy:1378
-    old "Notifications"
-    new "Notifications"
-
-    # game/screens.rpy:1379
-    old "Show"
-    new "Montrer"
-
-    # game/screens.rpy:1380
-    old "Hide"
-    new "Cacher"
-
-    # game/screens.rpy:1385
-    old "Incest"
-    new "Inceste"
-
-    # game/screens.rpy:1386
-    old "Enable"
-    new "Activé"
-
-    # game/screens.rpy:1398
-    old "Show Portraits"
-    new "Montrer les portraits"
-
-    # game/screens.rpy:1410
-    old "Dialog Box Visibility"
-    new "Visibilité boîte de dialogue"
-
-    # game/screens.rpy:1414
-    old "Text Speed"
-    new "Vitesse texte"
-
-    # game/screens.rpy:1418
-    old "Auto-Forward Time"
-    new "Avance automatique"
-
-    # game/screens.rpy:1425
-    old "Music Volume"
-    new "Volume musique"
-
-    # game/screens.rpy:1432
-    old "Sound Volume"
-    new "Volume son"
-
-    # game/screens.rpy:1438
-    old "Test"
-    new ""
-
-    # game/screens.rpy:1442
-    old "Voice Volume"
-    new "Volume voix"
-
-    # game/screens.rpy:1453
-    old "Mute All"
-    new "Couper le son"
-
-    # game/screens.rpy:1575
-    old "The dialogue history is empty."
-    new "L'historique des dialogues est vide."
-
-    # game/screens.rpy:1645
-    old "Keyboard"
-    new "Clavier"
-
-    # game/screens.rpy:1646
-    old "Mouse"
-    new "Souris"
-
-    # game/screens.rpy:1649
-    old "Gamepad"
-    new "Gamepas"
-
-    # game/screens.rpy:1662
-    old "Enter"
-    new "Entrer"
-
-    # game/screens.rpy:1663
-    old "Advances dialogue and activates the interface."
-    new "Avancer le dialogye et activer l'interface."
-
-    # game/screens.rpy:1666
-    old "Space"
-    new "Espace"
-
-    # game/screens.rpy:1667
-    old "Advances dialogue without selecting choices."
-    new "Avancer le dialogue sans selection des choix."
-
-    # game/screens.rpy:1670
-    old "Arrow Keys"
-    new "Touches curseur"
-
-    # game/screens.rpy:1671
-    old "Navigate the interface."
-    new "Naviguer l'interface."
-
-    # game/screens.rpy:1674
-    old "Escape"
-    new "Echappe"
-
-    # game/screens.rpy:1675
-    old "Accesses the game menu."
-    new "Accéder au menu du jeu"
-
-    # game/screens.rpy:1678
-    old "Ctrl"
-    new "Ctrl"
-
-    # game/screens.rpy:1679
-    old "Skips dialogue while held down."
-    new "Passer les dialogue lorsque la touche est appuyé."
-
-    # game/screens.rpy:1682
-    old "Tab"
-    new "Tab"
-
-    # game/screens.rpy:1683
-    old "Toggles dialogue skipping."
-    new "Basculer le passage de dialogue"
-
-    # game/screens.rpy:1686
-    old "Page Up"
-    new "Page Up"
-
-    # game/screens.rpy:1687
-    old "Rolls back to earlier dialogue."
-    new "Retour sur le précédent dialogue."
-
-    # game/screens.rpy:1690
-    old "Page Down"
-    new "Page Down"
-
-    # game/screens.rpy:1691
-    old "Rolls forward to later dialogue."
-    new "Avancer vers le dialogue suivant."
-
-    # game/screens.rpy:1695
-    old "Hides the user interface."
-    new "Cacher l'interface utilisateur"
-
-    # game/screens.rpy:1699
-    old "Takes a screenshot."
-    new "Capture d'écran"
-
-    # game/screens.rpy:1703
-    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Basculer assitance {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-
-    # game/screens.rpy:1707
-    old "Shows the relationships screen"
-    new "Montrer l'écran des relations"
-
-    # game/screens.rpy:1711
-    old "Shows the codex"
-    new "Montrer le Codex"
-
-    # game/screens.rpy:1717
-    old "Left Click"
-    new "Clique gauche"
-
-    # game/screens.rpy:1721
-    old "Middle Click"
-    new "Clique central"
-
-    # game/screens.rpy:1725
-    old "Right Click"
-    new "Clique droit"
-
-    # game/screens.rpy:1729
-    old "Mouse Wheel Up\nClick Rollback Side"
-    new "Souris roue vers le haut\Clique Retour coté"
-
-    # game/screens.rpy:1733
-    old "Mouse Wheel Down"
-    new "Souris roue vers le bas"
-
-    # game/screens.rpy:1740
-    old "Right Trigger\nA/Bottom Button"
-    new ""
-
-    # game/screens.rpy:1744
-    old "Left Trigger\nLeft Shoulder"
-    new ""
-
-    # game/screens.rpy:1748
-    old "Right Shoulder"
-    new "Epaule droit"
-
-    # game/screens.rpy:1753
-    old "D-Pad, Sticks"
-    new "D-Pad, Sticks"
-
-    # game/screens.rpy:1757
-    old "Start, Guide"
-    new "Start, Guide"
-
-    # game/screens.rpy:1761
-    old "Y/Top Button"
-    new "Y/Top touche"
-
-    # game/screens.rpy:1764
-    old "Calibrate"
-    new "Calibrer"
-
-    # game/screens.rpy:1829
-    old "Yes"
-    new "Oui"
-
-    # game/screens.rpy:1830
-    old "No"
-    new "Non"
-
-    # game/screens.rpy:1877
-    old "Skipping"
-    new "Passer"
-
-    # game/screens.rpy:2100
-    old "Menu"
-    new "Menu"
-
-# TODO: Translation updated at 2023-01-17 14:37
-
-translate french strings:
+    old "Pregnant: No"
+    new "Enceinte : Non"
+
+    # game/screens.rpy:817
+    old "Relationship: Yes"
+    new "Relation : Oui"
+
+    # game/screens.rpy:819
+    old "Pregnant: Yes"
+    new "Enceinte : Oui"
 
     # game/screens.rpy:899
     old "View by: "
-    new ""
+    new "Visualisé par : "
 
     # game/screens.rpy:901
     old "character"
-    new ""
+    new "personnage"
 
     # game/screens.rpy:903
     old "episode"
-    new ""
+    new "épisode"
+
+    # game/screens.rpy:949
+    old "Extras"
+    new "Extras"
+
+    # game/screens.rpy:951
+    old "Ep"
+    new "Ep"
+
+    # game/screens.rpy:1048
+    old "Achievements Unlocked: %d / %d"
+    new "Réalisations débloquées : %d / %d"
+
+    # game/screens.rpy:1081
+    old "Version "
+    new "Version "
+
+    # game/screens.rpy:1081
+    old "[config.version!t]\n"
+    new "[config.version!t]\n"
+
+    # game/screens.rpy:1087
+    old "Translations"
+    new "Traductions"
+
+    # game/screens.rpy:1090
+    old "Music"
+    new "Musique"
+
+    # game/screens.rpy:1109
+    old "{a=[track[website]]}[track[website]]{/a}"
+    new "{a=[track[website]]}[track[website]]{/a}"
+
+    # game/screens.rpy:1110
+    old "License: "
+    new "Licence : "
+
+    # game/screens.rpy:1110
+    old "{a=[track[license_url]]}[track[license]]{/a}"
+    new "{a=[track[license_url]]}[track[license]]{/a}"
 
     # game/screens.rpy:1112
     old "Website: "
-    new ""
+    new "Site web : "
 
     # game/screens.rpy:1112
     old "{a=[track[composer_website]]}[track[composer_website]]{/a}"
-    new ""
+    new "{a=[track[composer_website]]}[track[composer_website]]{/a}"
+
+    # game/screens.rpy:1116
+    old "{size=-8}Uses portions of the {a=https://github.com/jsfehler/renpy-encyclopaedia}Encyclopaedia Framework for Ren'Py{/a} by jsfehler"
+    new "{size=-8}Utilise des parties du cadre {a=https://github.com/jsfehler/renpy-encyclopaedia}Encyclopaedia pour Ren'Py{/a} par jsfehler."
+
+    # game/screens.rpy:1117
+    old "{size=-8}Ashtar Flying Disk, Federation Interceptor HN48, Endor Battlecruiser, Sky Ranger Dominator, Titan Class II Cargo Ship, Wraith Raider Starship, Eagle 5 Transport models created by {a=https://www.renderosity.com/?uid=767619}sevein/Herminio Nieves{/a}"
+    new "{size=-8}Ashtar Flying Disk, Federation Interceptor HN48, Endor Battlecruiser, Sky Ranger Dominator, Titan Class II Cargo Ship, Wraith Raider Starship, Eagle 5 Transport models created by {a=https://www.renderosity.com/?uid=767619}sevein/Herminio Nieves{/a}"
+
+    # game/screens.rpy:1118
+    old "{size=-8}Crucero Space Army and Space Gate models created by {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}"
+    new "{size=-8}Modèles Crucero Space Army et Space Gate créés par {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}"
+
+    # game/screens.rpy:1119
+    old "{size=-8}Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+    new "{size=-8}Réalisé avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+
+    # game/screens.rpy:1193
+    old "Jump to page: "
+    new "Aller à la page : "
+
+    # game/screens.rpy:1334
+    old "Please name your save:"
+    new "Veuillez donner un nom à votre sauvegarde :"
+
+    # game/screens.rpy:1351
+    old "Save game"
+    new "Sauvegarde du jeu"
+
+    # game/screens.rpy:1385
+    old "Player Names"
+    new "Nom du joueur"
+
+    # game/screens.rpy:1399
+    old "Rollback Side"
+    new "Côté Retour"
+
+    # game/screens.rpy:1401
+    old "Left"
+    new "Gauche"
+
+    # game/screens.rpy:1402
+    old "Right"
+    new "Droite"
+
+    # game/screens.rpy:1409
+    old "Transitions"
+    new "Transitions"
+
+    # game/screens.rpy:1417
+    old "English"
+    new "Anglais"
 
     # game/screens.rpy:1418
     old "Italian"
-    new ""
+    new "Italien"
+
+    # game/screens.rpy:1419
+    old "Polish (partial)"
+    new "Polonais (partiel)"
+
+    # game/screens.rpy:1420
+    old "Portuguese"
+    new "Portugais"
 
     # game/screens.rpy:1421
     old "Russian"
-    new ""
+    new "Russe"
 
     # game/screens.rpy:1422
     old "Spanish"
-    new ""
+    new "Espagnol"
 
     # game/screens.rpy:1423
     old "Turkish"
-    new ""
+    new "Turc"
+
+    # game/screens.rpy:1430
+    old "Notifications"
+    new "Notifications"
+
+    # game/screens.rpy:1431
+    old "Show"
+    new "Montrer"
+
+    # game/screens.rpy:1432
+    old "Hide"
+    new "Cacher"
+
+    # game/screens.rpy:1437
+    old "Incest"
+    new "Inceste"
+
+    # game/screens.rpy:1450
+    old "Show Portraits"
+    new "Afficher les portraits"
+
+    # game/screens.rpy:1462
+    old "Dialog Box Visibility"
+    new "Visibilité de la boîte de dialogue"
+
+    # game/screens.rpy:1759
+    old "Shows the relationships screen"
+    new "Affiche l'écran des relations"
+
+    # game/screens.rpy:1763
+    old "Shows the codex"
+    new "Affiche le codex"
+
+    # game/screens.rpy:1781
+    old "Mouse Wheel Up\nClick Rollback Side"
+    new "Molette de la souris vers le haut\nCliquez sur le côté de retour en arrière"
+# TODO: Translation updated at 2024-08-30 22:28
+
+translate french strings:
+
+    # game/screens.rpy:1386
+    old "Name: "
+    new "Prénom : "
+
+    # game/screens.rpy:1387
+    old "Nickname: "
+    new "Surnom : "
+
+    # game/screens.rpy:1386
+    old "Change name"
+    new "Changer de prénom"
+
+    # game/screens.rpy:1387
+    old "Change nickname"
+    new "Changer de surnom"
+
+    # game/screens.rpy:817
+    old "Relationship: %s"
+    new "Relation : %s"
+
+    # game/screens.rpy:819
+    old "Pregnant: %s"
+    new "Enceinte : %s"
+
+    # game/screens.rpy:1416
+    old "Language"
+    new "Langue"
+
+    # game/screens.rpy:1417
+    old "Chinese (Simplified)"
+    new "Chinese (Simplified)"
+
+    # game/screens.rpy:1418
+    old "Chinese (Traditional)"
+    new "Chinese (Traditional)"
 

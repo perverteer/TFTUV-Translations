@@ -1,14 +1,14 @@
-# TODO: Translation updated at 2022-03-25 15:14
+﻿# TODO: Translation updated at 2024-08-24 15:49
 
 translate french strings:
 
     # game/scenes.rpy:3
     old "Extra Scenes"
-    new "Extra scènes"
+    new "Scènes supplémentaires"
 
     # game/scenes.rpy:3
     old "Hands on with Céline"
-    new "Jeu de main avec Céline"
+    new "Les mains en l'air avec Céline"
 
     # game/scenes.rpy:3
     old "Shower with Jade"
@@ -20,23 +20,23 @@ translate french strings:
 
     # game/scenes.rpy:3
     old "Lesbian Fun on Verdant Station #1"
-    new "Jeu lesbien à la Station Verdant #1"
+    new "Plaisir lesbien sur Verdant Station #1"
 
     # game/scenes.rpy:3
     old "Lesbian Fun on Verdant Station #2"
-    new "Jeu lesbien à la Station Verdant #2"
+    new "Plaisir lesbien sur Verdant Station #2"
 
     # game/scenes.rpy:3
     old "Quickie #1"
-    new "Quickie #1"
+    new "Coup rapide #1"
 
     # game/scenes.rpy:3
     old "Quickie #2"
-    new "Quickie #2"
+    new "Coup rapide #2"
 
     # game/scenes.rpy:3
     old "Twi'll Throat"
-    new "Gorge profonde Tw'ill"
+    new "Gorge de Twi'll"
 
     # game/scenes.rpy:3
     old "Lesbian Fountains"
@@ -44,23 +44,23 @@ translate french strings:
 
     # game/scenes.rpy:3
     old "A wet lesson"
-    new "Une leçon bien humide"
+    new "Une leçon humide"
 
     # game/scenes.rpy:3
     old "Master & Commander"
-    new "Maître et Commandant"
+    new "Maître et Commandante"
 
     # game/scenes.rpy:3
     old "Let it go"
-    new "Laisser aller"
+    new "Laisse-toi aller"
 
     # game/scenes.rpy:3
     old "O Captain! My Captain!"
-    new "O capitaine, mon capitaine!"
+    new "Ô Capitaine ! Mon capitaine !"
 
     # game/scenes.rpy:3
     old "Shiny!"
-    new "Brillant!"
+    new "Brillant !"
 
     # game/scenes.rpy:3
     old "Better Together"
@@ -68,35 +68,31 @@ translate french strings:
 
     # game/scenes.rpy:3
     old "The Cave Sucks"
-    new "Les grottes, c'est les boules"
+    new "La grotte, c'est nul"
 
     # game/scenes.rpy:3
     old "Groovin' in the grove"
-    new "Se trémousser dans les bois."
+    new "Groove dans le bosquet"
 
     # game/scenes.rpy:3
     old "Riding the tower"
-    new "Grimper les tours"
+    new "Monte sur la tour"
 
     # game/scenes.rpy:3
     old "To her bosom"
-    new "Vers sa poitrine"
+    new "Jusqu'à son sein"
 
     # game/scenes.rpy:3
     old "It's a kind of magic"
-    new "C'est une sorte de magique"
+    new "C'est une sorte de magie"
 
     # game/scenes.rpy:3
     old "Squat Commander"
-    new "Maître des squats"
-
-    # game/scenes.rpy:3
-    old "Priestly Duties"
-    new "Devoirs sacerdotaux"
+    new "Squat Commander"
 
     # game/scenes.rpy:3
     old "Water Wrestling"
-    new "Lutte aquatique"
+    new "Lutte pour l'eau"
 
     # game/scenes.rpy:3
     old "Fertile Garden"
@@ -104,27 +100,27 @@ translate french strings:
 
     # game/scenes.rpy:3
     old "Licking Lilly"
-    new "Cunni Lilly"
+    new "Lèche Lilly"
 
     # game/scenes.rpy:3
     old "One out of three"
-    new "Une des trois"
+    new "Un sur trois"
 
     # game/scenes.rpy:3
     old "Episode #1"
-    new "Episode #1"
+    new "Épisode #1"
 
     # game/scenes.rpy:3
     old "Sleeping with Céline"
-    new "Au lit avec Céline"
+    new "Dormir avec Céline"
 
     # game/scenes.rpy:3
     old "Jade's handjob"
-    new "Le coup de main de Jade"
+    new "La branlette de Jade"
 
     # game/scenes.rpy:3
     old "Episode #2"
-    new "Episode #2"
+    new "Épisode #2"
 
     # game/scenes.rpy:3
     old "A sweet deal with Thyia"
@@ -132,7 +128,7 @@ translate french strings:
 
     # game/scenes.rpy:3
     old "R'o Orgy"
-    new "Orgie R'o"
+    new "Orgie de R'o"
 
     # game/scenes.rpy:3
     old "Dreaming with Céline"
@@ -144,19 +140,19 @@ translate french strings:
 
     # game/scenes.rpy:3
     old "Episode #3"
-    new "Episode #3"
+    new "Épisode #3"
 
     # game/scenes.rpy:3
     old "Party at Verdant Station"
-    new "Fiesta à la station Verdant"
+    new "Fête sur Verdant Station"
 
     # game/scenes.rpy:3
     old "Threesome with Leda and Berit (Soft)"
-    new "Partie à trois avec Leda et Berit (soft)"
+    new "Ménage à trois avec Leda et Berit (doux)"
 
     # game/scenes.rpy:3
     old "Threesome with Leda and Berit (Hard)"
-    new "Partie à trois avec Leda et Berit (Hard)"
+    new "Ménage à trois avec Leda et Berit (dur)"
 
     # game/scenes.rpy:3
     old "Fucking Leda"
@@ -168,7 +164,7 @@ translate french strings:
 
     # game/scenes.rpy:3
     old "Episode #4"
-    new "Episode #4"
+    new "Épisode #4"
 
     # game/scenes.rpy:3
     old "Licking Luzane"
@@ -176,7 +172,7 @@ translate french strings:
 
     # game/scenes.rpy:3
     old "Blowing Luzane"
-    new "SAuter Luzane"
+    new "Souffler Luzane"
 
     # game/scenes.rpy:3
     old "Hello Hannah"
@@ -184,19 +180,19 @@ translate french strings:
 
     # game/scenes.rpy:3
     old "Jade Anal (Soft)"
-    new "Jade anal (soft)"
+    new "Jade Anal (doux)"
 
     # game/scenes.rpy:3
     old "Jade Anal (Hard)"
-    new "Jade anal (Hard)"
+    new "Jade Anal (dur)"
 
     # game/scenes.rpy:3
     old "Episode #5"
-    new "Episode #5"
+    new "Épisode #5"
 
     # game/scenes.rpy:3
     old "Footsie Céline"
-    new "Jeu de pieds avec Céline "
+    new "Footsie Céline"
 
     # game/scenes.rpy:3
     old "Sex Workshop"
@@ -204,23 +200,23 @@ translate french strings:
 
     # game/scenes.rpy:3
     old "Lesbian Mechanics"
-    new "Mecano lesbienne"
+    new "Mécanique lesbienne"
 
     # game/scenes.rpy:3
     old "Kualtha Juicing"
-    new "Le jus de Kualta"
+    new "Kualtha Juicing"
 
     # game/scenes.rpy:3
     old "Breed! Breed! Breed!"
-    new "Reproduction! Reproduction! Reproduction!"
+    new "Breed ! Breed ! Élevée !"
 
     # game/scenes.rpy:3
     old "Foursome on the bridge"
-    new "Partie à quatre sur le pont"
+    new "Quatuor sur le pont"
 
     # game/scenes.rpy:3
     old "Episode #6"
-    new "Episode #6!"
+    new "Épisode #6"
 
     # game/scenes.rpy:3
     old "Discipline #1"
@@ -236,23 +232,23 @@ translate french strings:
 
     # game/scenes.rpy:3
     old "Showerly Lust"
-    new "Douche de la luxure "
+    new "La luxure sous la douche"
 
     # game/scenes.rpy:3
     old "Thorough Examination"
-    new "Exmen approfondi"
+    new "Examen approfondi"
 
     # game/scenes.rpy:3
     old "Episode #7"
-    new "Episode #7"
+    new "Épisode #7"
 
     # game/scenes.rpy:3
     old "Scrambled Eggs"
-    new "Les oeufs brouillés"
+    new "Œufs brouillés"
 
     # game/scenes.rpy:3
     old "The Rub"
-    new "Frottis"
+    new "Le frottement"
 
     # game/scenes.rpy:3
     old "A welcome distraction"
@@ -264,31 +260,31 @@ translate french strings:
 
     # game/scenes.rpy:3
     old "Episode #8"
-    new "Episode #8"
+    new "Épisode #8"
 
     # game/scenes.rpy:3
     old "Inside Aven"
-    new ""
+    new "A l'intérieur d'Aven"
 
     # game/scenes.rpy:3
     old "Bath Time"
-    new "À l'heure du bain"
+    new "L'heure du bain"
 
     # game/scenes.rpy:3
     old "Acarhyn Action"
-    new "Action Acarhyn"
+    new "Acarhyn Action"
 
     # game/scenes.rpy:3
     old "Episode #9"
-    new "Episode #9"
+    new "Épisode #9"
 
     # game/scenes.rpy:3
     old "Lilly's Grind"
-    new "Lilly va et vient"
+    new "Lilly's Grind"
 
     # game/scenes.rpy:3
     old "Washing Up"
-    new "Lave-vaisselle"
+    new "Laver"
 
     # game/scenes.rpy:3
     old "Speleology"
@@ -296,11 +292,11 @@ translate french strings:
 
     # game/scenes.rpy:3
     old "Episode #10"
-    new "Episode #10"
+    new "Épisode #10"
 
     # game/scenes.rpy:3
     old "Rooftop Rumba"
-    new "Rooftop Rumba"
+    new "Rumba sur le toit"
 
     # game/scenes.rpy:3
     old "Religious Instruction"
@@ -312,47 +308,47 @@ translate french strings:
 
     # game/scenes.rpy:3
     old "Rhenkoy Companionship"
-    new "Compagnie Rhenkoy"
+    new "Compagnonnage avec Rhenkoy"
 
     # game/scenes.rpy:3
     old "Boffing Botany"
-    new "Baise et botanique"
+    new "Boffing Botanique"
 
     # game/scenes.rpy:3
     old "Episode #11"
-    new "Episode #11"
+    new "Épisode #11"
 
     # game/scenes.rpy:3
     old "Orgy-porgy"
-    new "Orgie de pagre"
+    new "Orgie-portique"
 
     # game/scenes.rpy:3
     old "Jumping on Jade"
-    new "La réprimande de Jade"
+    new "Sauter sur Jade"
 
     # game/scenes.rpy:3
     old "Jiggering Jade"
-    new "Le tripotage de JAde"
+    new "Jiggering Jade"
 
     # game/scenes.rpy:3
     old "Pick a Lilly"
-    new "Prends une Lilly"
+    new "Choisis une Lilly"
 
     # game/scenes.rpy:3
     old "Episode #12"
-    new "Episode #12"
+    new "Épisode #12"
 
     # game/scenes.rpy:3
     old "Beach Offensive"
-    new "Offensive de la plage"
+    new "Offensive sur la plage"
 
     # game/scenes.rpy:3
     old "Up Her Alley"
-    new "Droit dans son passage"
+    new "Dans son allée"
 
     # game/scenes.rpy:3
     old "Popping that Popstar"
-    new "Tringler cette popstar"
+    new "La Popstar"
 
     # game/scenes.rpy:3
     old "Lilly's Farewell"
@@ -360,25 +356,24 @@ translate french strings:
 
     # game/scenes.rpy:3
     old "Sampling the wares"
-    new "Tester la marchandise"
+    new "Dégustation de produits"
 
     # game/scenes.rpy:3
     old "Sampling the all of the wares"
-    new "Tester toute la marchandise"
+    new "L'échantillonnage de toutes les marchandises"
 
     # game/scenes.rpy:3
     old "Shuttlecock"
-    new "Volant"
+    new "Shuttlecock"
 
     # game/scenes.rpy:3
     old "Clogging the drain"
-    new "Boucher les conduits"
+    new "Boucher les canalisations"
 
     # game/scenes.rpy:3
     old "Fun on Kepler XIV"
-    new "Plaisir sur Kepler XIV"
+    new "S'amuser sur Kepler XIV"
 
     # game/scenes.rpy:3
     old "Bunk Bonanza"
-    new "Le jackpot de la couchette"
-
+    new "Bonheur de la couchette"

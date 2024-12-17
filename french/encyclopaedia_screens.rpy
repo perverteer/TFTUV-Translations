@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-03-25 15:14
+﻿# TODO: Translation updated at 2024-08-24 15:49
 
 translate french strings:
 
@@ -8,9 +8,29 @@ translate french strings:
 
     # game/encyclopaedia_screens.rpy:119
     old "All"
-    new "Tout"
+    new "Tous"
 
     # game/encyclopaedia_screens.rpy:158
     old "Codex: {0}"
-    new "Codex: {0}"
+    new "Codex : {0}"
+
+    # game/encyclopaedia_screens.rpy:171
+    old "Previous Entry"
+    new "Entrée précédente"
+
+    # game/encyclopaedia_screens.rpy:172
+    old "Next Entry"
+    new "Entrée suivante"
+
+    # game/encyclopaedia_screens.rpy:232
+    old "Previous Page"
+    new "Page précédente"
+
+    # game/encyclopaedia_screens.rpy:237
+    old "Next Page"
+    new "Page suivante"
+
+    # game/encyclopaedia_screens.rpy:251
+    old "Close Entry"
+    new "Fermer l'entrée"
 

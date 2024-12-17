@@ -14202,5 +14202,5 @@ translate german ep005_doarn_finger_03374062:
 translate german ep005_thim_c5f9a2ed:
 
     # c "I just thought you were happy with that guaranteed officer title waiting on you after graduation."
-    c ""
+    c "Ich dachte nur, dass du mit dem garantierten Offizierstitel, der nach deinem Abschluss auf dich wartet, zufrieden bist."
 

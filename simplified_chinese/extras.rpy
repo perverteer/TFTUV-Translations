@@ -7354,3 +7354,11 @@ translate simplified_chinese strings:
     old "Siora"
     new ""
 
+# TODO: Translation updated at 2024-12-10 09:41
+
+# game/extras.rpy:1624
+translate simplified_chinese extra_scene_22_95509110:
+
+    # "The commander swallowed everything and turned her attention back to me."
+    ""
+

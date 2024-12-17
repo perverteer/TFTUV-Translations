@@ -4,13 +4,13 @@ translate simplified_chinese strings:
 
     # game/encyclopaedia_screens.rpy:113
     old "Filters"
-    new ""
+    new "过滤器"
 
     # game/encyclopaedia_screens.rpy:119
     old "All"
-    new ""
+    new "全部"
 
     # game/encyclopaedia_screens.rpy:158
     old "Codex: {0}"
-    new ""
+    new "法典：{0}"
 

@@ -6156,3 +6156,47 @@ translate simplified_chinese strings:
     old "Hannah is a translator in the employ of the Tubloshi and acted as a guide on their warship when [p_name] and Ziv brought the body of the warrior Kyl Tavort back home."
     new ""
 
+# TODO: Translation updated at 2024-12-10 09:41
+
+# game/episode004.rpy:417
+translate simplified_chinese episode004_0bd52634:
+
+    # ka "I hope this message gets to you, because they’re finally coming for me."
+    ka ""
+
+# game/episode004.rpy:418
+translate simplified_chinese episode004_b6ce8f11:
+
+    # ka "I don’t know who it is, but they’re nearly through the security doors."
+    ka ""
+
+# game/episode004.rpy:419
+translate simplified_chinese episode004_00e8fd50:
+
+    # ka "Maybe it has something to do with you, or maybe it’s just my time."
+    ka ""
+
+# game/episode004.rpy:420
+translate simplified_chinese episode004_6c563974:
+
+    # ka "It doesn’t matter now."
+    ka ""
+
+# game/episode004.rpy:421
+translate simplified_chinese episode004_b6455126:
+
+    # ka "The warrior women you’re searching for are the Acarhyn, product of an illicit genetics experiment."
+    ka ""
+
+# game/episode004.rpy:422
+translate simplified_chinese episode004_d707f2f6:
+
+    # ka "The location of their home planet is unknown, but Ranimo Cetruvar probably knows."
+    ka ""
+
+# game/episode004.rpy:423
+translate simplified_chinese episode004_b4e97370:
+
+    # ka "Nadya, you’ve been a loyal friend, I-"
+    ka ""
+

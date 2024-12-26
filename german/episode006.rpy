@@ -10,7 +10,7 @@ translate german episode006_27ffb2c4:
 translate german episode006_a0a1b2e0:
 
     # co "Where's the boy now?"
-    co "Wo ist mein Junge jetzt?"
+    co "Wo ist der Junge jetzt?"
 
 # game/episode006.rpy:61
 translate german episode006_195869c0:
@@ -2116,1891 +2116,1891 @@ translate german episode006_cb0e5944:
 translate german episode006_b8bd3301:
 
     # l "Why don't we try and get some sleep."
-    l ""
+    l "Warum versuchen wir nicht ein wenig zu schlafen?"
 
 # game/episode006.rpy:616
 translate german episode006_5ad570ac:
 
     # c "Sounds like a good idea."
-    c ""
+    c "Hört sich gut an."
 
 # game/episode006.rpy:618
 translate german episode006_d5d97710_1:
 
     # l "Good night, [p_name]."
-    l ""
+    l "Gute nacht, [p_name]."
 
 # game/episode006.rpy:619
 translate german episode006_9fcead47_1:
 
     # c "Good night, Lilly."
-    c ""
+    c "Gute nacht, Lilly"
 
 # game/episode006.rpy:624
 translate german episode006_ccd3fb46:
 
     # "The lights dimmed automatically and Lilly's breathing became very regular after just a few minutes."
-    ""
+    "Die Lichter wurden automatisch dunkler und Lilly's Atmung wurde nach ein paar Minuten sehr gleichmaßig."
 
 # game/episode006.rpy:625
 translate german episode006_908edb12:
 
     # "I had more trouble falling asleep, mulling over what we just talked about."
-    ""
+    "Ich hatte mehr Probleme einzuschlafen, da ich über unser gespräch nachdenken musste."
 
 # game/episode006.rpy:627
 translate german episode006_6466ad86:
 
     # "I was also acutely aware of the nearness of her body, feeling so comfortable against my own."
-    ""
+    "Mir war ebenfalls sehr bewusst wie nah sie mir war, ihr Körper an meinen, es fühlte sich gut an."
 
 # game/episode006.rpy:629
 translate german episode006_8e04cb0e:
 
     # "I was also acutely aware of the nearness of her body, our hands almost touching."
-    ""
+    "Mir was ebenfalls bewusst wie nah sie mir war, so nah das unsere hände sich fast berührten."
 
 # game/episode006.rpy:631
 translate german episode006_080fbe73:
 
     # "Once I concentrated on her measured breathing I managed to fall asleep as well."
-    ""
+    "Als ich mich auf ihrer gleichmäßige atmung konzentrierte, schaffte auch ich es einzuschlafen."
 
 # game/episode006.rpy:633
 translate german episode006_14fe1284:
 
     # "In pitch blackness I woke up to screams."
-    ""
+    "In kompletter dunkelheit wurde ich durch schreie geweckt."
 
 # game/episode006.rpy:635
 translate german episode006_b94fa7e0:
 
     # "It was Lilly."
-    ""
+    "Es war Lilly."
 
 # game/episode006.rpy:636
 translate german episode006_c4b7d39a:
 
     # "She was half-awake and sounded absolutely terrified."
-    ""
+    "Sie war nur halb wach und klang sehr verängstigt."
 
 # game/episode006.rpy:641
 translate german episode006_7813d160:
 
     # "As the ceiling light went on again, I reached for her and she gave herself over to my embrace, her last screams dying against my chest."
-    ""
+    "Als das Decken licht wieder anging, griff ich nach ihr und sie fiel in meine Arme, ihre letzten schreie dumpf an meiner brust zu hören."
 
 # game/episode006.rpy:643
 translate german episode006_13152091:
 
     # "Lilly sobbed and trembled, now fully awake, but still unable to speak."
-    ""
+    "Lilly schluchzte und zitterte, jetzt völlig wach, aber immer noch nicht in der Lage zu sprechen."
 
 # game/episode006.rpy:644
 translate german episode006_f81bc802:
 
     # c "Don't be afraid, I'm here for you."
-    c ""
+    c "Hab keine Angst ich bin bei dir."
 
 # game/episode006.rpy:645
 translate german episode006_341cd9c2:
 
     # c "There's nothing to be afraid of."
-    c ""
+    c "Es gibt nichts wovor du Angst haben musst."
 
 # game/episode006.rpy:646
 translate german episode006_b332cbed:
 
     # "It took quite a while for the trembling subside and her breathing to steady."
-    ""
+    "Es dauerte eine ganze Weile, bis das Zittern nachließ und sich ihre Atmung beruhigte."
 
 # game/episode006.rpy:648
 translate german episode006_cbd60b69:
 
     # l "I saw it again, [p_name]."
-    l ""
+    l "Ich hab es wieder gesehen, [p_name]. "
 
 # game/episode006.rpy:649
 translate german episode006_13b17528:
 
     # l "The house.{w} The buzzing..."
-    l ""
+    l "Das Haus.{w} Die Vibrationen..."
 
 # game/episode006.rpy:650
 translate german episode006_95f514ee:
 
     # l "I don't want to go to sleep again."
-    l ""
+    l "Ich will nicht wieder einschlafen."
 
 # game/episode006.rpy:652
 translate german episode006_7114a1e4:
 
     # l "I'm so afraid."
-    l ""
+    l "Ich hab solche Angst."
 
 # game/episode006.rpy:653
 translate german episode006_c15e72d0:
 
     # "My words failing me, I stroked her hair and just held her."
-    ""
+    "Ich wusste nicht was ich sagen sollte, streichelte ihrer Haare und hielt sie einfach fest in meinem arm."
 
 # game/episode006.rpy:655
 translate german episode006_98ece2d1:
 
     # "Lilly looked up to me, her eyes reflecting a whole range of conflicting emotions."
-    ""
+    "Lilly schaute zu mir auf, ihrer augen reflektierten eine große menge an in konflikt stehenden Emotionen."
 
 # game/episode006.rpy:662
 translate german episode006_2b18b476:
 
     # "My lips reached for hers and we kissed."
-    ""
+    "Meine Lippen fühlten sich zu ihren hingezogen und wir küssten uns."
 
 # game/episode006.rpy:663
 translate german episode006_0f7fe8e5:
 
     # "We were careful at first, as if afraid one of us would pull away."
-    ""
+    "Wir waren erst sehr vorsichtig, als könnte der andere sich jeden Moment zurück ziehen."
 
 # game/episode006.rpy:664
 translate german episode006_2219664f:
 
     # "When none of that happened, any reluctance dissolved in an instant."
-    ""
+    "Als nichts davon geschah, verflüchtigten sich jegliche Zweifel augenblicklich."
 
 # game/episode006.rpy:666
 translate german episode006_75472daf:
 
     # "Drawing in the smell of her hair, feeling the firmness of her body against mine, I kissed her over and over."
-    ""
+    "Ich atmete den Duft ihrer Haare ein, spürte die Festigkeit ihres Körpers an meinem und küsste sie immer wieder."
 
 # game/episode006.rpy:667
 translate german episode006_c0b3af0b:
 
     # "Her hands touched me all over my chest, pulling at me, as if wanting me ever closer."
-    ""
+    "Ihre Hände auf meiner brust, an mir ziehend als würde sie mich noch näher haben wollen."
 
 # game/episode006.rpy:668
 translate german episode006_64c5112a:
 
     # "The desire to touch her, to meld together even, was overpowering, but at the same time another feeling struck me, for the first time, everything made perfect sense."
-    ""
+    "Das verlangen sie zu berühren zusammen zu verschmelzen war überwältigend aber zu gleich schlug ein anderes gefühl ein, zum ersten mal, machte alles einen sinn."
 
 # game/episode006.rpy:669
 translate german episode006_3e02de42:
 
     # "Lilly was mine and I was hers."
-    ""
+    "Lilly war meins und ich war ihrs."
 
 # game/episode006.rpy:671
 translate german episode006_e61ac966:
 
     # "She gasped when I cupped one of her breasts in my hand, but made no attempt to stop me."
-    ""
+    "Sie keuchte als eine ihrer Brüste in die hand nahm aber machte keinen Versuch mich daran zu hindern."
 
 # game/episode006.rpy:672
 translate german episode006_156ed934:
 
     # "Almost regretting it, I parted my lips from hers and moved slowly downwards."
-    ""
+    "Als ich es fast bereute, trennten sich unser Lippen und ich bewegte mich langsam nach unten."
 
 # game/episode006.rpy:674
 translate german episode006_5b425e1f:
 
     # "She arched her back to allow me to brush her soft skin with my lips."
-    ""
+    "Sie beugte sich nach hinten offenbarte ihren Körper den ich küssend hinunterging."
 
 # game/episode006.rpy:675
 translate german episode006_551f028c:
 
     # "I could feel her heart beating heavily as my caresses took her breath away."
-    ""
+    "Ich konnte ihr Herz schnell und kräftig schlagen hören als meine Berührungen ihr den Atem raubten."
 
 # game/episode006.rpy:678
 translate german episode006_53c48ca2:
 
     # "I kept holding and lay down with her again, her head resting on my chest."
-    ""
+    "Ich hielt sie weiter fest und legte mich wieder zu ihr, ihr Kopf ruhte auf meiner Brust."
 
 # game/episode006.rpy:679
 translate german episode006_b30c6515:
 
     # "Despite her fear, she couldn't fight the sleep and after a long time her eyelids became heavy again."
-    ""
+    "Trotz ihrer Angst, konnte sie kaum wach bleiben und nach kurzer wurden ihre Augenlieder wieder schwer."
 
 # game/episode006.rpy:681
 translate german episode006_671de09d:
 
     # "She fell asleep on my chest and I followed soon after."
-    ""
+    "Sie schlief auf meiner Brust liegend ein, ich folgte ihr kurz darauf."
 
 # game/episode006.rpy:683
 translate german episode006_4256d248:
 
     # "I thought it was better not to disturb her, maybe scaring her even more."
-    ""
+    "Ich dachte, es wäre besser, sie nicht zu stören, was ihr vielleicht noch mehr Angst einjagte."
 
 # game/episode006.rpy:685
 translate german episode006_fe03c3de:
 
     # "The screaming subsided quickly and Lilly fell asleep with a whimper."
-    ""
+    "Die Schreie verstummten schnell und Lilly schlief mit einen Wimmern wieder ein."
 
 # game/episode006.rpy:689
 translate german episode006_de0f8064:
 
     # "Suddenly the lights went on."
-    ""
+    "Plötzlich gingen die Lichter an."
 
 # game/episode006.rpy:692
 translate german episode006_1e4f4100:
 
     # "We practically jumped up in shock, standing on both sides of the bed."
-    ""
+    "Wir sprangen quasi auf vor schreck, stehen auf beiden seiten des Bettes."
 
 # game/episode006.rpy:695
 translate german episode006_481cd52d:
 
     # "We were both awake in an instant."
-    ""
+    "Wir waren beide sofort wach"
 
 # game/episode006.rpy:696
 translate german episode006_fcddab0e:
 
     # "Four guards came in and walked towards us."
-    ""
+    "Vier Wachen kamen herein und gingen auf uns zu."
 
 # game/episode006.rpy:698
 translate german episode006_5eea9806:
 
     # l "Leave us alone!"
-    l ""
+    l "Lasst uns in ruhe!"
 
 # game/episode006.rpy:699
 translate german episode006_79231d8f:
 
     # c "Get your fucking hands off her."
-    c ""
+    c "Nehm eure verfickten hände von ihr."
 
 # game/episode006.rpy:701
 translate german episode006_ebf2ccc5:
 
     # "The guards didn't understand us or clearly didn't care and grabbed us both."
-    ""
+    "Die Wachen verstanden uns nicht oder es interessierte sie einfach nicht und sie griffen uns beide."
 
 # game/episode006.rpy:702
 translate german episode006_ff6b6855:
 
     # "We were hauled outside and I fully expected them to take me to the room with the chair again."
-    ""
+    "Sie zogen uns nach draußen und ich rechnete voll damit das sie mich wieder in den Raum mit dem Stuhl bringen würden."
 
 # game/episode006.rpy:704
 translate german episode006_440161aa:
 
     # "Instead the two guards holding me followed their colleagues who had Lilly and together we went into a different direction."
-    ""
+    "Stattdessen folgten die beiden Wärter, die mich festhielten, ihren Kollegen, die Lilly festhielten, und gemeinsam gingen wir in eine andere Richtung."
 
 # game/episode006.rpy:705
 translate german episode006_d72629ce:
 
     # l "Where are you taking us?"
-    l ""
+    l "Wo bringt ihr uns hin?"
 
 # game/episode006.rpy:706
 translate german episode006_8f53ac6e:
 
     # "The dread in Lilly's voice was palpable and a powerful hatred took root inside of me."
-    ""
+    "Die Angst in Lillys Stimme war spürbar und ein mächtiger Hass breitete sich in mir aus."
 
 # game/episode006.rpy:707
 translate german episode006_8f52c203:
 
     # "I wanted to lash out at the people who'd done those things to her, treating us like lab animals to be experimented upon."
-    ""
+    "Ich wollte auf die Leute losgehen, die ihr so ​​etwas angetan hatten, und uns wie Labortiere behandeln, an denen man experimentieren konnte."
 
 # game/episode006.rpy:709
 translate german episode006_fde45feb:
 
     # "The guards must have sensed my growing tension, because they held me tighter and shoved me in front of them."
-    ""
+    "Die Wärter mussten meine zunehmende Anspannung gespürt haben, denn sie hielten mich fester und schoben mich vor sich her."
 
 # game/episode006.rpy:711
 translate german episode006_e4ff3f65:
 
     # "We reached a door which opened automatically, giving way to another cell, much larger than ours."
-    ""
+    "Wir erreichten eine Tür die sich automatisch öffnete, dahinter wieder eine Zelle, diesmal viel größer als unsere."
 
 # game/episode006.rpy:716
 translate german episode006_e54caacb:
 
     # "Two women were sitting at a makeshift table together and looked very surprised to see us."
-    ""
+    "Zwei Frauen saßen zusammen an einem improvisierten Tisch und sahen verwundet auf als sie uns bemerkten."
 
 # game/episode006.rpy:717
 translate german episode006_b694e15e:
 
     # "We were pushed in and the door closed quickly behind us."
-    ""
+    "Wir wurden in die Zelle geschoben und die Tür schloss sich schnell hinter uns."
 
 # game/episode006.rpy:719
 translate german episode006_e1608d0d:
 
     # av "Great, roommates... now we have to share a bed."
-    av ""
+    av "Na toll, Mitbewohner... jetzt müssen wir uns ein Bett teilen."
 
 # game/episode006.rpy:721
 translate german episode006_aa5e5053:
 
     # na "Be a little more polite, Aven."
-    na ""
+    na "Sei ein bisschen netter, Aven."
 
 # game/episode006.rpy:723
 translate german episode006_ff9bed56:
 
     # av "You're not my mother, Nadya."
-    av ""
+    av "Du bist nicht meine mutter, Nadya."
 
 # game/episode006.rpy:724
 translate german episode006_f39fc7db:
 
     # na "Well, we don't know that for sure."
-    na ""
+    na "Nun das wissen wir nicht genau."
 
 # game/episode006.rpy:725
 translate german episode006_335bb05c:
 
     # na "My name is Nadya and this is Aven."
-    na ""
+    na "Mein Name ist Nadya und das ist Aven."
 
 # game/episode006.rpy:727
 translate german episode006_5aa2cfb0:
 
     # l "Pleased to meet you, I'm Lilly and this is [p_name]."
-    l ""
+    l "Freut mich euch kennen zu lernen, Ich bin Lilly und das ist [p_name]."
 
 # game/episode006.rpy:729
 translate german episode006_cd822385:
 
     # "Like first meeting Lilly, I was struck by something I couldn’t quite place."
-    ""
+    "Genau wie als ich Lilly das erste mal sah, Traf mich etwas das ich nicht richtig einordnen konnte."
 
 # game/episode006.rpy:730
 translate german episode006_fc1fabb3:
 
     # "A clouded memory so vague I had no choice to just dismiss it."
-    ""
+    "Eine verschleierte Erinnerung so vage ich hatte kein Wahl als es beseite zu schieben."
 
 # game/episode006.rpy:732
 translate german episode006_c86d59b5:
 
     # "I was distracted by the girl named Aven anyway, who’d sauntered over and took a good look at us both."
-    ""
+    "Ich wurde sowieso von dem Mädchen namens Aven abgelenkt, das herübergeschlendert war und uns beide genau ansah."
 
 # game/episode006.rpy:733
 translate german episode006_6905a079:
 
     # "She hid her surprise well when she looked at me, but for a split second a look of shock marred her face when she looked right into my eyes."
-    ""
+    "Sie verbarg ihre Überraschung gut, als sie mich ansah, aber für den Bruchteil einer Sekunde zeichnete sich ein schockierter Ausdruck auf ihrem Gesicht ab, als sie mir direkt in die Augen sah."
 
 # game/episode006.rpy:735
 translate german episode006_9ac59884:
 
     # "I didn’t know whether it was recognition or some other realization, but it sure was weird."
-    ""
+    "Ich wusste nicht, ob es eine art wiedererkennen oder eine andere Erkenntnis war, aber es war auf jeden Fall seltsam."
 
 # game/episode006.rpy:736
 translate german episode006_61c3208f:
 
     # "The woman named Nadya looked at us for a long time before speaking again."
-    ""
+    "Die Frau nahmens Nadya schaute uns lange an bevor sie wieder sprach."
 
 # game/episode006.rpy:738
 translate german episode006_2ad2a63b:
 
     # na "I trust you don't know how you got here as well?"
-    na ""
+    na "Ich gehe davon aus ihr wisst auch nicht wie ihr hierher gekommen seit."
 
 # game/episode006.rpy:739
 translate german episode006_13329d00:
 
     # c "Yes, we were in a similar cell together for a while."
-    c ""
+    c "Jap, wir waren eine Zeit lang zusammen in der selben Zelle."
 
 # game/episode006.rpy:740
 translate german episode006_1f27292d:
 
     # c "Do they take you out for tests as well?"
-    c ""
+    c "Nehmen sie euch auch mit zu irgendwelchen Tests?"
 
 # game/episode006.rpy:742
 translate german episode006_9b284407:
 
     # av "Tests?"
-    av ""
+    av "Tests?"
 
 # game/episode006.rpy:744
 translate german episode006_2b748d1c:
 
     # na "Maybe they’re doing the same to them as they do to you?"
-    na ""
+    na "Vielleicht machen sie das selbe mit ihnen wie mit dir?"
 
 # game/episode006.rpy:745
 translate german episode006_20e67fc0:
 
     # av "I’ve told you before, as soon as they bring me into that room I lose consciousness."
-    av ""
+    av "Ich habe es dir schonmal gesagt sobald ich in diesem raum bin verliere ich das bewusstsein."
 
 # game/episode006.rpy:746
 translate german episode006_77abd346:
 
     # na "Right, so you’ve told me."
-    na ""
+    na "Richtig, das hast du mir erzählt."
 
 # game/episode006.rpy:747
 translate german episode006_2fbcb783:
 
     # na "Aven has been taken three times since we woke up here together."
-    na ""
+    na "Aven wurde drei mal dort hin gebracht seit wir hier zusammen aufgewacht sind."
 
 # game/episode006.rpy:749
 translate german episode006_0b6e1102:
 
     # av "The only other time the door has opened is when they brought you in and when they shove food inside."
-    av ""
+    av "Das einzige andere Mal, dass die Tür geöffnet wurde, war, als man euch hereingebracht hat und Essen hineingeschoben wurde."
 
 # game/episode006.rpy:750
 translate german episode006_56f16e41:
 
     # "I somehow got the feeling the girl wasn’t telling everything, but as I wasn’t in a position to confront her I shelved the thought for later."
-    ""
+    "Irgendwie hatte ich das Gefühl, dass das Mädchen nicht alles erzählte, aber da ich nicht in der Lage war, sie zur Rede zu stellen, verschob ich den Gedanken für später."
 
 # game/episode006.rpy:751
 translate german episode006_aac49d71:
 
     # l "So you've been here all this time?"
-    l ""
+    l "Also ihr wart die ganze Zeit schon hier?"
 
 # game/episode006.rpy:752
 translate german episode006_ed03a1bd:
 
     # av "Yes, Nadya and I woke up together in this room."
-    av ""
+    av "Ja, Nadya und ich sind zusammen hier aufgewacht."
 
 # game/episode006.rpy:753
 translate german episode006_32e9c1a7:
 
     # av "Though we don't know how long it's been and why we are together."
-    av ""
+    av "Wir wissen aber nicht wie lange es her ist und warum wir hier zusammen untergebracht sind."
 
 # game/episode006.rpy:755
 translate german episode006_c5df20b1:
 
     # na "We'd just finished sleeping when you arrived."
-    na ""
+    na "Wir sind gerade erst aufgestanden als ihr hergebracht wurdet."
 
 # game/episode006.rpy:756
 translate german episode006_0b5c79d1:
 
     # na "But what tests do they run on you, or are you unconscious just like Aven?"
-    na ""
+    na "Aber was für Tests machen sie mit euch, oder seit ihr auch bewusstlos wie Aven?"
 
 # game/episode006.rpy:757
 translate german episode006_7a54fd51:
 
     # c "They make you see things, experience things."
-    c ""
+    c "Sie lassen dich dinge sehen, dinge erleben."
 
 # game/episode006.rpy:758
 translate german episode006_916a9062:
 
     # c "Scary stuff and some of it downright confusing."
-    c ""
+    c "Angsteinflößende dinge und manches geradezu verwirrend."
 
 # game/episode006.rpy:759
 translate german episode006_76bb3a4d:
 
     # na "Seems like the tests are different from person to person."
-    na ""
+    na "Sieht so aus als wären die Tests verschieden von person zu person."
 
 # game/episode006.rpy:761
 translate german episode006_cecba5ab:
 
     # av "All in all, it doesn't sound like a very nice break from all the boredom of being cooped up in here."
-    av ""
+    av "Alles in allem, hört es sich nicht besonders nach einer schönen abwechslung zu der langeweile hier eingeschlossen zu sein an."
 
 # game/episode006.rpy:762
 translate german episode006_ce48b451:
 
     # av "Anyway, I'd give you guys a guided tour of the place, but this is everything there is to see."
-    av ""
+    av "Wie auch immer, ich würde euch gerne eine Führung geben, aber das ist alles, was es zu sehen gibt."
 
 # game/episode006.rpy:763
 translate german episode006_77e279b3:
 
     # av "Also, you probably already know, but be careful what you say in here, they're likely monitoring us."
-    av ""
+    av "Ihr wisst es wahrscheinlich schon aber seit vorsichtig was ihr hier sagt sie überwachen uns wahrscheinlich."
 
 # game/episode006.rpy:764
 translate german episode006_9ddaeafe:
 
     # c "I'm quite sure of it."
-    c ""
+    c "Da bin ich mir sehr sicher."
 
 # game/episode006.rpy:765
 translate german episode006_2b4a11eb:
 
     # c "There are at least some automated systems in place which register our sleep and wake patterns."
-    c ""
+    c "Es gibt zumindest einige automatisierte Systeme, die unsere Schlaf- und Wachmuster registrieren."
 
 # game/episode006.rpy:767
 translate german episode006_0ee440d0:
 
     # na "It's more than just that, I'm afraid."
-    na ""
+    na "Es ist mehr als das fürchte ich."
 
 # game/episode006.rpy:768
 translate german episode006_1ca9f0fe:
 
     # na "There was an incident..."
-    na ""
+    na "Es gab da einen Zwischenfall..."
 
 # game/episode006.rpy:769
 translate german episode006_97bf16b8:
 
     # na "We just woke up here and discussed our options."
-    na ""
+    na "Wir waren gerade erst aufgewacht und haben unsere optionen durchgesprochen."
 
 # game/episode006.rpy:770
 translate german episode006_32e7685f:
 
     # na "Apparently, Aven was a little too proactive, because they came into the cell and beat her down."
-    na ""
+    na "Anscheinend war Aven ein wenig zu proaktiv, denn sie kamen rein und haben sie außer gefecht gesetzt."
 
 # game/episode006.rpy:771
 translate german episode006_b95ddeeb:
 
     # c "They beat you, Aven?"
-    c ""
+    c "Sie haben dich geschlagen, Aven?"
 
 # game/episode006.rpy:773
 translate german episode006_57045cfd:
 
     # av "That's too big a word, they just subdued me very effectively..."
-    av ""
+    av "Das wäre zu viel gesagt, sie haben mich einfach sehr efektiv unterworfen...  "
 
 # game/episode006.rpy:774
 translate german episode006_aeb93a38:
 
     # av "I guess they didn't like my investigation of the ceiling and cell door."
-    av ""
+    av "Sieht so aus als fanden sie meine Untersuchungen der Decke und der Tür nicht so gut."
 
 # game/episode006.rpy:775
 translate german episode006_914b44a4:
 
     # av "But it's pretty clear they know exactly what we're saying and doing in here."
-    av ""
+    av "Aber es ist zeimlich offensichtlich das das wissen was wir hier sagen und tun."
 
 # game/episode006.rpy:777
 translate german episode006_ff2c420b:
 
     # "We talked some more and made sleeping arrangements."
-    ""
+    "Wir unterhielten uns noch ein wenig und arrangierten Schlafgelegenheiten."
 
 # game/episode006.rpy:778
 translate german episode006_7921a520:
 
     # "Lilly and I were allowed on one bed, while Nadya and Aven would share the other."
-    ""
+    "Lilly und ich durften auf einem Bett schlafen, während Nadya und Aven das andere teilten."
 
 # game/episode006.rpy:782
 translate german episode006_d7966680:
 
     # "Despite the joy of having new people to talk to, I longed to be alone with Lilly again."
-    ""
+    "Trotz der Freude, neue Leute zum Reden zu haben, sehnte ich mich danach, wieder mit Lilly allein zu sein."
 
 # game/episode006.rpy:783
 translate german episode006_c4deb087:
 
     # "I desired her touch, wanted to hold her, tell her how beautiful she looked, even in her prison bodysuit."
-    ""
+    "Ich langte nach ihrer Berührung, wollte sie halten, ihr sagen, wie schön sie aussah, sogar in ihrem Gefängnisanzug."
 
 # game/episode006.rpy:785
 translate german episode006_2ae7f574:
 
     # "Lilly must have felt the same way, because she stayed close to me."
-    ""
+    "Lilly musste es genau so gehen denn sie blieb immer in meiner Nähe."
 
 # game/episode006.rpy:786
 translate german episode006_78dffd4c:
 
     # "At one point she touched my arm to get my attention, which had an electrifying effect on me."
-    ""
+    "Irgendwann berührte sie meinen Arm, um meine Aufmerksamkeit zu erregen, was eine elektrisierende Wirkung auf mich hatte."
 
 # game/episode006.rpy:788
 translate german episode006_2159a383:
 
     # "That's when I noticed Aven looking at us."
-    ""
+    "Das war der moment als ich Aven bemerkte wie sie uns ansah."
 
 # game/episode006.rpy:789
 translate german episode006_5b8454a5:
 
     # "I couldn't exactly place the look she wore on her face."
-    ""
+    "Ich konnte den blick den sie uns zuwarf nicht genau einordnen."
 
 # game/episode006.rpy:790
 translate german episode006_4ae25d4b:
 
     # "Was it envy, dismissal or just curiosity?"
-    ""
+    "War es Neid, Ablehnung oder einfach nur Neugier?"
 
 # game/episode006.rpy:792
 translate german episode006_b41fa3c4:
 
     # "She quickly recovered and struck up a conversation with Nadya and the moment passed."
-    ""
+    "Sie sammelte sich schnell wieder und begann ein Gespräch mit Nadya, und der Moment verging."
 
 # game/episode006.rpy:793
 translate german episode006_f912e15e:
 
     # "When we all ran out of stuff to talk about, we tried to pass the time in different ways."
-    ""
+    "Als uns die gesprächsthemen ausgingen, versuchten wir die Zeit anders rum zu kriegen."
 
 # game/episode006.rpy:795
 translate german episode006_cdd1b6a5:
 
     # "Nadya just stared in the distance, while Aven pulled off a series of quick pushups."
-    ""
+    "Nadya starrte ins Leere, während Aven ein paar Liegestützen machte."
 
 # game/episode006.rpy:796
 translate german episode006_29e19700:
 
     # "Lilly seemed a little lost since we were transferred to the new cell, like she didn’t know how to behave around these two new women."
-    ""
+    "Lilly wirkte ein wenig verloren, seit wir in die neue Zelle verlegt wurden, als wüsste sie nicht, wie sie sich diesen beiden neuen Frauen gegenüber verhalten sollte."
 
 # game/episode006.rpy:798
 translate german episode006_106839b5:
 
     # "She looked at me and I beckoned her."
-    ""
+    "Sie sah mich an und ich winkte ihr zu."
 
 # game/episode006.rpy:800
 translate german episode006_637e9773:
 
     # "After a moment’s hesitation she came and sat down next to me."
-    ""
+    "Nach kurzem Zögern kam sie und setzte sich neben mich."
 
 # game/episode006.rpy:802
 translate german episode006_970290a6:
 
     # "I pulled her closer and she allowed her head to rest on my shoulder."
-    ""
+    "Ich zog sie näher zu mir sodas sie ihren kopf auf meine Schulte legen konnte."
 
 # game/episode006.rpy:803
 translate german episode006_95636ff3:
 
     # c "How are you feeling?"
-    c ""
+    c "Wie fühlst du dich?"
 
 # game/episode006.rpy:804
 translate german episode006_8f10e609:
 
     # l "Fine, a little tired after last night."
-    l ""
+    l "Gut, ein bisschen müde nach der letzten Nacht."
 
 # game/episode006.rpy:805
 translate german episode006_e9d1b7b0:
 
     # c "What do you think of the new roommates?"
-    c ""
+    c "Was denkst du über unsere neuen Mitbewohner."
 
 # game/episode006.rpy:806
 translate german episode006_0fa935bd:
 
     # l "They seem nice..."
-    l ""
+    l "Sie scheinen nett zu sein..."
 
 # game/episode006.rpy:807
 translate german episode006_72e50f37:
 
     # c "But?"
-    c ""
+    c "Aber?"
 
 # game/episode006.rpy:809
 translate german episode006_a49f03ef:
 
     # l "I don’t know... Do you think they look familiar?"
-    l ""
+    l "Ich weiß nicht... Findest du das sie vertraut wirken?"
 
 # game/episode006.rpy:810
 translate german episode006_20b97949:
 
     # c "Not exactly."
-    c ""
+    c "Nicht ganz."
 
 # game/episode006.rpy:811
 translate german episode006_7815cc5b:
 
     # c "I don’t think I remember their faces, but something is familiar about them."
-    c ""
+    c "Ich glaube nicht das ich ihre Gesichter wiedererkenne, aber etwas an ihnen kommt mir bekannt vor."
 
 # game/episode006.rpy:812
 translate german episode006_ddf50bb8:
 
     # l "Exactly."
-    l ""
+    l "Exakt."
 
 # game/episode006.rpy:813
 translate german episode006_5d9754e6:
 
     # c "Is that what’s bothering you?"
-    c ""
+    c "Ist es das was dich stört?"
 
 # game/episode006.rpy:815
 translate german episode006_22090e38:
 
     # l "A little."
-    l ""
+    l "Ein bisschen."
 
 # game/episode006.rpy:816
 translate german episode006_fb66ad90:
 
     # l "I was just starting to get used to living alone with you in one cell, if you know what I mean."
-    l ""
+    l "Ich fing gerade erst an, mich daran zu gewöhnen, allein mit dir in einer Zelle zu leben, wenn du weißt, was ich meine."
 
 # game/episode006.rpy:817
 translate german episode006_b8cd546c:
 
     # l "This changes the dynamic entirely and I’m not sure if I like it."
-    l ""
+    l "Das verändert die Dynamik völlig und ich bin mir nicht sicher, ob es mir gefällt."
 
 # game/episode006.rpy:818
 translate german episode006_f9e4d86b:
 
     # c "Right, prying eyes and all that."
-    c ""
+    c "Richtig, neugierige Blicke und so."
 
 # game/episode006.rpy:819
 translate german episode006_18eac2a1:
 
     # l "Yes, that Aven doesn’t seem to miss much."
-    l ""
+    l "Ja, diese Aven scheint alles mitzukriegen."
 
 # game/episode006.rpy:820
 translate german episode006_394fd691:
 
     # l "Though we weren’t exactly alone in our previous cell either."
-    l ""
+    l "Allerdings waren wir in unserer vorherigen Zelle auch nicht ganz allein."
 
 # game/episode006.rpy:821
 translate german episode006_f7fffef8:
 
     # c "Yeah, the surveillance isn’t surprising, but disturbing nonetheless."
-    c ""
+    c "Ja, die Überwachung ist nicht überraschend, aber dennoch beunruhigend."
 
 # game/episode006.rpy:823
 translate german episode006_8ed294e6:
 
     # "Lilly sighed and pressed her body more firmly against mine."
-    ""
+    "Lilly seufzte und drückte ihren Körper fester an meinen."
 
 # game/episode006.rpy:824
 translate german episode006_d5398544:
 
     # "I just enjoyed her nearness and watched Nadya lost in thought and Aven continue her exercising."
-    ""
+    "Ich genoss einfach ihre Nähe und sah gedankenverloren zu, wie Nadya sich in ihren Gedanken verlor und Aven ihr Training fortsetzten."
 
 # game/episode006.rpy:825
 translate german episode006_affda3c9:
 
     # "Four trays of food eventually arrived and we all sat down for dinner."
-    ""
+    "Schließlich kamen vier Tabletts mit Essen an und wir setzten uns alle zum Abendessen."
 
 # game/episode006.rpy:827
 translate german episode006_ed1b070d:
 
     # "To stave off the boredom we slowly ate our food and talked a lot about absolutely nothing, because we all couldn’t remember anything about our past lives."
-    ""
+    "Um die Langeweile zu vertreiben, aßen wir langsam unser Essen und redeten viel über absolut nichts, weil wir uns alle an nichts aus unseren vergangenen Leben erinnern konnten."
 
 # game/episode006.rpy:828
 translate german episode006_fa1ca252:
 
     # "Coming up with fresh conversation topics turned out to be very tiresome for all of us after a while and we decided to go to sleep not long after clearing the trays."
-    ""
+    "Sich neue Gesprächsthemen auszudenken, erwies sich für uns alle nach einer Weile als sehr mühsam und wir beschlossen, kurz nach dem Abräumen der Tabletts schlafen zu gehen."
 
 # game/episode006.rpy:830
 translate german episode006_989c8b5c:
 
     # "Lilly and I took one of the beds as Nadya occupied the other one."
-    ""
+    "Lilly und ich nahmen eines der Betten, während Nadya das andere belegte."
 
 # game/episode006.rpy:831
 translate german episode006_c04bab2e:
 
     # "Aven said she wanted to take a shower first."
-    ""
+    "Aven meinte, sie wolle zuerst duschen."
 
 # game/episode006.rpy:833
 translate german episode006_87475133:
 
     # "Both Lilly and Nadya slept when the first streams of water started running."
-    ""
+    "Sowohl Lilly als auch Nadya schliefen, als die ersten Wasserstrahlen zu fließen begannen."
 
 # game/episode006.rpy:834
 translate german episode006_6ff1150d:
 
     # "Only the shower area was now lit, the rest of the room was wrapped in semi-darkness."
-    ""
+    "Nur der Duschbereich war jetzt beleuchtet, der Rest des Raumes lag im Halbdunkeln."
 
 # game/episode006.rpy:835
 translate german episode006_86ae8885:
 
     # "Despite having Lilly lying comfortably next to me, I couldn’t sleep."
-    ""
+    "Obwohl Lilly bequem neben mir lag, konnte ich nicht schlafen."
 
 # game/episode006.rpy:838
 translate german episode006_95d828fa:
 
     # "Lilly amused herself by staring at the walls, while Nadya was lost in thought and Aven continued her exercising."
-    ""
+    "Lilly vergnügte sich damit, die Wände anzustarren, während Nadya in Gedanken versunken war und Aven ihre Übungen fortsetzte."
 
 # game/episode006.rpy:840
 translate german episode006_affda3c9_1:
 
     # "Four trays of food eventually arrived and we all sat down for dinner."
-    ""
+    "Schließlich kamen vier Tabletts mit Essen an und wir setzten uns alle zum Abendessen."
 
 # game/episode006.rpy:841
 translate german episode006_ed1b070d_1:
 
     # "To stave off the boredom we slowly ate our food and talked a lot about absolutely nothing, because we all couldn’t remember anything about our past lives."
-    ""
+    "Um die Langeweile zu vertreiben, aßen wir langsam unser Essen und redeten viel über absolut nichts, weil wir uns alle an nichts aus unseren vergangenen Leben erinnern konnten."
 
 # game/episode006.rpy:842
 translate german episode006_fa1ca252_1:
 
     # "Coming up with fresh conversation topics turned out to be very tiresome for all of us after a while and we decided to go to sleep not long after clearing the trays."
-    ""
+    "Sich neue Gesprächsthemen auszudenken, erwies sich für uns alle nach einer Weile als sehr mühsam und wir beschlossen, kurz nach dem Abräumen der Tabletts schlafen zu gehen."
 
 # game/episode006.rpy:844
 translate german episode006_989c8b5c_1:
 
     # "Lilly and I took one of the beds as Nadya occupied the other one."
-    ""
+    "Lilly und ich nahmen eines der Betten, während Nadya das andere belegte."
 
 # game/episode006.rpy:845
 translate german episode006_c04bab2e_1:
 
     # "Aven said she wanted to take a shower first."
-    ""
+    "Aven meinte, sie wolle erst duschen gehen."
 
 # game/episode006.rpy:847
 translate german episode006_87475133_1:
 
     # "Both Lilly and Nadya slept when the first streams of water started running."
-    ""
+    "Sowohl Lilly als auch Nadya schliefen, als die ersten Wasserstrahlen zu fließen begannen."
 
 # game/episode006.rpy:848
 translate german episode006_6ff1150d_1:
 
     # "Only the shower area was now lit, the rest of the room was wrapped in semi-darkness."
-    ""
+    "Nur der Duschbereich war jetzt beleuchtet, der Rest des Raumes lag im Halbdunkel."
 
 # game/episode006.rpy:849
 translate german episode006_c547b379:
 
     # "Maybe it was because of Lilly lying next to me, but I couldn’t sleep."
-    ""
+    "Vielleicht lag es daran, dass Lilly neben mir lag, aber ich konnte nicht schlafen."
 
 # game/episode006.rpy:852
 translate german episode006_7b039bed:
 
     # "After a while I heard Aven turn off the water and I expected her to emerge from the shower after a couple of minutes, but she didn’t."
-    ""
+    "Nach einer Weile hörte ich, wie Aven das Wasser abdrehte, und erwartete, dass sie nach ein paar Minuten aus der Dusche kommen würde, aber sie tat es nicht."
 
 # game/episode006.rpy:853
 translate german episode006_1a033e17:
 
     # "Above Lilly's heavy breathing I could eventually hear distinct sighs coming from the shower cubicle."
-    ""
+    "Über Lillys schweres Atmen konnte ich schließlich deutliche Seufzer aus der Duschkabine hören."
 
 # game/episode006.rpy:854
 translate german episode006_038071d4:
 
     # "When the sighing turned into frequent moans, I had a pretty clear idea what was happening."
-    ""
+    "Als sich das Seufzen in häufiges Stöhnen verwandelte, hatte ich eine ziemlich klare Vorstellung davon, was los war."
 
 # game/episode006.rpy:857
 translate german episode006_fde0ea75:
 
     # "I just had to sate my curiosity and slipped out of bed."
-    ""
+    "Ich musste einfach meine Neugier stillen und schlüpfte aus dem Bett."
 
 # game/episode006.rpy:861
 translate german episode006_10b86817:
 
     # "I had just returned when Aven emerged from the shower."
-    ""
+    "Ich war gerade zurückgekommen, als Aven aus der Dusche kam."
 
 # game/episode006.rpy:862
 translate german episode006_b4bdfb10:
 
     # "She hid her shock well when she noticed me looking at her."
-    ""
+    "Sie verbarg ihren Schock gut, als sie bemerkte, dass ich sie ansah."
 
 # game/episode006.rpy:864
 translate german episode006_3d6b15f8:
 
     # "In understood the urge to relieve the tension all too well and decided to leave Aven be for the moment."
-    ""
+    "Ich verstand den Drang, die Spannung abzubauen, nur zu gut und beschloss, Aven für den Moment in Ruhe zu lassen."
 
 # game/episode006.rpy:866
 translate german episode006_e224767d:
 
     # "She must have brought herself to a very restrained climax quickly, because her return from the shower surprised me."
-    ""
+    "Sie muss sich schnell zu einem sehr verhaltenen Höhepunkt gebracht haben, denn ihre Rückkehr aus der Dusche überraschte mich."
 
 # game/episode006.rpy:867
 translate german episode006_18cc04ce:
 
     # "Aven hid her shock well when she noticed me looking at her."
-    ""
+    "Aven verbarg ihren schock gut als sie bemerkte das ich sie ansah."
 
 # game/episode006.rpy:870
 translate german episode006_c6f6fd64:
 
     # av "Can’t sleep?"
-    av ""
+    av "Kannst du nicht schlafen?"
 
 # game/episode006.rpy:871
 translate german episode006_72aabd53:
 
     # "Not wanting to wake up Lilly, I slipped out of bed and shuffled towards Aven."
-    ""
+    "Da ich Lilly nicht wecken wollte, schlüpfte ich aus dem Bett und schlurfte auf Aven zu."
 
 # game/episode006.rpy:872
 translate german episode006_9a60c2bb:
 
     # c "Nope."
-    c ""
+    c "Nope."
 
 # game/episode006.rpy:874
 translate german episode006_e93e2c0a:
 
     # av "I’d offer you something to drink, but I already drank my entire water ration for the day."
-    av ""
+    av "Ich würde dir etwas zu trinken anbieten, aber ich habe bereits meine gesamte Wasserration für den Tag getrunken."
 
 # game/episode006.rpy:875
 translate german episode006_8e3f75dd:
 
     # c "Some hard alcohol would be nice right about now, yeah..."
-    c ""
+    c "Etwas hochprozentiger Alkohol wäre im Moment nett, ja ..."
 
 # game/episode006.rpy:876
 translate german episode006_1b0e988e:
 
     # av "I hear you."
-    av ""
+    av "Verstehe ich."
 
 # game/episode006.rpy:877
 translate german episode006_3c8630fb:
 
     # "The girl sighed and stared into the distance."
-    ""
+    "Das Mädchen seufzte und starrte in die Ferne."
 
 # game/episode006.rpy:879
 translate german episode006_56ff24a4:
 
     # av "I don’t know how much longer I can take this."
-    av ""
+    av "Ich weiß nicht wie viel Länger ich das noch aushalte."
 
 # game/episode006.rpy:880
 translate german episode006_2cbeef8c:
 
     # av "The empty conversations with Nadya and now with you guys, drawing a blank every time you try to think a little deeper about your own past."
-    av ""
+    av "Die leeren Gespräche mit Nadya und jetzt mit euch, die jedes Mal eine Lücke hinterlassen, wenn ich versuche, etwas tiefer über meine eigene Vergangenheit nachzudenken."
 
 # game/episode006.rpy:882
 translate german episode006_57e38ff2:
 
     # av "I fucking hate it."
-    av ""
+    av "Ich verfickt nochmal hasse es."
 
 # game/episode006.rpy:883
 translate german episode006_f263d194:
 
     # c "I feel the same."
-    c ""
+    c "Geht mir genauso."
 
 # game/episode006.rpy:885
 translate german episode006_81868736:
 
     # c "There’s this promise of something lying just beneath the surface, but you just can’t reach it."
-    c ""
+    c "Es gibt das Versprechen, dass etwas direkt unter der Oberfläche liegt, aber man kann es einfach nicht erreichen."
 
 # game/episode006.rpy:886
 translate german episode006_8f032a56:
 
     # av "Right."
-    av ""
+    av "Richtig."
 
 # game/episode006.rpy:887
 translate german episode006_e4b84a32:
 
     # c "I felt it strongly with Lilly and again with you and Nadya."
-    c ""
+    c "Ich habe es bei Lilly sehr stark gefühlt und nochmal bei dir und Nadya."
 
 # game/episode006.rpy:889
 translate german episode006_59c5c765:
 
     # av "Really?"
-    av ""
+    av "Wirklich?"
 
 # game/episode006.rpy:890
 translate german episode006_fd858d90:
 
     # av "What’s the deal with you and Lilly anyway?"
-    av ""
+    av "Was ist überhaupt mit dir und Lilly los?"
 
 # game/episode006.rpy:895
 translate german episode006_9c16d513:
 
     # c "We’re in love."
-    c ""
+    c "Wir sind verliebt."
 
 # game/episode006.rpy:897
 translate german episode006_98b83b29:
 
     # av "How do you know that?"
-    av ""
+    av "Woher weißt du das?"
 
 # game/episode006.rpy:898
 translate german episode006_62be3a44:
 
     # c "Because we both felt something so strongly when we first met here."
-    c ""
+    c "Weil wir beide etwas extrem starkes gespürt haben, als wir uns hier zum ersten Mal trafen."
 
 # game/episode006.rpy:900
 translate german episode006_1e143715:
 
     # c "It’s complicated."
-    c ""
+    c "Es ist kompliziert."
 
 # game/episode006.rpy:902
 translate german episode006_7660ded2:
 
     # av "Isn’t it always?"
-    av ""
+    av "Ist es das nicht immer?"
 
 # game/episode006.rpy:903
 translate german episode006_b11da41f:
 
     # c "We both had strong feelings we couldn’t place when we first saw each other."
-    c ""
+    c "Wir hatten beide starke Gefühle, die wir nicht einordnen konnten, als wir uns das erste Mal sahen."
 
 # game/episode006.rpy:906
 translate german episode006_7d457afd:
 
     # av "You did?"
-    av ""
+    av "Hattest du?"
 
 # game/episode006.rpy:907
 translate german episode006_3d0ec595:
 
     # c "You sound skeptical?"
-    c ""
+    c "Du klingst skeptisch."
 
 # game/episode006.rpy:908
 translate german episode006_8d7bf56e:
 
     # av "I do?"
-    av ""
+    av "Tuh ich das?"
 
 # game/episode006.rpy:910
 translate german episode006_af539df2:
 
     # av "Sorry."
-    av ""
+    av "Sorry."
 
 # game/episode006.rpy:911
 translate german episode006_1a8fd0df:
 
     # av "I didn’t mean to."
-    av ""
+    av "Wollte ich nicht."
 
 # game/episode006.rpy:912
 translate german episode006_d366d7a4:
 
     # c "I saw you looking at us earlier."
-    c ""
+    c "Ich hab gesehen wie du uns vorhin angeschaut hast."
 
 # game/episode006.rpy:914
 translate german episode006_181d9441:
 
     # av "So, we’re in a cramped cell, where else was I supposed to look?"
-    av ""
+    av "Wir sind in einer engen Zelle wo hätte ich den sonst hinschauen sollen?"
 
 # game/episode006.rpy:915
 translate german episode006_a73a4055:
 
     # c "Look, I didn’t mean to put you on the defensive here..."
-    c ""
+    c "Hey ich wollte dich nicht in die defensive bringen."
 
 # game/episode006.rpy:917
 translate german episode006_6b63a4d5:
 
     # av "I know you didn’t."
-    av ""
+    av "Ich weiß das du das nicht wolltest."
 
 # game/episode006.rpy:918
 translate german episode006_c8c112ec:
 
     # av "Fuck."
-    av ""
+    av "Scheiße."
 
 # game/episode006.rpy:920
 translate german episode006_7a26a643:
 
     # av "When you first got here you told us they were doing tests on you, right?"
-    av ""
+    av "Als du hier ankamst hast du gesagt sie machen tests mit dir, richtig?"
 
 # game/episode006.rpy:921
 translate german episode006_5e9d22e2:
 
     # av "Making you experience things?"
-    av ""
+    av "Sie liesen dich dinge erleben?"
 
 # game/episode006.rpy:922
 translate german episode006_8d06aa26:
 
     # c "Yes, that’s right."
-    c ""
+    c "Ja, ist richtig."
 
 # game/episode006.rpy:923
 translate german episode006_d2c5d25e:
 
     # av "I lied to Nadya."
-    av ""
+    av "Ich habe Nadya angelogen."
 
 # game/episode006.rpy:924
 translate german episode006_f237e6a4:
 
     # av "I’ve been fully conscious for every test they administered."
-    av ""
+    av "Ich war bei bewusstsein bei jeden test den sie mit mir gemacht haben."
 
 # game/episode006.rpy:925
 translate german episode006_deb64cd7:
 
     # c "Really, why would you lie?"
-    c ""
+    c "Wirklich, warum solltest du lügen?"
 
 # game/episode006.rpy:926
 translate german episode006_8b49607e:
 
     # av "The same reason why you’re so vague about it, I reckon."
-    av ""
+    av "Aus dem selben Grund warum du so vage darüber warst, vermute ich."
 
 # game/episode006.rpy:927
 translate german episode006_0ac3a7af:
 
     # av "Because it’s invasive and confusing and...{w} Sexual..."
-    av ""
+    av "Weil es aufdringlich und verwirrend ist und...{w} Sexuell..."
 
 # game/episode006.rpy:928
 translate german episode006_76c33bf2:
 
     # c "You too?"
-    c ""
+    c "Du auch?"
 
 # game/episode006.rpy:930
 translate german episode006_77274c31:
 
     # av "Yes."
-    av ""
+    av "Ja."
 
 # game/episode006.rpy:931
 translate german episode006_a473cfcd:
 
     # av "So that means they’re making you see stuff too?"
-    av ""
+    av "Das heißt also, dass sie dich auch Dinge sehen lassen?"
 
 # game/episode006.rpy:936
 translate german episode006_2c3ff88b:
 
     # c "They do."
-    c ""
+    c "Tuhen sie."
 
 # game/episode006.rpy:937
 translate german episode006_9582b215:
 
     # c "It’s different for all of us I think, because Lilly is experiencing nightmares."
-    c ""
+    c "Es ist anders für jeden von uns denke ich, denn Lilly durchlebt Albträume."
 
 # game/episode006.rpy:938
 translate german episode006_0d8a1839:
 
     # c "I just see more or less the same scene played out between two women, some sort of sexual powerplay."
-    c ""
+    c "Ich sehe nur mehr oder weniger die gleiche Szene zwischen zwei Frauen, eine Art sexuelles Machtspiel."
 
 # game/episode006.rpy:940
 translate german episode006_892fb38d:
 
     # av "Wow."
-    av ""
+    av "Wow."
 
 # game/episode006.rpy:941
 translate german episode006_db5d6cd6:
 
     # av "Do you know those women?"
-    av ""
+    av "Kennst du diese Frauen?"
 
 # game/episode006.rpy:942
 translate german episode006_fcb8fc21:
 
     # c "I haven’t got a clue, because I can’t remember anything."
-    c ""
+    c "Ich habe keine ahnung wer sie sind, weil ich mich an nichts erinnern kann."
 
 # game/episode006.rpy:944
 translate german episode006_0f9368de:
 
     # av "Same here."
-    av ""
+    av "Geht mir genau so."
 
 # game/episode006.rpy:945
 translate german episode006_076afeb8:
 
     # av "With me they’re feeding me images of myself and a man."
-    av ""
+    av "Mir zeigen sie Bilder von mir und einem mann."
 
 # game/episode006.rpy:946
 translate german episode006_ffd11c5d:
 
     # av "We’re both naked and I’m lying down and he’s kissing me all over."
-    av ""
+    av "Wir sind beide nackt und ich liege da und er küsst mich überall."
 
 # game/episode006.rpy:947
 translate german episode006_03c78fab:
 
     # av "The scene plays out with some variations, but right at the moment were things start to get good everything stops."
-    av ""
+    av "Die Szene spielt sich mit einigen Variationen ab, aber genau in dem Moment, in dem es interessant wird, hört alles auf."
 
 # game/episode006.rpy:948
 translate german episode006_71512ae5:
 
     # c "Bummer."
-    c ""
+    c "Schade."
 
 # game/episode006.rpy:950
 translate german episode006_e7589e6a:
 
     # av "Yeah."
-    av ""
+    av "Jap."
 
 # game/episode006.rpy:952
 translate german episode006_3154c3d3:
 
     # av "Thing is though, the guy in that simulation...{w} It’s you."
-    av ""
+    av "Das ding ist, der mann in der Simulation...{w} Bist du."
 
 # game/episode006.rpy:953
 translate german episode006_0c4aa7c1:
 
     # av "So you might imagine why I looked like a ghost had just entered my cell a while back."
-    av ""
+    av "Also kannst du dir vl vortstellen warum ich wie ein geist ausgesehen habe als du meine Zelle betreten hast."
 
 # game/episode006.rpy:954
 translate german episode006_a1f0da02:
 
     # c "Yeah..."
-    c ""
+    c "Jap..."
 
 # game/episode006.rpy:959
 translate german episode006_65e32b2c:
 
     # c "Are you all right?"
-    c ""
+    c "Alles ok?"
 
 # game/episode006.rpy:961
 translate german episode006_4b3755de:
 
     # av "Why wouldn’t I be?"
-    av ""
+    av "Warum nicht?"
 
 # game/episode006.rpy:963
 translate german episode006_9939bff2:
 
     # av "I didn’t say it was unpleasant, did I?"
-    av ""
+    av "ich habe nicht gesagt das es unangenhem war, oder?"
 
 # game/episode006.rpy:964
 translate german episode006_f0f2060d:
 
     # c "No, but meeting me like that, it must have been scary."
-    c ""
+    c "Nein, aber mich so zu treffen muss erschreckend gewesen sein."
 
 # game/episode006.rpy:966
 translate german episode006_9dd99f8f:
 
     # av "Scary?"
-    av ""
+    av "Erschreckend?"
 
 # game/episode006.rpy:967
 translate german episode006_3582f270:
 
     # c "Hell, I don’t know."
-    c ""
+    c "Verdammt, ich weiß doch auch nicht."
 
 # game/episode006.rpy:968
 translate german episode006_5ce62ee1:
 
     # c "You’re being fed these images to your brain and all of a sudden the subject is walking through that door."
-    c ""
+    c "All diese bilder die sie dir zeigen und plötzlich läuft das Subject durch diese Tür."
 
 # game/episode006.rpy:970
 translate german episode006_1027f841:
 
     # av "Scared is not what I felt."
-    av ""
+    av "Erschrekend ist nicht das was ich gefühlt habe."
 
 # game/episode006.rpy:971
 translate german episode006_b151a147:
 
     # c "What did you feel then?"
-    c ""
+    c "Was hast du dann gefühlt?"
 
 # game/episode006.rpy:972
 translate german episode006_b2699c02:
 
     # av "I don’t know...{w} Fuck..."
-    av ""
+    av "Ich weiß nicht...{w} Verdammt..."
 
 # game/episode006.rpy:974
 translate german episode006_59ca72ee:
 
     # av "Happy, I guess?"
-    av ""
+    av "Glücklich, denke ich?"
 
 # game/episode006.rpy:975
 translate german episode006_61cdaf0f:
 
     # c "Happy?"
-    c ""
+    c "Glücklich?"
 
 # game/episode006.rpy:977
 translate german episode006_94c8536c:
 
     # av "Right, that really doesn’t cover it."
-    av ""
+    av "Richtig das deckt es nicht wirklich ab."
 
 # game/episode006.rpy:978
 translate german episode006_56abba17:
 
     # av "I had more or less the same feeling when I saw Nadya for the first time."
-    av ""
+    av "Ich hatte mehr oder weniger das selbe gefühl als ich Nadya das erste mal sah."
 
 # game/episode006.rpy:979
 translate german episode006_dfaf45a0:
 
     # av "But with you it’s different, stronger, almost something electric."
-    av ""
+    av "Aber mit dir ist es anders, stärker, fast elektrisierend."
 
 # game/episode006.rpy:980
 translate german episode006_019bb1e0:
 
     # av "I don’t know how else to explain it."
-    av ""
+    av "Ich weiß nicht wie ich es anders erklären soll."
 
 # game/episode006.rpy:984
 translate german episode006_306795e3:
 
     # c "I know what you mean."
-    c ""
+    c "Ich weiß was du meinst."
 
 # game/episode006.rpy:986
 translate german episode006_82de7ed1:
 
     # av "You do?"
-    av ""
+    av "Tuhst du?"
 
 # game/episode006.rpy:987
 translate german episode006_7b0e6af1:
 
     # av "But you never saw me before right?"
-    av ""
+    av "Aber du hast mich noch nie zuvor gesehen oder?"
 
 # game/episode006.rpy:988
 translate german episode006_441fdfd2:
 
     # c "Not that I can remember and not in any simulation either."
-    c ""
+    c "Nicht das ich mich erinnern kann und auch in keiner simulation."
 
 # game/episode006.rpy:989
 translate german episode006_e30caf9d:
 
     # c "There was something though when I first saw you."
-    c ""
+    c "Aber da war... etwas, als ich dich das erste mal sah."
 
 # game/episode006.rpy:990
 translate german episode006_5f58d915:
 
     # c "A spark."
-    c ""
+    c "Ein Funke."
 
 # game/episode006.rpy:992
 translate german episode006_8a3c7169:
 
     # av "Something deep inside your stomach, something indefinable, but not unwelcome?"
-    av ""
+    av "Etwas tief in deinem Bauch, etwas undefinierbares, aber nicht unwillkommen?"
 
 # game/episode006.rpy:993
 translate german episode006_d81d6bda:
 
     # c "Pretty much, yes."
-    c ""
+    c "So ziemlich, ja."
 
 # game/episode006.rpy:994
 translate german episode006_d987648f:
 
     # av "So I either hated your guts before and they’re trying to re-educate me, or there was something else."
-    av ""
+    av "Entweder habe ich dich vorher gehasst und sie versuchen, mich umzuerziehen, oder da war etwas anderes."
 
 # game/episode006.rpy:995
 translate german episode006_70817656:
 
     # c "I really hope it’s the latter, to be honest."
-    c ""
+    c "Ich hoffe letzteres um ehrlich zu sein."
 
 # game/episode006.rpy:997
 translate german episode006_adb27249:
 
     # av "Haha, I bet you do."
-    av ""
+    av "Haha, das wette ich mit dir."
 
 # game/episode006.rpy:999
 translate german episode006_0ab58abd:
 
     # av "But [p_name], if you felt a spark...{w} what does that say about Lilly?"
-    av ""
+    av "Aber [p_name], wenn du einen Funken gespürt hast...{w} was sagt das über Lilly aus?"
 
 # game/episode006.rpy:1001
 translate german episode006_a5cd15a3:
 
     # c "Fuck..."
-    c ""
+    c "Verdammt..."
 
 # game/episode006.rpy:1002
 translate german episode006_94d375f8:
 
     # c "It’s all too complicated."
-    c ""
+    c "Es ist alles so kompliziert."
 
 # game/episode006.rpy:1004
 translate german episode006_914a50fc:
 
     # c "What about her?"
-    c ""
+    c "Was ist mit ihr?"
 
 # game/episode006.rpy:1005
 translate german episode006_84444371:
 
     # c "I already told you we aren’t together."
-    c ""
+    c "Ich habe dir bereits gesagt wir sind nicht zusammen."
 
 # game/episode006.rpy:1007
 translate german episode006_43408479:
 
     # "Aven nudged closer to me, until our knees almost touched."
-    ""
+    "Aven schob sich näher an mich heran, bis sich unsere Knie fast berührten."
 
 # game/episode006.rpy:1008
 translate german episode006_6fc6a941:
 
     # "I could smell the shampoo she’d just used in the shower and felt the comfortable warmth she emanated."
-    ""
+    "Ich konnte das Shampoo riechen, das sie gerade unter der Dusche benutzt hatte, und spürte die angenehme Wärme, die sie ausstrahlte."
 
 # game/episode006.rpy:1010
 translate german episode006_fa24f611:
 
     # av "Prison might not be the best place to start a relationship, I agree."
-    av ""
+    av "Das Gefängnis ist vielleicht nicht der beste Ort, um eine Beziehung zu beginnen, da stimme ich zu."
 
 # game/episode006.rpy:1011
 translate german episode006_32d17609:
 
     # av "Maybe we should make a deal."
-    av ""
+    av "Vielleicht sollten wir ein Deal machen."
 
 # game/episode006.rpy:1012
 translate german episode006_04913ed8:
 
     # c "A deal?"
-    c ""
+    c "Einen Deal?"
 
 # game/episode006.rpy:1014
 translate german episode006_33cef3a6:
 
     # av "When we get out of here, yes when, we’re going to have a serious talk about this."
-    av ""
+    av "Wenn wir hier rauskommen, wenn, dann haben wir ein ernstes gespräch über das hier."
 
 # game/episode006.rpy:1015
 translate german episode006_dc794b6f:
 
     # av "Away from Nadya and Lilly and the fuckers who are listening in on us at the moment."
-    av ""
+    av "Weg von Nadya und Lilly und den Mistkerlen, die uns im Moment belauschen."
 
 # game/episode006.rpy:1016
 translate german episode006_51e1a649_1:
 
     # c "Deal."
-    c ""
+    c "Deal."
 
 # game/episode006.rpy:1018
 translate german episode006_34b77c41:
 
     # av "I’m going to try and get some sleep now, I think."
-    av ""
+    av "Ich werde jetzt versuchen ein wenig zu schlafen, denke ich."
 
 # game/episode006.rpy:1020
 translate german episode006_9e2aace1:
 
     # av "Oh and [p_name], I’m glad I met you today."
-    av ""
+    av "Oh und [p_name], ich bin froh das ich dich heute kennengelernt habe."
 
 # game/episode006.rpy:1022
 translate german episode006_56319c46:
 
     # "When Aven stood up she bowed towards my cheek and brushed it with her soft lips."
-    ""
+    "Als Aven aufstand, beugte sie sich zu meiner Wange und strich mit ihren weichen Lippen darüber."
 
 # game/episode006.rpy:1023
 translate german episode006_ddfe1df7:
 
     # av "Sleep well."
-    av ""
+    av "Schlaf gut."
 
 # game/episode006.rpy:1025
 translate german episode006_e60c219c:
 
     # "A little dumbfounded I watched her lie down next to Nadya and go to sleep."
-    ""
+    "Etwas verblüfft sah ich zu, wie sie sich neben Nadya legte und einschlief."
 
 # game/episode006.rpy:1026
 translate german episode006_6f8da157:
 
     # "I followed not long after, but it took a long while before I actually fell asleep."
-    ""
+    "Ich folgte nicht lange danach, aber es dauerte lange, bis ich tatsächlich einschlief."
 
 # game/episode006.rpy:1028
 translate german episode006_bb78aab7:
 
     # c "I know."
-    c ""
+    c "Ich weiß."
 
 # game/episode006.rpy:1029
 translate german episode006_0a183c61:
 
     # c "It’s hard to put something like this into words."
-    c ""
+    c "Es ist schwer sowas in worte zu fassen."
 
 # game/episode006.rpy:1031
 translate german episode006_94256cee:
 
     # av "Yeah..."
-    av ""
+    av "Ja..."
 
 # game/episode006.rpy:1032
 translate german episode006_7eb511a5:
 
     # av "Hey, if you don’t mind I’m going to get some sleep."
-    av ""
+    av "Hey wenn es dich nicht stört werde ich versuchen etwas zu schlafen."
 
 # game/episode006.rpy:1034
 translate german episode006_3382d724:
 
     # av "Good night."
-    av ""
+    av "Gute Nacht."
 
 # game/episode006.rpy:1035
 translate german episode006_54c8f013:
 
     # c "Sleep well."
-    c ""
+    c "Schlaf gut."
 
 # game/episode006.rpy:1037
 translate german episode006_5bf3aec5:
 
     # c "So, that was awkward."
-    c ""
+    c "Ok, das war unangenehm."
 
 # game/episode006.rpy:1039
 translate german episode006_fb3c05e7:
 
     # av "You could say so."
-    av ""
+    av "Das könnte man sagen."
 
 # game/episode006.rpy:1040
 translate german episode006_685db49f:
 
     # c "I hope I didn’t give you too much of a scare."
-    c ""
+    c "Ich hoffe ich habe dich nicht alzu sehr erschreckt."
 
 # game/episode006.rpy:1042
 translate german episode006_1afd6936:
 
     # av "No, it’s okay."
-    av ""
+    av "Nein, alles gut."
 
 # game/episode006.rpy:1043
 translate german episode006_a4177b40:
 
     # c "Those fuckers, messing around in our heads like that!"
-    c ""
+    c "Diese Scheißkerle, die so in unseren Köpfen herumrühren!"
 
 # game/episode006.rpy:1045
 translate german episode006_94256cee_1:
 
     # av "Yeah..."
-    av ""
+    av "Ja..."
 
 # game/episode006.rpy:1046
 translate german episode006_7eb511a5_1:
 
     # av "Hey, if you don’t mind I’m going to get some sleep."
-    av ""
+    av "Hey wenn es dich nicht stört werde ich versuchen etwas zu schlafen."
 
 # game/episode006.rpy:1047
 translate german episode006_3382d724_1:
 
     # av "Good night."
-    av ""
+    av "Gute Nacht."
 
 # game/episode006.rpy:1048
 translate german episode006_54c8f013_1:
 
     # c "Sleep well."
-    c ""
+    c "Schlaf gut."
 
 # game/episode006.rpy:1050
 translate german episode006_2c3ff88b_1:
 
     # c "They do."
-    c ""
+    c "Tuhn sie"
 
 # game/episode006.rpy:1051
 translate german episode006_9de79bf4:
 
     # c "But I think it’s different for all of us."
-    c ""
+    c "Aber ich glaube es ist anders für jeden von uns."
 
 # game/episode006.rpy:1052
 translate german episode006_b145dfdb:
 
     # c "Lilly is experiencing nightmares."
-    c ""
+    c "Lilly hat Albträume."
 
 # game/episode006.rpy:1053
 translate german episode006_c7ae0918:
 
     # c "Mine are just these weird fever dreams."
-    c ""
+    c "Meine sind nur diese seltsamen Fieber träume."
 
 # game/episode006.rpy:1055
 translate german episode006_8f1572b3:
 
     # av "Hmmm, weird."
-    av ""
+    av "Hmmm, Seltsam."
 
 # game/episode006.rpy:1056
 translate german episode006_2783b941:
 
     # av "Why would it differ so much per person?"
-    av ""
+    av "Warum sollte es so verschieden zwischen allen seim?"
 
 # game/episode006.rpy:1057
 translate german episode006_3a85b0d1:
 
     # c "Probably part of some psychological evaluation or something."
-    c ""
+    c "Wahrscheinlich Teil einer psychologischen Untersuchung oder so."
 
 # game/episode006.rpy:1058
 translate german episode006_70b15a70:
 
     # av "Must be."
-    av ""
+    av "Muss es wohl."
 
 # game/episode006.rpy:1063
 translate german episode006_9d76bcf9:
 
     # "I was hoping for a quiet and lazy morning, but instead two guards walked in and manhandled me off the bed."
-    ""
+    "Ich hatte auf einen ruhigen und entspannten Morgen gehofft, aber stattdessen kamen zwei Wachen herein und zerrten mich vom Bett."
 
 # game/episode006.rpy:1064
 translate german episode006_cd948191:
 
     # "Lilly was awake instantly and started screaming."
-    ""
+    "Lilly war sofort wach und schrie."
 
 # game/episode006.rpy:1066
 translate german episode006_547dbf29:
 
     # l "Get your fucking hands off him!"
-    l ""
+    l "Nimm deine verfickten hände von ihm!"
 
 # game/episode006.rpy:1068
 translate german episode006_5a8db084:
 
     # "She hit one of the guards and her nails raked the cheek of the other one leaving bloody gashes."
-    ""
+    "Sie schlug einen der Wächter und ihre Nägel kratzten an der Wange des anderen und hinterließen blutige Schnittwunden."
 
 # game/episode006.rpy:1069
 translate german episode006_696fd543:
 
     # "The guards let go of me and turned their attention to Lilly."
-    ""
+    "Die Wachen ließen mich los und richteten ihre Aufmerksamkeit auf Lilly."
 
 # game/episode006.rpy:1071
 translate german episode006_c053e723:
 
     # "The guard reached for his gun and stunned the raging girl into submission."
-    ""
+    "Die Wache griff nach seiner Waffe und betäubte das wütende Mädchen, in gehorsam."
 
 # game/episode006.rpy:1072
 translate german episode006_70b55b88:
 
     # "They proceeded to wrestle me towards the exit."
-    ""
+    "Dann zerrten sie mich weiter zum Ausgang."
 
 # game/episode006.rpy:1073
 translate german episode006_db2000f6:
 
     # "Nadya and Aven looked at me in fear and disbelief as I was dragged from the cell."
-    ""
+    "Nadya und Aven sahen mich ängstlich und ungläubig an, als ich aus der Zelle gezerrt wurde."
 
 # game/episode006.rpy:1075
 translate german episode006_acd4c0d4:
 
     # c "Don't worry about me, take care of Lilly, please!"
-    c ""
+    c "Macht euch keine Sorgen um mich, kümmert euch um Lilly, bitte!"
 
 # game/episode006.rpy:1076
 translate german episode006_a4e420cd:
 
     # "Walking at a very brisk pace, the guards took me to a section of the facility I hadn't been before."
-    ""
+    "Die Wachen gingen sehr zügig und führten mich zu einem Teil der Einrichtung, in dem ich vorher noch nie gewesen war."
 
 # game/episode006.rpy:1078
 translate german episode006_194055c9:
 
     # "They guided me into what looked like an office."
-    ""
+    "Sie führten mich in etwas, das wie ein Büro aussah."
 
 # game/episode006.rpy:1079
 translate german episode006_20e38ee9:
 
     # "That probably meant no simulated wet dreams for me today..."
-    ""
+    "Das bedeutete für mich heute wahrscheinlich keine simulierten feuchten Träume ..."
 
 # game/episode006.rpy:1081
 translate german episode006_f49db23a:
 
     # "The guards forced me down into a chair and positioned themselves near the door."
-    ""
+    "Die Wärter zwangen mich auf einen Stuhl und stellten sich in die Nähe der Tür."
 
 # game/episode006.rpy:1086
 translate german episode006_97c58786:
 
     # "A woman entered."
-    ""
+    "Eine Frau kam herein."
 
 # game/episode006.rpy:1087
 translate german episode006_c447ce3e:
 
     # "She had strikingly pale skin and eyes that were like a gateway to unknown depths."
-    ""
+    "Sie hatte eine auffallend blasse Haut und Augen, die wie ein Tor zu unbekannten Tiefen wirkten."
 
 # game/episode006.rpy:1088
 translate german episode006_2e76c751:
 
     # "The woman looked eerily familiar, but again my memory failed me."
-    ""
+    "Die Frau kam mir unheimlich bekannt vor, aber wieder einmal ließ mein Gedächtnis mich im Stich."
 
 # game/episode006.rpy:1091
 translate german episode006_8a038470:
 
     # chrone "Mr. Valenmann de Lonval."
-    chrone ""
+    chrone "Herr Valenmann de Lonval."
 
 # game/episode006.rpy:1092
 translate german episode006_121950be:
 
     # c "That's my name, I guess?"
-    c ""
+    c "Das ist mein name, nehme ich an?"
 
 # game/episode006.rpy:1093
 translate german episode006_9950598a:
 
     # chrone "Right, I forgot about your...{w} condition."
-    chrone ""
+    chrone "Richtig, ich habe deinen...{w} Zustand vergessen."
 
 # game/episode006.rpy:1094
 translate german episode006_c6204d4e:
 
     # c "Bullshit."
-    c ""
+    c "Bullshit."
 
 # game/episode006.rpy:1096
 translate german episode006_4b2ac33e:
 
     # chrone "Quite."
-    chrone ""
+    chrone "So ziemlich."
 
 # game/episode006.rpy:1098
 translate german episode006_08067aac:
 
     # chrone "My name is Dr. Moora."
-    chrone ""
+    chrone "Meine name ist Dr. Moora."
 
 # game/episode006.rpy:1112
 translate german episode006_c8db814a:
 
     # chrone "I'm going to ask you a few questions."
-    chrone ""
+    chrone "Ich werde dir ein paar Fragen stellen."
 
 # game/episode006.rpy:1113
 translate german episode006_5289563d:
 
     # c "Why would I answer them?"
-    c ""
+    c "Warum sollte ich sie beantworten?"
 
 # game/episode006.rpy:1114
 translate german episode006_24a727e4:
 
     # chrone "Because it's the right thing to do?"
-    chrone ""
+    chrone "Weil es das richtige ist."
 
 # game/episode006.rpy:1115
 translate german episode006_c6204d4e_1:
 
     # c "Bullshit."
-    c ""
+    c "Bullshit."
 
 # game/episode006.rpy:1117
 translate german episode006_63a9128b:
 
     # chrone "That word again."
-    chrone ""
+    chrone "Das wort wieder."
 
 # game/episode006.rpy:1118
 translate german episode006_af4b234f:
 
     # chrone "We could also torture you."
-    chrone ""
+    chrone "Wir könnten dich auch foltern."
 
 # game/episode006.rpy:1120
 translate german episode006_77fca7ea:
 
     # chrone "Now. Question 1."
-    chrone ""
+    chrone "Nun. Frage 1."
 
 # game/episode006.rpy:1121
 translate german episode006_84a8094e:

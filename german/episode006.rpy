@@ -4006,1051 +4006,1051 @@ translate german episode006_77fca7ea:
 translate german episode006_84a8094e:
 
     # chrone "Do you enjoy sex?"
-    chrone ""
+    chrone "Hast du Spaß an Sex?"
 
 # game/episode006.rpy:1126
 translate german episode006_21599725:
 
     # c "Who doesn't?"
-    c ""
+    c "Wer nicht?"
 
 # game/episode006.rpy:1129
 translate german episode006_8a29e1eb_1:
 
     # c "Yes, I do."
-    c ""
+    c "Ja, habe ich."
 
 # game/episode006.rpy:1131
 translate german episode006_b1c69ee9:
 
     # c "My libido is incredibly low, so no."
-    c ""
+    c "Meine Libido ist unglaublich gering, also nein."
 
 # game/episode006.rpy:1133
 translate german episode006_0c58b2a8:
 
     # chrone "Have you ever experienced forbidden urges?"
-    chrone ""
+    chrone "Hast du jemals verbotene Triebe verspürt?"
 
 # game/episode006.rpy:1134
 translate german episode006_99b5ef5a:
 
     # c "What the fuck is that supposed to mean?"
-    c ""
+    c "Was zum fick soll das bedeuten?"
 
 # game/episode006.rpy:1136
 translate german episode006_4bde3cc5:
 
     # chrone "Let me rephrase."
-    chrone ""
+    chrone "Lass es mich anders ausdrücken"
 
 # game/episode006.rpy:1138
 translate german episode006_51e04a79:
 
     # chrone "Have you ever had sexual urges that defied the social norms of your society?"
-    chrone ""
+    chrone "Hattest du jemals sexuelle Triebe, die den sozialen Normen deiner Gesellschaft widersprachen?"
 
 # game/episode006.rpy:1143
 translate german episode006_cc5a20b9:
 
     # c "The place where I come from is pretty puritanical, so yes, I have."
-    c ""
+    c "Wo ich herkomme, ist es ziemlich puritanisch, also ja, das habe ich."
 
 # game/episode006.rpy:1145
 translate german episode006_54b1df5d:
 
     # c "No, I haven't."
-    c ""
+    c "Nein, hatte ich nicht."
 
 # game/episode006.rpy:1146
 translate german episode006_4633d67c:
 
     # c "What kind of question is that?"
-    c ""
+    c "Was ist das für eine Frage?"
 
 # game/episode006.rpy:1148
 translate german episode006_ce1987ab:
 
     # chrone "Do you masturbate often?"
-    chrone ""
+    chrone "Mastubierst du oft?"
 
 # game/episode006.rpy:1149
 translate german episode006_bd7ad31c:
 
     # c "Why is that important?"
-    c ""
+    c "Warum ist das wichtig?"
 
 # game/episode006.rpy:1151
 translate german episode006_20d7d51c:
 
     # chrone "Just answer the questions."
-    chrone ""
+    chrone "Beantworte einfach die fragen."
 
 # game/episode006.rpy:1156
 translate german episode006_3486b112:
 
     # c "Yes, often."
-    c ""
+    c "Ja, oft"
 
 # game/episode006.rpy:1158
 translate german episode006_2d1cbf61:
 
     # c "No, not a lot."
-    c ""
+    c "Nein, nicht so oft"
 
 # game/episode006.rpy:1161
 translate german episode006_aa8cf9f0:
 
     # chrone "Are you sexually attracted to the redheaded girl you share a cell with?"
-    chrone ""
+    chrone "Fühlst du dich sexuell hingezogen zu der rotharigen frau mit der du eine zelle teilst?"
 
 # game/episode006.rpy:1168
 translate german episode006_36391c9b:
 
     # c "Yes, I am."
-    c ""
+    c "Ja, tuhe ich."
 
 # game/episode006.rpy:1170
 translate german episode006_8277cb72:
 
     # c "No, I'm not."
-    c ""
+    c "Nein, tuhe ich nicht."
 
 # game/episode006.rpy:1173
 translate german episode006_8277cb72_1:
 
     # c "No, I'm not."
-    c ""
+    c "Nein, tuhe ich nicht."
 
 # game/episode006.rpy:1175
 translate german episode006_621a5670:
 
     # chrone "Are you sexually attracted to the brunette girl known as Aven?"
-    chrone ""
+    chrone "Fühlst du dich sexuell hingezogen zu der Brünette namens Aven?"
 
 # game/episode006.rpy:1182
 translate german episode006_36391c9b_1:
 
     # c "Yes, I am."
-    c ""
+    c "Ja, tuhe ich."
 
 # game/episode006.rpy:1184
 translate german episode006_8277cb72_2:
 
     # c "No, I'm not."
-    c ""
+    c "Nein, tuhe ich nicht."
 
 # game/episode006.rpy:1187
 translate german episode006_8277cb72_3:
 
     # c "No, I'm not."
-    c ""
+    c "Nein, tuhe ich nicht."
 
 # game/episode006.rpy:1189
 translate german episode006_b9ba462c:
 
     # chrone "Are you sexually attracted to the older woman Nadya?"
-    chrone ""
+    chrone "Fühlst du dich sexuell hingezogen zu der älteren Frau namens Nadya?"
 
 # game/episode006.rpy:1196
 translate german episode006_36391c9b_2:
 
     # c "Yes, I am."
-    c ""
+    c "Ja, tuhe ich"
 
 # game/episode006.rpy:1198
 translate german episode006_8277cb72_4:
 
     # c "No, I'm not."
-    c ""
+    c "Nein, tuhe ich nicht."
 
 # game/episode006.rpy:1201
 translate german episode006_8277cb72_5:
 
     # c "No, I'm not."
-    c ""
+    c "Nein, tuhe ich nicht."
 
 # game/episode006.rpy:1203
 translate german episode006_9846b57b:
 
     # chrone "Are you sexually attracted to me?"
-    chrone ""
+    chrone "Fühlst du dich sexuell zu mir hingezogen?"
 
 # game/episode006.rpy:1209
 translate german episode006_36391c9b_3:
 
     # c "Yes, I am."
-    c ""
+    c "Ja, tuhe ich."
 
 # game/episode006.rpy:1211
 translate german episode006_8277cb72_6:
 
     # c "No, I'm not."
-    c ""
+    c "Nein, tuhe ich nicht."
 
 # game/episode006.rpy:1213
 translate german episode006_c447ac89:
 
     # chrone "Have the past few days heightened or lowered you sexual desires?"
-    chrone ""
+    chrone "Haben sich deine sexuellen Wünsche die letzten tage verstärkt oder verringert?"
 
 # game/episode006.rpy:1218
 translate german episode006_ff32a3e5:
 
     # c "They've increased."
-    c ""
+    c "Sie haben sich verstärkt."
 
 # game/episode006.rpy:1219
 translate german episode006_2bcd025f:
 
     # c "Do you know how frustrating it is to be locked up in a cell and be subjected to hardcore pornography once in a while while strapped to a chair?"
-    c ""
+    c "Wissen Sie, wie frustrierend es ist, in einer Zelle eingesperrt zu sein und hin und wieder Hardcore-Pornografie ausgesetzt zu sein, während man an einen Stuhl gefesselt ist?"
 
 # game/episode006.rpy:1221
 translate german episode006_57a46b0c:
 
     # c "Lowered."
-    c ""
+    c "Verringert."
 
 # game/episode006.rpy:1222
 translate german episode006_dd948abb:
 
     # c "You have no idea how much that hardcore pornography you've subjected me to has desensitized me to anything erotic."
-    c ""
+    c "Sie haben keine Ahnung, wie sehr mich die Hardcore-Pornografie, der sie mich ausgesetzt haben, gegenüber allem Erotischen desensibilisiert hat."
 
 # game/episode006.rpy:1224
 translate german episode006_a6745631:
 
     # c "I don't think there's been any change, to be honest."
-    c ""
+    c "Ich glaube nicht das sich was verändert hat, um ehrlich zu sein."
 
 # game/episode006.rpy:1228
 translate german episode006_c3e120b4:
 
     # chrone "If I were to offer you my body, would you take advantage?"
-    chrone ""
+    chrone "Wenn ich dir meinen Körper anbieten würde, würdest du das ausnutzen?"
 
 # game/episode006.rpy:1229
 translate german episode006_ab37254d:
 
     # c "Wait a minute, are we still talking hypotheticals here?"
-    c ""
+    c "Moment mal, reden wir hier immer noch von Hypothesen?"
 
 # game/episode006.rpy:1231
 translate german episode006_dbea7768:
 
     # chrone "Please answer the question."
-    chrone ""
+    chrone "Bitte beantworte die Frage."
 
 # game/episode006.rpy:1235
 translate german episode006_0de2deac:
 
     # c "Yes, I would."
-    c ""
+    c "Ja, würde ich."
 
 # game/episode006.rpy:1236
 translate german episode006_12474fde:
 
     # chrone "How would you fuck me?"
-    chrone ""
+    chrone "Wie würdest du mich ficken?"
 
 # game/episode006.rpy:1237
 translate german episode006_bdae5aab:
 
     # c "I'd tear that skimpy uniform you're wearing from your body and force you to bend over."
-    c ""
+    c "Ich würde ihnen die knappe Uniform, die sie tragen, vom Körper reißen und sie zwingen, sich zu bücken."
 
 # game/episode006.rpy:1238
 translate german episode006_bf753f73:
 
     # c "Grabbing you by the hair, I'd ram my cock inside you."
-    c ""
+    c "Ich würde ihre Haare greifen, und meinen Schwanz in sie hinein rammen."
 
 # game/episode006.rpy:1239
 translate german episode006_ad032698:
 
     # c "Then I'd hate-fuck you until you begged for me to cum."
-    c ""
+    c "Dann hass-ficke ich sie bis sie mich anbetteteln zu kommen."
 
 # game/episode006.rpy:1241
 translate german episode006_cb3deecb:
 
     # c "Does that satisfy your curiosity?"
-    c ""
+    c "Befriedigt das ihre Neugier?"
 
 # game/episode006.rpy:1242
 translate german episode006_6c858c9a:
 
     # chrone "A little."
-    chrone ""
+    chrone "Ein bisschen."
 
 # game/episode006.rpy:1244
 translate german episode006_d6d133cb:
 
     # chrone "It's all talk though..."
-    chrone ""
+    chrone "Es sind aber alles nur worte..."
 
 # game/episode006.rpy:1245
 translate german episode006_7175dc08:
 
     # c "Send away your guards and find out how much of it is true."
-    c ""
+    c "Schicken sie ihre Wachen weg und finden sie raus wie viel davon wahr ist."
 
 # game/episode006.rpy:1247
 translate german episode006_663cf6f2:
 
     # chrone "I'm afraid that won't happen, as it would be far to easy for you to overpower me and use me as a hostage."
-    chrone ""
+    chrone "Ich fürchte das wird nicht passieren, denn es wäre viel zu einfach für dich mich als Geisel zu nehmen."
 
 # game/episode006.rpy:1249
 translate german episode006_dbe9bfe8:
 
     # chrone "Follow me to the examination table."
-    chrone ""
+    chrone "Folg mir zum Untersuchungstisch."
 
 # game/episode006.rpy:1250
 translate german episode006_01cda52e:
 
     # "Expecting a physical exam, I followed her hesitantly."
-    ""
+    "Da ich eine körperliche Untersuchung erwartete, folgte ich ihr zögernd."
 
 # game/episode006.rpy:1251
 translate german episode006_67853530:
 
     # "She nodded at the guards and they shifted positions, their backs turned to us."
-    ""
+    "Sie nickte den Wachen zu, und sie wechselten ihre Position und drehten uns den Rücken zu."
 
 # game/episode006.rpy:1257
 translate german episode006_57e5dc05:
 
     # chrone "Thank you for answering my questions so thoroughly."
-    chrone ""
+    chrone "Danke das du meine Fragen so ausführlich beantwortet hast."
 
 # game/episode006.rpy:1258
 translate german episode006_ecd813b0:
 
     # chrone "We’ll move the conversation back to my desk so we can wrap things up."
-    chrone ""
+    chrone "Wir werden das Gespräch zurück an meinen Schreibtisch verlegen, damit wir die Dinge abschließen können."
 
 # game/episode006.rpy:1259
 translate german episode006_98db9245:
 
     # "Before I fucked her brains out, I’d been eyeing a pen on the doctor’s desk."
-    ""
+    "Bevor ich ihr das Gehirn rausgevögelt habe, hatte ich einen Stift auf dem Schreibtisch ins Visier genommen."
 
 # game/episode006.rpy:1261
 translate german episode006_60dde2ba:
 
     # "I couldn’t really make a move during the interview, but I really wanted to palm that thing somehow and now was as good a time as any."
-    ""
+    "Während des Gesprächs konnte ich mich nicht wirklich bewegen, aber ich wollte das Ding unbedingt irgendwie in die Hände bekommen, und jetzt war ein ebenso guter Zeitpunkt wie jeder andere."
 
 # game/episode006.rpy:1262
 translate german episode006_ac9b6b51:
 
     # "We needed an edge and something small like a pen could be smuggled, sharpened and maybe used as a weapon."
-    ""
+    "Ich brauchte irgendeinen Vorteil und etwas so kleines wie ein Stift konnte man gut schmuggeln, schärfen und als Waffe nutzen."
 
 # game/episode006.rpy:1263
 translate german episode006_193355f5:
 
     # "Yeah, I didn’t have a fucking clue, but what else was I supposed to do?"
-    ""
+    "Ja, ich hatte keine verdammte Ahnung, aber was sollte ich sonst tun?"
 
 # game/episode006.rpy:1265
 translate german episode006_3e8859d4:
 
     # "She let me walk in front of her, busying herself with the buttons of her dress."
-    ""
+    "Sie ließ mich vor sich hergehen und beschäftigte sich mit den Knöpfen ihres Kleides."
 
 # game/episode006.rpy:1266
 translate german episode006_3a69f482:
 
     # "When I reached the desk I quickly covered the pen with the palm of my hand and stuck it between the waistband of my jumpsuit."
-    ""
+    "Als ich am Schreibtisch ankam, bedeckte ich schnell den Stift mit meiner Handfläche und steckte ihn zwischen den Hosenbund meines Overalls."
 
 # game/episode006.rpy:1267
 translate german episode006_5b3aeebd:
 
     # "The guards never strip-searched us, so I was pretty confident I could smuggle the thing into our cell."
-    ""
+    "Die Wachen haben uns nie durchsucht, alse war ich mir ziemlich sicher das ich ihn in unsere Zelle schmuggeln konnte."
 
 # game/episode006.rpy:1268
 translate german episode006_29e44a64:
 
     # c "Are we done here, doc?"
-    c ""
+    c "Sind wir hier fertig Doc?"
 
 # game/episode006.rpy:1269
 translate german episode006_63e1a3ff:
 
     # chrone "Yes, we are."
-    chrone ""
+    chrone "Ja, sind wir."
 
 # game/episode006.rpy:1270
 translate german episode006_5c825ed7:
 
     # "She called the guards who either hadn’t noticed the vigorous fucking that had gone on in the office or simply didn’t give a shit."
-    ""
+    "Sie rief die Wachen, denen das heftige Ficken im Büro entweder nicht aufgefallen war oder denen es einfach scheißegal war."
 
 # game/episode006.rpy:1272
 translate german episode006_6de3e462:
 
     # "Like I hoped, they took me back to the cell without any further inspection."
-    ""
+    "Wie ich gehofft hatte brachten sie mich zurück zur Zelle ohne mich zu durchsuchen."
 
 # game/episode006.rpy:1274
 translate german episode006_02b377e9:
 
     # c "No, I wouldn't."
-    c ""
+    c "Nein, würde ich nicht."
 
 # game/episode006.rpy:1275
 translate german episode006_26dc1492:
 
     # chrone "You harbor a grudge against me?"
-    chrone ""
+    chrone "Hegst du einen Groll gegen mich?"
 
 # game/episode006.rpy:1276
 translate german episode006_606d9475:
 
     # c "Of course I fucking do, you’re the reason why I’m locked up here in the first place."
-    c ""
+    c "Natürlich tue ich das verdammt noch mal, sie sind der Grund, warum ich überhaupt hier eingesperrt bin"
 
 # game/episode006.rpy:1278
 translate german episode006_38425ee8:
 
     # "While the doctor was droning on with her useless questions I’d eyed a pen on her desk."
-    ""
+    "Während die Ärztin mit ihren nutzlosen Fragen herumplapperte, hatte ich einen Stift auf ihrem Schreibtisch ins Visier genommen."
 
 # game/episode006.rpy:1279
 translate german episode006_f694079b:
 
     # "Her attention was fully on me, so I couldn’t really make a move, but I really wanted to palm that thing somehow."
-    ""
+    "Ihre Aufmerksamkeit war ganz auf mich gerichtet, also konnte ich mich nicht wirklich bewegen, aber ich wollte das Ding unbedingt irgendwie in die Finger kriegen."
 
 # game/episode006.rpy:1280
 translate german episode006_ac9b6b51_1:
 
     # "We needed an edge and something small like a pen could be smuggled, sharpened and maybe used as a weapon."
-    ""
+    "Wir brauchten einen Vorteil und etwas so kleines wie einen Stift konnte man gut schmuggeln, schärfen und vielleicht als waffe nutzen."
 
 # game/episode006.rpy:1281
 translate german episode006_193355f5_1:
 
     # "Yeah, I didn’t have a fucking clue, but what else was I supposed to do?"
-    ""
+    "Ja, ich hatte keine verdammte Ahnung, aber was sollte ich sonst tun?"
 
 # game/episode006.rpy:1283
 translate german episode006_e42ada7a:
 
     # chrone "We’re done with the interview."
-    chrone ""
+    chrone "Wir sind fertig mit dem Interview."
 
 # game/episode006.rpy:1284
 translate german episode006_128f2394:
 
     # c "Finally."
-    c ""
+    c "Endlich."
 
 # game/episode006.rpy:1285
 translate german episode006_11794256:
 
     # chrone "You may stand up."
-    chrone ""
+    chrone "Du darfst aufstehen."
 
 # game/episode006.rpy:1287
 translate german episode006_5e3894cf:
 
     # "I did so and pretended to buckle forward, steadying myself on the edges of the desk."
-    ""
+    "Ich tat es und tat so, als würde ich mich nach vorne beugen und mich auf den Kanten des Schreibtisches abstützen."
 
 # game/episode006.rpy:1288
 translate german episode006_ccdc1fb7:
 
     # "I heard the guards behind me tense and draw their weapons."
-    ""
+    "Ich hörte, wie sich die Wachen hinter mir anspannten und ihre Waffen zogen."
 
 # game/episode006.rpy:1289
 translate german episode006_04497ddc:
 
     # c "You really need to invest in more comfortable furniture."
-    c ""
+    c "Sie müssen unbedingt in komfortablere Möbel investieren."
 
 # game/episode006.rpy:1291
 translate german episode006_3506d5be:
 
     # "As she looked me in the eyes sneeringly, I quickly covered the pen with my hand and stuck it between the waistband of my jumpsuit."
-    ""
+    "Als sie mir höhnisch in die Augen sah, bedeckte ich schnell den Stift mit meiner Hand und steckte ihn zwischen den Hosenbund meines Overalls."
 
 # game/episode006.rpy:1292
 translate german episode006_5b3aeebd_1:
 
     # "The guards never strip-searched us, so I was pretty confident I could smuggle the thing into our cell."
-    ""
+    "Die Wachen haben uns noch nie durchsucht, also war ich mir ziemlich sicher das ich ihn in die Zelle schmuggeln konnte."
 
 # game/episode006.rpy:1294
 translate german episode006_6de3e462_1:
 
     # "Like I hoped, they took me back to the cell without any further inspection."
-    ""
+    "Wie erhofft brachten sie mich zurück in die Zelle ohne mich zu durchsuchen."
 
 # game/episode006.rpy:1297
 translate german episode006_38425ee8_1:
 
     # "While the doctor was droning on with her useless questions I’d eyed a pen on her desk."
-    ""
+    "Während die Ärztin mit ihren nutzlosen Fragen weiterplapperte nahm ich einen Stift auf ihrem Tisch ins Visier."
 
 # game/episode006.rpy:1298
 translate german episode006_f694079b_1:
 
     # "Her attention was fully on me, so I couldn’t really make a move, but I really wanted to palm that thing somehow."
-    ""
+    "Ihr Fokus lag auf mir also konnte ich mich nicht wirklich bewegen, aber ich wollte den Stift unbedingt in die Finger kriegen."
 
 # game/episode006.rpy:1299
 translate german episode006_ac9b6b51_2:
 
     # "We needed an edge and something small like a pen could be smuggled, sharpened and maybe used as a weapon."
-    ""
+    "Wir brauchten einen Vorteil und etwas so kleines wie einen Stift konnte man gut schmuggeln, schärfen und vielleicht als Waffe nutzen."
 
 # game/episode006.rpy:1300
 translate german episode006_193355f5_2:
 
     # "Yeah, I didn’t have a fucking clue, but what else was I supposed to do?"
-    ""
+    "Ja, ich hatte keine verdammte Ahnung, aber was sollte ich sonst tun?"
 
 # game/episode006.rpy:1302
 translate german episode006_e42ada7a_1:
 
     # chrone "We’re done with the interview."
-    chrone ""
+    chrone "Wir sind mit dem Interview fertig."
 
 # game/episode006.rpy:1303
 translate german episode006_128f2394_1:
 
     # c "Finally."
-    c ""
+    c "Endlich."
 
 # game/episode006.rpy:1304
 translate german episode006_11794256_1:
 
     # chrone "You may stand up."
-    chrone ""
+    chrone "Du darfst aufstehen."
 
 # game/episode006.rpy:1306
 translate german episode006_5e3894cf_1:
 
     # "I did so and pretended to buckle forward, steadying myself on the edges of the desk."
-    ""
+    "Ich tat es und tat so, als würde ich mich nach vorne beugen und mich auf den Kanten des Schreibtisches abstützen."
 
 # game/episode006.rpy:1307
 translate german episode006_ccdc1fb7_1:
 
     # "I heard the guards behind me tense and draw their weapons."
-    ""
+    "Ich hörte, wie sich die Wachen hinter mir anspannten und ihre Waffen zogen."
 
 # game/episode006.rpy:1308
 translate german episode006_04497ddc_1:
 
     # c "You really need to invest in more comfortable furniture."
-    c ""
+    c "Sie müssen unbedingt in komfortablere Möbel investieren."
 
 # game/episode006.rpy:1310
 translate german episode006_3506d5be_1:
 
     # "As she looked me in the eyes sneeringly, I quickly covered the pen with my hand and stuck it between the waistband of my jumpsuit."
-    ""
+    "Als sie mir höhnisch in die Augen sah, bedeckte ich schnell den Stift mit meiner Hand und steckte ihn zwischen den Hosenbund meines Overalls."
 
 # game/episode006.rpy:1311
 translate german episode006_5b3aeebd_2:
 
     # "The guards never strip-searched us, so I was pretty confident I could smuggle the thing into our cell."
-    ""
+    "Die Wachen haben uns nie durchsucht, alse war ich mir ziemlich sicher das ich ihn in die Zelle schmuggeln konnte."
 
 # game/episode006.rpy:1313
 translate german episode006_6de3e462_2:
 
     # "Like I hoped, they took me back to the cell without any further inspection."
-    ""
+    "Wie erhofft, brachten sie mich zurück in die Zelle ohne mich zu durchsuchen."
 
 # game/episode006.rpy:1318
 translate german episode006_1fa69c0a:
 
     # "When they dumped me back into the cell all three women rushed towards me."
-    ""
+    "Als sie mich in der Zelle abluden kamen alle drei Frauen angelaufen."
 
 # game/episode006.rpy:1319
 translate german episode006_26fd0081:
 
     # l "Are you okay, [p_name]?"
-    l ""
+    l "Bist du okay, [p_name]?"
 
 # game/episode006.rpy:1320
 translate german episode006_af110abf:
 
     # av "Did they hurt you?"
-    av ""
+    av "Haben sie dir weh getan?"
 
 # game/episode006.rpy:1321
 translate german episode006_d3e72ce0:
 
     # na "Let him sit down girls and get his bearings."
-    na ""
+    na "Lasst ihn sich hinsetzen Mädels und sich orientieren."
 
 # game/episode006.rpy:1324
 translate german episode006_8dc4bb04:
 
     # "Instead of following Nadya’s advice, I embraced Lilly and whispered something in her ear."
-    ""
+    "Anstatt Nadyas Rat zu befolgen, umarmte ich Lilly und flüsterte ihr etwas ins Ohr."
 
 # game/episode006.rpy:1325
 translate german episode006_e5fffa40:
 
     # c "We’re breaking out, wait for my signal."
-    c ""
+    c "Wir brechen aus, warte auf mein Signal."
 
 # game/episode006.rpy:1326
 translate german episode006_e433901d:
 
     # "Lilly looked into my eyes and nodded."
-    ""
+    "Lilly schaute mir in die augen und nickte."
 
 # game/episode006.rpy:1328
 translate german episode006_32b7c5c9:
 
     # "I turned towards Aven and embraced her too."
-    ""
+    "Ich drehte mich zu Aven und umarmte sie ebenfalls."
 
 # game/episode006.rpy:1329
 translate german episode006_dc3e30da:
 
     # c "Take this, we’re breaking out, wait for Lilly and me to start making some noise."
-    c ""
+    c "Nimm das, wir brechen aus und warte, bis Lilly und ich anfangen, Lärm zu machen."
 
 # game/episode006.rpy:1332
 translate german episode006_83b59d64:
 
     # "Instead of following Nadya’s advice, I embraced Aven and whispered something in her ear."
-    ""
+    "Anstatt Nadyas Rat zu folgen, umarmte ich Aven und flüsterte ihr etwas ins Ohr."
 
 # game/episode006.rpy:1333
 translate german episode006_dc3e30da_1:
 
     # c "Take this, we’re breaking out, wait for Lilly and me to start making some noise."
-    c ""
+    c "Nimm das, wir brechen aus und warte, bis Lilly und ich anfangen, Lärm zu machen."
 
 # game/episode006.rpy:1334
 translate german episode006_c84f7339:
 
     # "Aven took the offered pen and hid slipped it into her sleeve."
-    ""
+    "Aven nahm den angebotenen Stift und versteckte ihn in ihrem Ärmel."
 
 # game/episode006.rpy:1336
 translate german episode006_d7cbaffd:
 
     # "I turned towards Lilly and embraced her too."
-    ""
+    "Ich drehte mich zu Lilly um und umarmte sie ebenfalls."
 
 # game/episode006.rpy:1337
 translate german episode006_e5fffa40_1:
 
     # c "We’re breaking out, wait for my signal."
-    c ""
+    c "Wir brechen aus, warte auf mein Signal."
 
 # game/episode006.rpy:1339
 translate german episode006_b1e9e58b:
 
     # "I embraced Nadya too for good measure, though she was a little hesitant to return the gesture."
-    ""
+    "Ich umarmte auch Nadya nur zur sicherheit, allerdings war sie etwas unsicher die geeste zu erwiedern. "
 
 # game/episode006.rpy:1340
 translate german episode006_b96cf30f:
 
     # c "We’re breaking out, wait for us to make a move."
-    c ""
+    c "Wir brechen aus warte bis wir das Signal geben. "
 
 # game/episode006.rpy:1341
 translate german episode006_ec1edef6:
 
     # "Nadya didn’t give any hint she understood me, but didn’t break my cover either."
-    ""
+    "Nadya ließ nicht erkennen, dass sie mich verstand, entlarvte aber auch nicht meine Tarnung"
 
 # game/episode006.rpy:1343
 translate german episode006_5fd2d8c4:
 
     # "We fell into our routine and waited for the right moment."
-    ""
+    "Wir verfielen in die Routine und warteten auf den richtigen Moment."
 
 # game/episode006.rpy:1348
 translate german episode006_484edd25:
 
     # "Eventually, the food arrived."
-    ""
+    "Irgendwann, kam das Essen."
 
 # game/episode006.rpy:1350
 translate german episode006_a4b253e9:
 
     # "I walked towards the trays of food and picked one up and threw it against the wall."
-    ""
+    "Ich ging zu den Essenstabletts, nahm eines davon und warf es gegen die Wand."
 
 # game/episode006.rpy:1352
 translate german episode006_94c37dbf:
 
     # l "What the fuck are you doing?!"
-    l ""
+    l "Was zum fick machst du da?"
 
 # game/episode006.rpy:1353
 translate german episode006_064c68eb:
 
     # "Before she could approach me I threw another tray against the wall."
-    ""
+    "Bevor sie näher kommen konnte warf ich ein weiteres Tablett gegen die Wand."
 
 # game/episode006.rpy:1355
 translate german episode006_d83d8f9b:
 
     # "Lilly shrieked and rushed towards me as I was about to throw the third tray against the wall."
-    ""
+    "Lilly kreischte und stürzte auf mich zu, als ich gerade das dritte Tablett gegen die Wand werfen wollte."
 
 # game/episode006.rpy:1356
 translate german episode006_ecf2092b:
 
     # l "No!{w} That's our food, you lunatic!"
-    l ""
+    l "Nein!{w} Das ist unser Essen, du Wahnsinniger."
 
 # game/episode006.rpy:1357
 translate german episode006_2e8b2924:
 
     # "She pulled at my arm and made a whole lot of noise."
-    ""
+    "Sie zog an meinem Arm und machte ein menge Lärm."
 
 # game/episode006.rpy:1359
 translate german episode006_e00a13e0:
 
     # "When my eyes met hers a mischievous smile briefly crept across her face."
-    ""
+    "Als mein Blick ihren traf, schlich sich kurz ein schelmisches Lächeln über ihr Gesicht."
 
 # game/episode006.rpy:1360
 translate german episode006_bfce2bc0:
 
     # "During all the commotion, Aven had positioned herself beside the door."
-    ""
+    "Während des ganzen Trubels hatte sich Aven neben der Tür positioniert."
 
 # game/episode006.rpy:1362
 translate german episode006_015749c6:
 
     # "That's when the guards arrived to break up the fight."
-    ""
+    "In dem Moment kamen die Wachen und den kampf zu beenden."
 
 # game/episode006.rpy:1364
 translate german episode006_8eea2543:
 
     # "As they tried to grab me I swung the tray I'd picked up and struck one of the guards right across his face."
-    ""
+    "Als sie versuchten, mich zu packen, schwang ich das Tablett, das ich aufgehoben hatte, und schlug es einem der Wachen direkt ins Gesicht."
 
 # game/episode006.rpy:1366
 translate german episode006_f7e26a24:
 
     # "Meanwhile, Aven took one of the other guards in a chokehold and held the pen I stole inches above one of the poor fellow's arteries."
-    ""
+    "Währenddessen packte Aven einen der anderen Wachen im Würgegriff und hielt den Stift, den ich gestohlen hatte, nur Zentimeter über eine der Arterien des armen Kerls."
 
 # game/episode006.rpy:1368
 translate german episode006_165a3a80:
 
     # "Lilly pulled the gun from the unfortunate guard's holster and stunned him with his own weapon."
-    ""
+    "Lilly zog die Waffe aus dem Holster des unglücklichen Wachmanns und betäubte ihn mit seiner eigenen Waffe."
 
 # game/episode006.rpy:1370
 translate german episode006_3b6f8d3e:
 
     # "That left one guard, who was about to assault Lilly when Nadya ran up behind him and thrashed him on the head with one of the dinner trays I had thrown against the wall."
-    ""
+    "Ein Wachmann blieb übrig, der gerade Lilly angreifen wollte, als Nadya hinter ihn rannte und ihm mit einem der Tabletts, die ich gegen die Wand geworfen hatte, auf den Kopf schlug."
 
 # game/episode006.rpy:1372
 translate german episode006_c01e97ef:
 
     # "More guards would surely arrive now, so we worked quickly and retrieved all the weapons the guards carried."
-    ""
+    "Es waren sicherlich noch weitere Wachen unterwegs, also beeilten wir uns den Wachen alle Waffen abzunehmen die sie dabei hatten."
 
 # game/episode006.rpy:1373
 translate german episode006_179e225f:
 
     # "One of them also carried a set of keys which we took."
-    ""
+    "Einer hatte einen großen Schlüssebund dabei den wir ebenfalls mitnahmen."
 
 # game/episode006.rpy:1374
 translate german episode006_fecc9c3a:
 
     # "The door was still open, so we ran out in the corridor, leaving the unconscious guards behind."
-    ""
+    "Die Tür war noch immer offen, also ranten wir raus in flur, und ließen die ohnmächtigen Wachen zurück."
 
 # game/episode006.rpy:1375
 translate german episode006_c1da87dd:
 
     # "Though there were no alarms audible, we knew it was a matter of time before more guards would arrive."
-    ""
+    "Obwohl es keinen offensichtlichen Alarm gab wusste wir das es nur eine Frage der Zeit war bis weitere Wachen kamen. "
 
 # game/episode006.rpy:1376
 translate german episode006_0014444b:
 
     # "We had to think fast."
-    ""
+    "Wir mussten uns schnell was überlegen."
 
 # game/episode006.rpy:1378
 translate german episode006_a611d2c5:
 
     # "The way to the doctor's office still fresh in my memory, I took the lead."
-    ""
+    "Mit dem Weg zum Büro der Doktorin nur frisch im Gedächnis, übernahm ich die führung."
 
 # game/episode006.rpy:1380
 translate german episode006_2c381165:
 
     # "With our weapons drawn we slammed open the door and moved inside."
-    ""
+    "Mit gezogenen Waffen traten wir die Tür auf und stürmten hinein."
 
 # game/episode006.rpy:1381
 translate german episode006_55d2cedf:
 
     # "The doctor nearly fell from her chair in shock and was quickly overpowered by Aven."
-    ""
+    "Die Doktorin fiel fast vom stuhl in ihrem Schock und wurde schnell von Aven überwältigt."
 
 # game/episode006.rpy:1383
 translate german episode006_1706e547:
 
     # c "Are we being watched here?"
-    c ""
+    c "Werden wir hier überwacht?"
 
 # game/episode006.rpy:1384
 translate german episode006_91c61d31:
 
     # chrone "I..."
-    chrone ""
+    chrone "Ich..."
 
 # game/episode006.rpy:1385
 translate german episode006_be17ee9b:
 
     # c "Answer the question."
-    c ""
+    c "Beantworten sie die Frage."
 
 # game/episode006.rpy:1386
 translate german episode006_a5fc7df9:
 
     # chrone "No, the surveillance is limited to the cells."
-    chrone ""
+    chrone "Nein, die Überwachung findet nur in den Zellen statt."
 
 # game/episode006.rpy:1387
 translate german episode006_f2f42cdc:
 
     # c "Back when we were here and you were asking me all kinds of impertinent questions, the guards seemed to obey you."
-    c ""
+    c "Als ich hier war und sie mir all diese unverschämten Fragen gestellt haben, sah es so aus als würden die Wachen ihrem Befehl folgen."
 
 # game/episode006.rpy:1388
 translate german episode006_dc698127:
 
     # c "You're their superior, aren't you?"
-    c ""
+    c "Sie sind deren Vorgesetzte richtig?"
 
 # game/episode006.rpy:1390
 translate german episode006_d9b94556:
 
     # chrone "I am."
-    chrone ""
+    chrone "Bin ich."
 
 # game/episode006.rpy:1391
 translate german episode006_d83da912:
 
     # c "In that case, tell them to stand down immediately."
-    c ""
+    c "In dem Fall, sagen sie ihnen sie sollen zurück auf ihre Posten gehen."
 
 # game/episode006.rpy:1392
 translate german episode006_4c219fb0:
 
     # chrone "I don't know if I can, the whole base is on full alert."
-    chrone ""
+    chrone "Ich weiß nicht ob ich das kann, die ganze Basis ist im Alarmzustand."
 
 # game/episode006.rpy:1393
 translate german episode006_78a8a61c:
 
     # c "Try anyway."
-    c ""
+    c "Versuchen sie es."
 
 # game/episode006.rpy:1394
 translate german episode006_4c07f644:
 
     # c "And if you try anything stupid, Aven will fry your brain with that shiny gun she's holding."
-    c ""
+    c "Und wenn sie irgendwas dummes versuchen, wird Aven ihnen mit der Waffe in ihrer Hand das Gehirn raus pusten."
 
 # game/episode006.rpy:1396
 translate german episode006_ea1ab6bf:
 
     # "The doctor moved to the comm console and pressed on of the speaker buttons."
-    ""
+    "Die Doktorin ging zu der Kommunikationskonsole und drückte auf einen der Knöpfe."
 
 # game/episode006.rpy:1397
 translate german episode006_497e6699:
 
     # chrone "Guards in Sector Gamma, stand down at once."
-    chrone ""
+    chrone "Wachen in Sektor Gamma, zurück auf eure Posten."
 
 # game/episode006.rpy:1398
 translate german episode006_673ca4b4:
 
     # chrone "Prisoner escape drill has been completed."
-    chrone ""
+    chrone "Gefangenen ausbruchs übung wurde abgeschlossen."
 
 # game/episode006.rpy:1399
 translate german episode006_1351268a:
 
     # chrone "Stand down at once."
-    chrone ""
+    chrone "Sofort zurück auf eure Posten."
 
 # game/episode006.rpy:1401
 translate german episode006_d6f89a9c:
 
     # chrone "There, I did it."
-    chrone ""
+    chrone "Bitte, ich habs getan."
 
 # game/episode006.rpy:1402
 translate german episode006_081de6ac:
 
     # c "We'll have to take that risk."
-    c ""
+    c "Das Risiko müssen wir eingehen."
 
 # game/episode006.rpy:1403
 translate german episode006_da9de6ca:
 
     # c "Now you’re going to tell us where we are."
-    c ""
+    c "Nun werden sie uns sagen wo wir sind."
 
 # game/episode006.rpy:1404
 translate german episode006_e8ae2899:
 
     # chrone "At a research facility."
-    chrone ""
+    chrone "In einer Forschungseinrichtung."
 
 # game/episode006.rpy:1406
 translate german episode006_e8957c8f:
 
     # "Before I could say anything, Aven cracked the butt of the pistol against the woman’s head."
-    ""
+    "Bevor ich etwas sagen konnte, zog Aven der Frau mit dem Pistolen knauf eins über."
 
 # game/episode006.rpy:1407
 translate german episode006_deb9a107:
 
     # av "Tell us something we don’t know."
-    av ""
+    av "Erzählen sie uns etwas das wir nicht wissen."
 
 # game/episode006.rpy:1408
 translate german episode006_129b6ab7:
 
     # c "You heard the lady."
-    c ""
+    c "Sie haben die gute Frau gehört."
 
 # game/episode006.rpy:1409
 translate german episode006_54b93d98:
 
     # c "Which research station?"
-    c ""
+    c "Welche Forschungsstation?"
 
 # game/episode006.rpy:1411
 translate german episode006_e31cddfd:
 
     # chrone "Höfel MDCL, built on an asteroid deep inside the Heveliun Belt."
-    chrone ""
+    chrone "Höfel MDCL, auf einem Asteroiden tief im Hevelium Gürtel."
 
 # game/episode006.rpy:1420
 translate german episode006_dd603b64:
 
     # c "Who runs this place?"
-    c ""
+    c "Wer leitet das hier alles."
 
 # game/episode006.rpy:1421
 translate german episode006_95622a6a:
 
     # chrone "A large company, they do research into immersive simulations."
-    chrone ""
+    chrone "Eine große Firma sie forschen an immersiven simulationen."
 
 # game/episode006.rpy:1422
 translate german episode006_0330f543:
 
     # c "So we’re all lab rats?"
-    c ""
+    c "Also sind wir alle Laborratten?"
 
 # game/episode006.rpy:1424
 translate german episode006_b10027a8:
 
     # chrone "I wouldn’t call it that..."
-    chrone ""
+    chrone "So würde ich das nicht nennen..."
 
 # game/episode006.rpy:1426
 translate german episode006_4f9680ef:
 
     # "That statement earned her another hit from Aven with the pistol."
-    ""
+    "Diese Aussage brachte ihr einen weiteren Schlag von Aven mit der Pistole ein."
 
 # game/episode006.rpy:1427
 translate german episode006_56d5655e:
 
     # c "How did we all get here?"
-    c ""
+    c "Wie sind wir hier hergekommen?"
 
 # game/episode006.rpy:1429
 translate german episode006_0da426d1:
 
     # chrone "You all arrived together on a ship."
-    chrone ""
+    chrone "Ihr seid zusammen auf einem Schiff angekommen."
 
 # game/episode006.rpy:1430
 translate german episode006_4edc52f4:
 
     # c "Us four?"
-    c ""
+    c "Wir vier?"
 
 # game/episode006.rpy:1431
 translate german episode006_eb785b3b:
 
     # chrone "No, there were others with you."
-    chrone ""
+    chrone "Nein da waren auch noch andere."
 
 # game/episode006.rpy:1432
 translate german episode006_58b7e315:
 
     # c "So we were a crew."
-    c ""
+    c "Also waren wir eine Crew."
 
 # game/episode006.rpy:1433
 translate german episode006_3d11d0fd:
 
     # c "Where are they now?"
-    c ""
+    c "Wo sind sie jetzt?"
 
 # game/episode006.rpy:1435
 translate german episode006_9797359e:
 
     # chrone "Elsewhere on this floor, I can show you where."
-    chrone ""
+    chrone "Woanders auf diesem Flur, ich kann euch zeigen wo."
 
 # game/episode006.rpy:1436
 translate german episode006_45c34acb:
 
     # c "What did you do to our memories?"
-    c ""
+    c "Was haben sie mit unseren Erinnerungen gemacht?"
 
 # game/episode006.rpy:1437
 translate german episode006_c468e28f:
 
     # chrone "They’re temporarily suppressed, the effect will wear off when the chemicals leave your body."
-    chrone ""
+    chrone "Sie sind temporär unterdrück, der Effekt wird nachlassen sobald die Chemikalien euren Körper verlassen."
 
 # game/episode006.rpy:1438
 translate german episode006_ed268e68:
 
     # c "Chemicals?{w} You drugged us?"
-    c ""
+    c "Chemikalien?{w} sie haben uns unter Drogen gesetzt?"
 
 # game/episode006.rpy:1439
 translate german episode006_72fdb1f9:
 
     # chrone "We administer a solution via the meals we provide in order to have the most clear response to the simulations."
-    chrone ""
+    chrone "Wir verabreichen eine Lösung über die von uns bereitgestellten Mahlzeiten, um eine möglichst klare Reaktion auf die Simulationen zu erhalten."
 
 # game/episode006.rpy:1440
 translate german episode006_086dd1cf:

@@ -5056,43 +5056,43 @@ translate german episode006_72fdb1f9:
 translate german episode006_086dd1cf:
 
     # c "So you take us prisoner, pry into our brains, drugs us, subject us to mind games..."
-    c ""
+    c "Also ihr nehmt uns als gefangene, spielt in unseren Gehirnen rum, setzt uns unter drogen, spielt irgendwelche Gedankenspiele... "
 
 # game/episode006.rpy:1441
 translate german episode006_f982afd9:
 
     # c "Aven, what would be the effect of that blaster at point blank range on the doctor’s skull?"
-    c ""
+    c "Aven, was wäre die Auswirking wenn du mit der Waffe aus nächster nähe abdrücken würdest?"
 
 # game/episode006.rpy:1442
 translate german episode006_762e5b97:
 
     # av "I think the only way to describe that would be ‘messy’."
-    av ""
+    av "Ich denke der einzige Weg das zu beschreiben wäre, ‘unansehnlich’."
 
 # game/episode006.rpy:1443
 translate german episode006_1a6b77ee:
 
     # c "Goodbye, doctor."
-    c ""
+    c "Auf Wiedersehn, Doktor."
 
 # game/episode006.rpy:1445
 translate german episode006_052e3dc3:
 
     # chrone "No!{w} Wait!{w} I can get you out of here!"
-    chrone ""
+    chrone "Nein!{w} Wartet!{w} Ich kann euch hier raus bringen."
 
 # game/episode006.rpy:1446
 translate german episode006_e73101f1:
 
     # chrone "Please don’t kill me!"
-    chrone ""
+    chrone "Bitte tötet mich nicht!"
 
 # game/episode006.rpy:1447
 translate german episode006_5785b452:
 
     # "I signalled Aven to give the doctor a chance to explain herself."
-    ""
+    "Ich gab Aven ein Signal nicht zu schießen damit sie sich erklären konnte."
 
 # game/episode006.rpy:1449
 translate german episode006_60fa186f:

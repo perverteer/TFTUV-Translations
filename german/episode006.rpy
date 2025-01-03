@@ -5098,211 +5098,211 @@ translate german episode006_5785b452:
 translate german episode006_60fa186f:
 
     # chrone "Your ship is still stationed in the company docks."
-    chrone ""
+    chrone "Euer Schiff liegt noch immer im Firmendock."
 
 # game/episode006.rpy:1450
 translate german episode006_ee987867:
 
     # chrone "I can show you where your friends are and help you reach your ship."
-    chrone ""
+    chrone "Ich kann euch zeigen wo eure freunde sind und euch helfen euer schiff zu erreichen."
 
 # game/episode006.rpy:1451
 translate german episode006_aef22107:
 
     # c "Keep talking."
-    c ""
+    c "Red weiter."
 
 # game/episode006.rpy:1452
 translate german episode006_8444a66d:
 
     # chrone "There’s a locker room two doors down from here where you’ll find lab coats and armor."
-    chrone ""
+    chrone "Zwei Türen weiter ist ein Umkleideraum dort könnt ihr Laborkittel und Körperpanzerung finden. "
 
 # game/episode006.rpy:1453
 translate german episode006_a7bc2f13:
 
     # chrone "If you wear those the station’s personnel will not suspect you."
-    chrone ""
+    chrone "Wenn ihr die anzieht wird das Personal euch nicht erkennen."
 
 # game/episode006.rpy:1454
 translate german episode006_ea4cd7ef:
 
     # c "All of the guards were aliens, doesn’t that raise any alarms?"
-    c ""
+    c "Alle wachen die wir gesehen haben waren Aliens, würde das nicht auffallen?"
 
 # game/episode006.rpy:1455
 translate german episode006_2c4cd81e:
 
     # chrone "Only on this floor, on the others it’s more mixed."
-    chrone ""
+    chrone "Nur auf dieser Ebene, auf den anderen ist es gemischt."
 
 # game/episode006.rpy:1456
 translate german episode006_0ba88062:
 
     # chrone "Your friends are in cell block Z-X17 and storage bay G-N135."
-    chrone ""
+    chrone "Eure Freunde sind im Zellenblock Z-X17 und im Lagerabteil G-N135."
 
 # game/episode006.rpy:1457
 translate german episode006_906113ad:
 
     # c "A storage bay?"
-    c ""
+    c "Ein Lagerabteil?"
 
 # game/episode006.rpy:1458
 translate german episode006_aaa01342:
 
     # chrone "Yes, some of you didn’t respond well enough to our research."
-    chrone ""
+    chrone "Ja, einige von Ihnen haben nicht gut genug auf unsere Forschung reagiert."
 
 # game/episode006.rpy:1459
 translate german episode006_533f5cfa:
 
     # c "So you put them in cold storage?"
-    c ""
+    c "Also hab ihr sie kalt gestellt"
 
 # game/episode006.rpy:1461
 translate german episode006_7ce43f8a:
 
     # chrone "In a sense."
-    chrone ""
+    chrone "In gewisser Weise."
 
 # game/episode006.rpy:1462
 translate german episode006_005ae020:
 
     # chrone "They should be up and running in no time."
-    chrone ""
+    chrone "Sie sollten in kürzester Zeit wieder fit sein."
 
 # game/episode006.rpy:1463
 translate german episode006_43fbbee2:
 
     # c "Gee, that’s a relief, doc!"
-    c ""
+    c "Mensch, das ist eine Erleichterung, Doc!"
 
 # game/episode006.rpy:1465
 translate german episode006_f58d982d:
 
     # chrone "You’ll need this card to override the locks on the doors."
-    chrone ""
+    chrone "Ihr braucht diese Karte um die schlösser an den Türen zu überschreiben."
 
 # game/episode006.rpy:1466
 translate german episode006_710573b7:
 
     # c "Good, anything else we should know?"
-    c ""
+    c "Gut, noch etwas das wir wissen sollten?"
 
 # game/episode006.rpy:1467
 translate german episode006_7c6d3fa6:
 
     # chrone "Yes, the station has weaponry to deal with escapees, so you’ll need a clearance code in order to leave on your ship."
-    chrone ""
+    chrone "Ja, die Station verfügt über Schwere Waffen damit keiner flüchtet, ihr braucht einen freigabe code um mit eurem Schiff zu flüchten."
 
 # game/episode006.rpy:1468
 translate german episode006_cd96310f:
 
     # c "How do we get one?"
-    c ""
+    c "Wie kriegen wir den?"
 
 # game/episode006.rpy:1469
 translate german episode006_dedefb9e:
 
     # chrone "The docking bay office should have a console where you can generate a code."
-    chrone ""
+    chrone "Das Büro der Andockbucht sollte über eine Konsole verfügen, an der ihr einen Code generieren könnt."
 
 # game/episode006.rpy:1470
 translate german episode006_bef26e49:
 
     # c "So that’s all?"
-    c ""
+    c "ALso das ist alles?"
 
 # game/episode006.rpy:1472
 translate german episode006_9cdd94fa:
 
     # chrone "Yes, that’s all I know."
-    chrone ""
+    chrone "Ja, das ist alles was ich weiß."
 
 # game/episode006.rpy:1473
 translate german episode006_41426dbd:
 
     # c "Alright then."
-    c ""
+    c "Na dann."
 
 # game/episode006.rpy:1474
 translate german episode006_f43ef03f:
 
     # c "Aven, please stun the good doctor into unconsciousness."
-    c ""
+    c "Aven, leg die Frau doktor doch bitte schlafen."
 
 # game/episode006.rpy:1476
 translate german episode006_a1ddcdae:
 
     # "After setting the gun to stun, Aven blasted the doctor far too many times than necessary."
-    ""
+    "Nachdem sie die Waffe auf betäuben umgestellt hatte, schoss sie deutlich öfter als nötig auf die Doktorin."
 
 # game/episode006.rpy:1477
 translate german episode006_ca639642:
 
     # "The woman fell from the chair and Nadya took her pulse and checked her eyes."
-    ""
+    "Die Frau fiel vom Stuhl und Nadya kontrollierte ihren puls und schaut sich ihre Augen an."
 
 # game/episode006.rpy:1479
 translate german episode006_c9cafdcf:
 
     # na "She’s unconscious."
-    na ""
+    na "Sie ist bewusstlos."
 
 # game/episode006.rpy:1480
 translate german episode006_16a4b3be:
 
     # c "Good. You and Lilly stow her in that closet, while Aven and I go get the clothing from the locker room."
-    c ""
+    c "Gut. du und Lilly versteckt sie im Schrank, während Aven und ich alles zum Umziehen aus dem Umkleideraum holen."
 
 # game/episode006.rpy:1482
 translate german episode006_5ea7537e:
 
     # "We found the lockers soon enough and rummaged through them in search for clothing that would fit us."
-    ""
+    "Wir fanden die Kleidungs schränke recht schnell und durchsuchten sie nach sachen die uns passten."
 
 # game/episode006.rpy:1483
 translate german episode006_b7650380:
 
     # "After some searching we found two lab coats, a couple of shoes and two sets of armor that fit us nicely."
-    ""
+    "Nach einer weile suchen fanden wir zwei Laborkittel, ein paar Schuhe und zwei Sets Körperpanzerung die uns gut passten."
 
 # game/episode006.rpy:1484
 translate german episode006_b12d34a3:
 
     # "Aven and I hurried back to the doctor’s office and were nearly blasted by Lilly when we entered."
-    ""
+    "Aven und ich rannten zurück zum Büro der Doktorin und wurden fast von Lilly beschossen als wir hereinstürmten."
 
 # game/episode006.rpy:1486
 translate german episode006_32f6128c:
 
     # l "Fuck!"
-    l ""
+    l "Scheiße!"
 
 # game/episode006.rpy:1487
 translate german episode006_1e59594e:
 
     # l "Shouldn’t we have practiced a secret knock or something?"
-    l ""
+    l "Hätten wir nicht ein geheimes Klopfen oder so absprechen sollen?"
 
 # game/episode006.rpy:1488
 translate german episode006_2a164af8:
 
     # l "I nearly stunned you both!"
-    l ""
+    l "Ich hab euch fast beide schlafen gelegt."
 
 # game/episode006.rpy:1489
 translate german episode006_83bb6a1d:
 
     # c "Right, glad you didn’t."
-    c ""
+    c "Richtig, bin froh das du es nicht hast."
 
 # game/episode006.rpy:1490
 translate german episode006_ca48b624:
 
     # c "We brought two lab coats and shoes, better put them on."
-    c ""
+    c "Wir haben zwei Laborkittel und schuhe besorgt, zieht die besser an."
 
 # game/episode006.rpy:1492
 translate german episode006_68d175e6:

@@ -5260,7 +5260,7 @@ translate german episode006_16a4b3be:
 translate german episode006_5ea7537e:
 
     # "We found the lockers soon enough and rummaged through them in search for clothing that would fit us."
-    "Wir fanden die Kleidungs schränke recht schnell und durchsuchten sie nach sachen die uns passten."
+    "Wir fanden die Kleidungs spinde recht schnell und durchsuchten sie nach sachen die uns passten."
 
 # game/episode006.rpy:1483
 translate german episode006_b7650380:
@@ -5272,7 +5272,7 @@ translate german episode006_b7650380:
 translate german episode006_b12d34a3:
 
     # "Aven and I hurried back to the doctor’s office and were nearly blasted by Lilly when we entered."
-    "Aven und ich rannten zurück zum Büro der Doktorin und wurden fast von Lilly beschossen als wir hereinstürmten."
+    "Aven und ich rannten zurück zum Büro der Doktorin und wurden fast von Lilly erschossen als wir hereinstürmten."
 
 # game/episode006.rpy:1486
 translate german episode006_32f6128c:
@@ -5290,7 +5290,7 @@ translate german episode006_1e59594e:
 translate german episode006_2a164af8:
 
     # l "I nearly stunned you both!"
-    l "Ich hab euch fast beide schlafen gelegt."
+    l "Ich hab euch fast beide erschossen."
 
 # game/episode006.rpy:1489
 translate german episode006_83bb6a1d:
@@ -5308,295 +5308,295 @@ translate german episode006_ca48b624:
 translate german episode006_68d175e6:
 
     # "Both women dressed and we headed out into the corridor towards the cell block where part of our crew was supposedly held."
-    ""
+    "Beide Frauen zogen sich um und wir machten uns auf den Weg in die Zellenblöcke wo teile unserer Crew angeblich festgehalten wurden."
 
 # game/episode006.rpy:1494
 translate german episode006_764bf067:
 
     # "We passed rows and rows of doors as we made our way through the complex."
-    ""
+    "Auf unserem Weg durch den Komplex kamen wir an Reihen von Türen vorbei."
 
 # game/episode006.rpy:1495
 translate german episode006_306ea4ab:
 
     # l "Do you think all these cells are occupied?"
-    l ""
+    l "Denkt ihr alle diese Zellen sind besetzt?"
 
 # game/episode006.rpy:1496
 translate german episode006_8770ce89:
 
     # c "I sincerely hope not, there are so many doors..."
-    c ""
+    c "Ich hoffe sehr das das nicht der Fall ist, das sind ziemlich viele Türen."
 
 # game/episode006.rpy:1497
 translate german episode006_57d8e5ea:
 
     # "Block Z-X17 wasn’t too far away and we opened the door with the keycard the doctor so generously provided us with."
-    ""
+    "Block Z-X17 war nicht weit entfernt und wir öffneten die Tür mit der Schlüsselkarte, die uns die frau Doktor so großzügig zur Verfügung gestellt hatte."
 
 # game/episode006.rpy:1499
 translate german episode006_742b6da3:
 
     # "When we opened the door the cell’s occupants, two humans and a green-skinned woman looked at us in fear, soon mixed with bewilderedness."
-    ""
+    "Als wir die Tür öffneten, blickten uns die Insassen der Zelle, zwei Menschen und eine grünhäutige Frau, ängstlich an, ihre angst wechselte schnell zu verwirrung."
 
 # game/episode006.rpy:1500
 translate german episode006_3025911d:
 
     # c "We’re not actual guards, we’ve come to get you out of here."
-    c ""
+    c "Wir sind keine Wachen, wir sind hier um euch hier raus zu holen."
 
 # game/episode006.rpy:1501
 translate german episode006_539ebd2a:
 
     # ce "Thank heavens!"
-    ce ""
+    ce "Danke Gott!"
 
 # game/episode006.rpy:1503
 translate german episode006_9a051432:
 
     # j "But we need to find Vess, they just took her away."
-    j ""
+    j "Aber wir müssen Vess finden, sie haben sie gerade weg gebracht."
 
 # game/episode006.rpy:1504
 translate german episode006_2c159504:
 
     # c "Where to?"
-    c ""
+    c "Wohin?"
 
 # game/episode006.rpy:1505
 translate german episode006_b8e8fa71:
 
     # j "To some sort of simulation room and not for the first time either."
-    j ""
+    j "In eine Art Simulationskammer und das nicht zum ersten mal."
 
 # game/episode006.rpy:1506
 translate german episode006_638449d5:
 
     # j "I think she said it was sixteen doors down from here."
-    j ""
+    j "Ich glaube sie sagte es war 16 Türen weiter von hier aus."
 
 # game/episode006.rpy:1507
 translate german episode006_c7a1fc60:
 
     # c "Let’s go get her then."
-    c ""
+    c "Dann los, holen wir sie."
 
 # game/episode006.rpy:1508
 translate german episode006_c07d21fc:
 
     # c "I’m [p_name], this is Lilly, Nadya and Aven."
-    c ""
+    c "Ich bin [p_name], das ist Lilly, Nadya und Aven."
 
 # game/episode006.rpy:1509
 translate german episode006_9e392b11:
 
     # c "We’ve all suffered memory loss, which will fade over time."
-    c ""
+    c "Wir haben alle Gedächtnisverlust erlitten der mit der Zeit verschwinden wird."
 
 # game/episode006.rpy:1510
 translate german episode006_766c6bdd:
 
     # c "We came here together on a ship as its crew."
-    c ""
+    c "Wir kamen hier zusammen auf einem Schiff als Crew."
 
 # game/episode006.rpy:1511
 translate german episode006_f5ad28be:
 
     # c "Wait here while Aven and me go find Vess."
-    c ""
+    c "Wartet hier während Aven und ich Vess holen."
 
 # game/episode006.rpy:1513
 translate german episode006_d5155f1b:
 
     # "They did as they were told and we sprinted towards the room indicated by the green-skinned girl."
-    ""
+    "Sie taten, was ihnen gesagt wurde, und wir sprinteten auf den Raum zu, den uns das grünhäutige Mädchen zeigte."
 
 # game/episode006.rpy:1514
 translate german episode006_05b44bf8:
 
     # "Two guards were in front of the door."
-    ""
+    "Vor der Tür warteten zwei Wachen."
 
 # game/episode006.rpy:1515
 translate german episode006_57ae17d7:
 
     # c "Open that door at once."
-    c ""
+    c "Offnet die Tür sofort."
 
 # game/episode006.rpy:1517
 translate german episode006_7fb4c69c:
 
     # "The guard mumbled something in a language I didn’t understand, probably challenging my authority or something."
-    ""
+    "Der Wachmann murmelte etwas in einer Sprache, die ich nicht verstand, und stellte damit wahrscheinlich meine Autorität infrage oder so etwas."
 
 # game/episode006.rpy:1519
 translate german episode006_4bd9a7fa:
 
     # "That’s when he was hit square in the chest by Aven’s blaster."
-    ""
+    "In dem Moment traf ihn ein schuss aus dem Betäubungsblaster mitten in die Brust."
 
 # game/episode006.rpy:1520
 translate german episode006_50fa0f37:
 
     # "I took care of the other guard who didn’t even have time to draw his weapon."
-    ""
+    "Ich kümmerte mich um den anderen Wachmann bevor der überhaupt Zeit hatte sein Waffe zu ziehen."
 
 # game/episode006.rpy:1521
 translate german episode006_38cb9356:
 
     # c "You move the bodies, I’m getting the girl out of that chair."
-    c ""
+    c "Du schaffst die Wachen weg, Ich gehe und hole das Mädchen aus dem Stuhl."
 
 # game/episode006.rpy:1523
 translate german episode006_327ca919:
 
     # "Aven started dragging the unconscious guards inside the simulation room after I opened the door."
-    ""
+    "Aven zog die bewusstlosen Wachen in den Simulations raum nachdem ich die Tür geöffnet hatte."
 
 # game/episode006.rpy:1525
 translate german episode006_d6722431:
 
     # "The room was completely dark, save for a chair illuminated by a vivid simulation playing out in front of it."
-    ""
+    "Der Raum war Stockfinster, bis au einen Stuhl der beleuchtet wurde von einer simulation die davor abgespielt wurde."
 
 # game/episode006.rpy:1527
 translate german episode006_914044b5:
 
     # "A blonde girl was seated in the chair."
-    ""
+    "Ein blondes Mädchen saß in dem Stuhl."
 
 # game/episode006.rpy:1528
 translate german episode006_8c50f75b:
 
     # "Tears were streaming down her cheeks as she was forced to look at the realistic imagery."
-    ""
+    "Tränen liefen ihre Wangen herunter während sie gezwungen war sich die sehr realistische Darstellung anzuschauen die vor ihr ablief."
 
 # game/episode006.rpy:1530
 translate german episode006_db411c2b:
 
     # "A man and a woman were hunched over a crib, playing with a newborn child."
-    ""
+    "Ein mann und eine Frau waren über eine Krippe gebeugt mit einem neugeborenen darin."
 
 # game/episode006.rpy:1532
 translate german episode006_c1bdaee2:
 
     # "They laughed and the baby crowed with pleasure as it tried to grab the finger dangling in front of her face."
-    ""
+    "Sie lachten und das Baby schrie vor Vergnügen, als es versuchte, den Finger zu ergreifen, der vor seinem Gesicht baumelte."
 
 # game/episode006.rpy:1534
 translate german episode006_bc9ebdbe:
 
     # "The happy scene was marred by the sadness radiating from the blonde girl in the chair."
-    ""
+    "Die ansonsten Glückliche Scene wurde von der Traurigkeit des Mädchens in dem Stuhl überdeckt."
 
 # game/episode006.rpy:1535
 translate german episode006_2e369043:
 
     # "She cried and fought against her restraints and mumbled two words over and over again."
-    ""
+    "Sie weinte und kämpfte gegen ihre Fesseln währen sie zwei worte die ganze zeit wiederholte."
 
 # game/episode006.rpy:1536
 translate german episode006_2e68e3f4:
 
     # ve "Mom!"
-    ve ""
+    ve "Mama!"
 
 # game/episode006.rpy:1537
 translate german episode006_560f870b:
 
     # ve "Dad!"
-    ve ""
+    ve "Papa!"
 
 # game/episode006.rpy:1539
 translate german episode006_2c40e6c3:
 
     # "I couldn’t find a way to turn off the simulation, so I approached the chair carefully."
-    ""
+    "Ich fand keinen Weg die Simulation auszuschalten, alse ging ich vorsichtig auf den Stuhl zu."
 
 # game/episode006.rpy:1540
 translate german episode006_10cc2776:
 
     # c "Vess, can you hear me?"
-    c ""
+    c "Vess, kannst du mich hören?"
 
 # game/episode006.rpy:1541
 translate german episode006_3779a7f5:
 
     # ve "Who’s there?"
-    ve ""
+    ve "Wer ist da?"
 
 # game/episode006.rpy:1542
 translate german episode006_d531af89:
 
     # ve "Grandfather?"
-    ve ""
+    ve "Großvater?"
 
 # game/episode006.rpy:1543
 translate german episode006_6821b150:
 
     # c "No, I’m [p_name]."
-    c ""
+    c "Nein, ich bin [p_name]."
 
 # game/episode006.rpy:1544
 translate german episode006_3a7c3963:
 
     # c "I’m going to release you from this chair and take you out of here."
-    c ""
+    c "Ich werde dich von diesem Stuhl befreien und hier raus bringen."
 
 # game/episode006.rpy:1546
 translate german episode006_50c3dff1:
 
     # "She didn’t reply, but I couldn’t waste more time on talking and started undoing the straps that bound her to the chair."
-    ""
+    "Sie antwortete nicht, aber ich konnte keine weitere Zeit verschwenden und began ihre Fesseln zu lösen."
 
 # game/episode006.rpy:1548
 translate german episode006_0881f730:
 
     # "Still crying, I helped her stand and supported her while we walked towards the door, the simulation still playing in the background."
-    ""
+    "Noch immer am Weinen, half ich ihr aufzustehen und gab ihr halt während wie zur Tür gingen, Die Simulation noch immer laufend im Hintergrund."
 
 # game/episode006.rpy:1549
 translate german episode006_4b9e0353:
 
     # c "Are you alright?"
-    c ""
+    c "Bist du ok?"
 
 # game/episode006.rpy:1550
 translate german episode006_863a114b:
 
     # ve "I think so."
-    ve ""
+    ve "Ich glaube schon."
 
 # game/episode006.rpy:1551
 translate german episode006_c3d2a2e3:
 
     # c "Did you recognize those people in the simulation?"
-    c ""
+    c "Kanntest du diese Leute in der Simulation?"
 
 # game/episode006.rpy:1552
 translate german episode006_3a0a4bfc:
 
     # ve "I think they were my parents, but I can’t remember them."
-    ve ""
+    ve "Ich glaube das waren meine Eltern, aber ich kann mich nicht an sie erinnern."
 
 # game/episode006.rpy:1553
 translate german episode006_10c1c912:
 
     # c "There’s a lot of that going on around here..."
-    c ""
+    c "Davon ist hier einiges los..."
 
 # game/episode006.rpy:1554
 translate german episode006_81267b66:
 
     # c "Let’s go find the others."
-    c ""
+    c "Los gehen wir und suchen die anderen."
 
 # game/episode006.rpy:1556
 translate german episode006_7d6b6015:
 
     # "Aven joined us and we ran back to the cell where the others waited."
-    ""
+    "Aven stieß dazu und wir rannten zurück in die Zelle wo die anderen auf uns warteten."
 
 # game/episode006.rpy:1558
 translate german episode006_02cb2752:

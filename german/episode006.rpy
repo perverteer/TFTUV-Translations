@@ -5602,433 +5602,433 @@ translate german episode006_7d6b6015:
 translate german episode006_02cb2752:
 
     # c "Our next stop is a storage bay where the rest of our crew is being held."
-    c ""
+    c "Unser nächster Halt ist eine Lagerbucht, in der der Rest unserer Crew festgehalten wird."
 
 # game/episode006.rpy:1559
 translate german episode006_074e20fe:
 
     # c "Just follow us."
-    c ""
+    c "Folgt uns einfach."
 
 # game/episode006.rpy:1561
 translate german episode006_5911ec47:
 
     # "The storage units were not far from our location."
-    ""
+    "Die Lagereinheiten waren nicht weit entfernt von unserer jetzigen position."
 
 # game/episode006.rpy:1562
 translate german episode006_d121ba32:
 
     # "Thankfully the keycard worked on the entrance door as well."
-    ""
+    "Zum Glück funktionierte die Schlüsselkarte auch dort."
 
 # game/episode006.rpy:1564
 translate german episode006_c482057a:
 
     # "Storage bay G-N135 wasn’t that large and held five suspension pods, one of them empty."
-    ""
+    "Der Lagerraum G-N135 war nicht besonders groß und enthielt fünf Aufhängungsbehälter, von denen einer leer war."
 
 # game/episode006.rpy:1565
 translate german episode006_fb571ab6:
 
     # "We hit the release button on the four occupied pods and they cycled through their revivification cycles quickly."
-    ""
+    "Wir drückten den Entriegelungsknopf der vier besetzten Kapseln und sie durchliefen schnell ihre Wiederbelebungszyklen."
 
 # game/episode006.rpy:1567
 translate german episode006_b6c08b72:
 
     # "A woman with purple skin was the first to come staggering out of the pod."
-    ""
+    "Eine Frau mit violetter Haut kam als Erste taumelnd aus der Kapsel."
 
 # game/episode006.rpy:1568
 translate german episode006_0fe204b1:
 
     # zi "Am I glad to see you all."
-    zi ""
+    zi "Bin ich froh euch alle zu sehen."
 
 # game/episode006.rpy:1569
 translate german episode006_bab220f1:
 
     # l "You know who we are?"
-    l ""
+    l "Du wei0t wer wir sind?"
 
 # game/episode006.rpy:1570
 translate german episode006_169d1556:
 
     # zi "Errr....{w} You don’t?"
-    zi ""
+    zi "Errr....{w} ihr nicht?"
 
 # game/episode006.rpy:1571
 translate german episode006_a54b5720:
 
     # c "We’ve been given drugs that repress our memories."
-    c ""
+    c "Wir wurnden unter drogen gesetzt die unsere erinnerungen unterdrücken."
 
 # game/episode006.rpy:1572
 translate german episode006_70e3cb07:
 
     # zi "Right, that must be confusing."
-    zi ""
+    zi "Richtig, das muss verwirrend sind."
 
 # game/episode006.rpy:1573
 translate german episode006_01aeb64b:
 
     # zi "Until you can remember me, I’m Ziv, one of your crew mates."
-    zi ""
+    zi "Bis ihr euch an mich erinnern könnt, bin ich Ziv, einer eurer Crewmitglieder."
 
 # game/episode006.rpy:1574
 translate german episode006_4c62cc06:
 
     # zi "Those other pods likely hold Raene, Thyia and Thim."
-    zi ""
+    zi "Diese anderen Kapseln enthalten wahrscheinlich Raene, Thyia und Thim."
 
 # game/episode006.rpy:1576
 translate german episode006_abcd9a96:
 
     # "Ziv was interrupted by a black woman vomiting bile on the floor as she crawled from her storage pod."
-    ""
+    "Ziv wurde von einer schwarzen Frau unterbrochen, die Galle auf den Boden erbrach, als sie aus ihrer Lagerkapsel kroch."
 
 # game/episode006.rpy:1578
 translate german episode006_fb3f4f56:
 
     # th "I fucking hate induced cryo sleep."
-    th ""
+    th "Ich hasse induzierten Kryoschlaf."
 
 # game/episode006.rpy:1579
 translate german episode006_06cb59a8:
 
     # th "Oh...{w} Hi all."
-    th ""
+    th "Oh...{w} hallo zusammen."
 
 # game/episode006.rpy:1580
 translate german episode006_ebc7a156:
 
     # zi "Are you alright, Thyia?"
-    zi ""
+    zi "Bist du ok, Thyia?"
 
 # game/episode006.rpy:1581
 translate german episode006_5dbdda39:
 
     # th "I feel fine, other than the nausea."
-    th ""
+    th "Mir gehts gut abgesehen von der Übelkeit."
 
 # game/episode006.rpy:1582
 translate german episode006_95c88f1e:
 
     # th "Why are you staring at me all glassy-eyed?"
-    th ""
+    th "Warum starrt ihr mich alle mit so glasigen augen an?"
 
 # game/episode006.rpy:1583
 translate german episode006_79115353:
 
     # zi "Most of the crew have lost their memory."
-    zi ""
+    zi "Die meisten von ihnen haben ihre Erinnerungen verloren."
 
 # game/episode006.rpy:1584
 translate german episode006_9613b925:
 
     # th "Fuck.{w} Temporarily I hope?"
-    th ""
+    th "Scheiße.{w} Temporär hoffe ich?"
 
 # game/episode006.rpy:1585
 translate german episode006_c5d523cb:
 
     # zi "It seems so."
-    zi ""
+    zi "Sieht so aus."
 
 # game/episode006.rpy:1587
 translate german episode006_80c3d9f9:
 
     # "The two remaining persons woke up and started heaving while steadying themselves against one of the sides of the pod."
-    ""
+    "Die beiden verbleibenden Personen wachten auf und begannen aufzustehen, während sie sich an einer Seite der Kapsel abstützten."
 
 # game/episode006.rpy:1588
 translate german episode006_cce936dc:
 
     # t "Wh-where the fuck am I?"
-    t ""
+    t "W-wo zum fick bin ich?"
 
 # game/episode006.rpy:1589
 translate german episode006_1dfc86f5:
 
     # c "We’re on a research station."
-    c ""
+    c "Wir sind auf einer Forschungs station."
 
 # game/episode006.rpy:1590
 translate german episode006_5477877f:
 
     # c "You four were kept on ice, while we were used as lab animals."
-    c ""
+    c "Ihr vier wurdet auf Eis gelegt, während wir als Labortiere dienten."
 
 # game/episode006.rpy:1592
 translate german episode006_0d8852c7:
 
     # ra "Lab animals?"
-    ra ""
+    ra "Labortiere?"
 
 # game/episode006.rpy:1593
 translate german episode006_4dffd701:
 
     # ra "What did they do to you?"
-    ra ""
+    ra "Was haben sie mit euch gemacht?"
 
 # game/episode006.rpy:1595
 translate german episode006_592e5391:
 
     # av "They put us through various simulations."
-    av ""
+    av "Sie haben uns verschiedenen Simulationen unterzogen."
 
 # game/episode006.rpy:1596
 translate german episode006_b0e80dca:
 
     # av "Probably to measure our responses to them."
-    av ""
+    av "Wahrscheinlich um zu sehen wie wir darauf reagieren."
 
 # game/episode006.rpy:1598
 translate german episode006_501aff60:
 
     # th "They just plucked us out of space and did clandestine experiments on us?"
-    th ""
+    th "Sie haben uns also einfach aus dem Weltraum geholt und heimlich Experimente an uns durchgeführt?"
 
 # game/episode006.rpy:1599
 translate german episode006_c65a59dc:
 
     # c "Well, we don’t have time to appreciate what assholes these people are."
-    c ""
+    c "Naja wir haben keine zeit uns darüber zu unterhalten was diese leute für arschlöcher sind."
 
 # game/episode006.rpy:1600
 translate german episode006_9e664bcc:
 
     # c "Our ship is on one of the higher levels of this facility."
-    c ""
+    c "Unser schiff ist auf einer höheren Ebene dieser Station."
 
 # game/episode006.rpy:1601
 translate german episode006_5db6ef28:
 
     # c "As we appear to have our crew all together, I think it’s time to get the hell out of here."
-    c ""
+    c "Da wir unsere Crew scheinbar alle beisammen haben, ist es meiner Meinung nach an der Zeit, hier schnellstmöglich zu verschwinden."
 
 # game/episode006.rpy:1603
 translate german episode006_6f284d30:
 
     # "The order to stand down the doctor gave earlier must have worked, because we didn’t encounter any guards on alert as we ran back towards the locker room."
-    ""
+    "Der Befehl der frau doktor, zurück auf die posten zu gehen, muss funktioniert haben, denn als wir zurück zum Umkleideraum rannten, trafen wir auf keine wachsamen Wachen."
 
 # game/episode006.rpy:1608
 translate german episode006_de36ac6a:
 
     # "Thim and Ziv found two suits of armor that fit them."
-    ""
+    "Thim und Ziv fanden zwei Körperpanzerungen, die zu ihnen passten."
 
 # game/episode006.rpy:1610
 translate german episode006_5b066d7e:
 
     # "The others were all trying on lab coats when I noticed Raene was missing."
-    ""
+    "Die anderen probierten gerade Laborkittel an, als ich bemerkte, dass Raene fehlte."
 
 # game/episode006.rpy:1612
 translate german episode006_666dce73:
 
     # "While the others busied themselves, I walked into the showers and found Raene there looking distraught."
-    ""
+    "Während die anderen beschäftigt waren, ging ich in die Dusche und fand Raene dort verstört vor."
 
 # game/episode006.rpy:1617
 translate german episode006_3502305f:
 
     # c "What's the matter?"
-    c ""
+    c "Was ist das problem?"
 
 # game/episode006.rpy:1618
 translate german episode006_e1704afb:
 
     # ra "Nothing, I'll be fine in a moment."
-    ra ""
+    ra "Nichts, ich bin gleich bereit."
 
 # game/episode006.rpy:1619
 translate german episode006_b7811993:
 
     # c "You can tell me."
-    c ""
+    c "Du kannst es mir gerne sagen."
 
 # game/episode006.rpy:1622
 translate german episode006_43a47050:
 
     # ra "It's silly, really."
-    ra ""
+    ra "Es ist albern, wirklich."
 
 # game/episode006.rpy:1623
 translate german episode006_907f922b:
 
     # c "Try me."
-    c ""
+    c "Versuchs."
 
 # game/episode006.rpy:1624
 translate german episode006_a42db1a3:
 
     # ra "I...{w} Just look at me, [p_name_short]!"
-    ra ""
+    ra "Ich...{w} Schau mich einfach an, [p_name_short]!"
 
 # game/episode006.rpy:1625
 translate german episode006_947b5b65:
 
     # "That's when I noticed she was wearing the same clothes as I was."
-    ""
+    "Da bemerkte ich, dass sie die gleichen Klamotten trug wie ich."
 
 # game/episode006.rpy:1630
 translate german episode006_dc066b23:
 
     # c "So they assumed you were a boy?"
-    c ""
+    c "Also haben sie angenommen, dass du ein Junge bist?"
 
 # game/episode006.rpy:1631
 translate german episode006_1486adf3:
 
     # c "In case you haven't noticed, we're trying to get out of here..."
-    c ""
+    c "Falls du es noch nicht bemerkt hast: Wir versuchen hier rauszukommen ..."
 
 # game/episode006.rpy:1632
 translate german episode006_36df3daf:
 
     # c "So stop making a fuss and get a grip."
-    c ""
+    c "Also hört auf so einen Aufstand zu machen und legt einen zahn zu."
 
 # game/episode006.rpy:1634
 translate german episode006_50b1f720:
 
     # ra "I know."
-    ra ""
+    ra "Ich weiß."
 
 # game/episode006.rpy:1635
 translate german episode006_79f219c1:
 
     # ra "I said it was silly."
-    ra ""
+    ra "Ich hab ja gesagt es ist albern"
 
 # game/episode006.rpy:1636
 translate german episode006_85b17f7b:
 
     # ra "I'll be fine in a moment."
-    ra ""
+    ra "Ich bin gleich bereit."
 
 # game/episode006.rpy:1637
 translate german episode006_829993f4:
 
     # ra "It won't happen again."
-    ra ""
+    ra "Es wird nicht wieder passieren."
 
 # game/episode006.rpy:1638
 translate german episode006_d9865c81:
 
     # c "Good, I'll see you in a minute."
-    c ""
+    c "Gut, wir sehen uns in einer minute."
 
 # game/episode006.rpy:1640
 translate german episode006_1170d454:
 
     # c "Oh...{w} fuck...{w} they assumed you were..."
-    c ""
+    c "Oh...{w} scheiße...{w} Sie haben angenommen, dass du..."
 
 # game/episode006.rpy:1642
 translate german episode006_ddcbea9f:
 
     # ra "Yes, they did."
-    ra ""
+    ra "Ja haben sie."
 
 # game/episode006.rpy:1643
 translate german episode006_2fdaef54:
 
     # ra "And I hate that it affects me so much, especially considering our circumstances."
-    ra ""
+    ra "Und ich hasse es, dass es mich so sehr berührt, besonders angesichts unserer Umstände."
 
 # game/episode006.rpy:1644
 translate german episode006_40df868c:
 
     # ra "But it was just too much all at once."
-    ra ""
+    ra "Aber es war einfach zu viel auf einmal."
 
 # game/episode006.rpy:1645
 translate german episode006_6d0b4e24:
 
     # ra "As as I said, I'll be fine in a moment."
-    ra ""
+    ra "Wie gesagt ich bin in einer Minute bereit."
 
 # game/episode006.rpy:1646
 translate german episode006_780502a8:
 
     # c "Right, take whatever time you need."
-    c ""
+    c "Richtig, nimm dir die zeit die du brauchst."
 
 # game/episode006.rpy:1647
 translate german episode006_9c7095f8:
 
     # c "But promise me we'll talk further once we're safe?"
-    c ""
+    c "Aber versprich mir das wir nochmal darüber reden wenn wir sicher sind ok?"
 
 # game/episode006.rpy:1649
 translate german episode006_0c584d5e:
 
     # ra "I promise."
-    ra ""
+    ra "Versprochen."
 
 # game/episode006.rpy:1650
 translate german episode006_5732231b:
 
     # ra "Thank you, [p_name_short]."
-    ra ""
+    ra "Danke [p_name_short]."
 
 # game/episode006.rpy:1651
 translate german episode006_5101fbef:
 
     # c "Don't worry about it."
-    c ""
+    c "Kein ding."
 
 # game/episode006.rpy:1654
 translate german episode006_baaa5545:
 
     # ra "Just leave me here for a minute, I'll be fine."
-    ra ""
+    ra "Lass mich einfach für eine minute hier, es geht schon."
 
 # game/episode006.rpy:1655
 translate german episode006_3588663a:
 
     # c "Suit yourself."
-    c ""
+    c "Wie du meinst."
 
 # game/episode006.rpy:1658
 translate german episode006_f706961f:
 
     # "I didn't want to disturb her private moment and left to join the others before she noticed me."
-    ""
+    "Ich wollte ihren privaten Moment nicht stören und ging, um mich den anderen anzuschließen, bevor sie mich bemerkte."
 
 # game/episode006.rpy:1661
 translate german episode006_db81638a:
 
     # "Raene joined us and picked a suit of armor and soon we had a battalion of doctors and a couple of guards."
-    ""
+    "Raene gesellte sich zu uns und suchte sich eine Körperpanzerung aus, und bald hatten wir ein Bataillon Ärzte und ein paar Wachen."
 
 # game/episode006.rpy:1662
 translate german episode006_e6e528b8:
 
     # c "I think we’re ready to board that elevator."
-    c ""
+    c "Ich glaube wir sind bereit um in den Fahrstuhl zu steigen."
 
 # game/episode006.rpy:1664
 translate german episode006_0d7633d3:
 
     # "Luckily the elevator wasn’t guarded and was large enough to carry us all."
-    ""
+    "Zum Glück war der Fahrstuhl nicht bewacht und groß genug für uns alle."
 
 # game/episode006.rpy:1665
 translate german episode006_cdde3bea:
 
     # "A helpful schematic told us which floor we needed to punch in."
-    ""
+    "Eine Karte an der Wand zeigte uns zu welcher Ebene wir mussten."
 
 # game/episode006.rpy:1666
 translate german episode006_c4386b1f:
 
     # "The facility turned out to be very large and we were on one of the lower floors."
-    ""
+    "Die Anlage erwies sich als sehr groß und wir befanden uns in einer der unteren Etagen."
 
 # game/episode006.rpy:1668
 translate german episode006_b1ce3e40:

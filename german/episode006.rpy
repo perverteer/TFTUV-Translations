@@ -6034,391 +6034,391 @@ translate german episode006_c4386b1f:
 translate german episode006_b1ce3e40:
 
     # "We were almost overwhelmed by vertigo, because the elevator moved very fast towards its destination."
-    ""
+    "Wir wurden fast vom Schwindelgefühl überwältigt, so schnell fuhr der Fahrstuhl zu seinem Ziel."
 
 # game/episode006.rpy:1670
 translate german episode006_705d6e1c:
 
     # "Just before the doors slid open, a memory from my youth welled up all of a sudden."
-    ""
+    "Kurz bevor die Türen aufging, schooss auf einmal eine Erinnerung aus meiner Kindheit in mein Gedächtnis."
 
 # game/episode006.rpy:1671
 translate german episode006_a5c15a1d:
 
     # "And then it began crashing in all at once."
-    ""
+    "Dann kam plötzlich alles auf einmal."
 
 # game/episode006.rpy:1673
 translate german episode006_15be2895:
 
     # "The events on Lanan, deserting, life at the Academy, life on Tuolovi, stealing the larvae on Sagueliath."
-    ""
+    "Die Erlebnisse auf Lanan, Desertieren, Leben an der Akademie, Leben auf Tuolovi, das stehlen der Larven auf Sagueliath."
 
 # game/episode006.rpy:1674
 translate german episode006_7a15edd4:
 
     # "The flood of memories was an assault on all the senses and I retched."
-    ""
+    "Die Flut an Erinnerungen war wie ein Angriff auf alle Sinne und ich musste würgen."
 
 # game/episode006.rpy:1676
 translate german episode006_f362db7e:
 
     # "Bleary-eyed I looked up and saw Lilly bent over in much the same state as I was."
-    ""
+    "Mit trüben Augen schaute ich auf und sah, dass Lilly sich in einem ähnlichen Zustand befand wie ich."
 
 # game/episode006.rpy:1680
 translate german episode006_80797549:
 
     # "Then the realization hit me, the girl I’d loved for the past few days was my own sister."
-    ""
+    "Dann wurde mir klar, dass das Mädchen, das ich in den letzten Tagen geliebt hatte, meine eigene Schwester war."
 
 # game/episode006.rpy:1682
 translate german episode006_d191f728:
 
     # "Then the realization hit me, the girl I’d loved for the past few days was my childhood friend."
-    ""
+    "Dann wurde mir klar, dass das Mädchen, das ich in den letzten Tagen geliebt hatte, meine Freundin aus Kindertagen war."
 
 # game/episode006.rpy:1683
 translate german episode006_fdcd6565:
 
     # "She wouldn’t meet my eyes, but I’d gathered she went through much the same horrifying process as I was."
-    ""
+    "Sie wollte mir nicht in die Augen schauen, aber ich nahm an, dass sie den gleichen schrecklichen Prozess durchgemacht hatte wie ich."
 
 # game/episode006.rpy:1685
 translate german episode006_a867fe82:
 
     # "How wrong we’d been about each other, mistaking our sibling bond for true love."
-    ""
+    "Wie sehr wir uns geirrt hatten, als wir unsere Geschwisterbindung mit wahrer Liebe verwechselten."
 
 # game/episode006.rpy:1687
 translate german episode006_5af9ccd5:
 
     # "How wrong we’d been about each other, mistaking our bond of friendship for true love."
-    ""
+    "Wie sehr wir uns geirrt hatten, als wir unser freundschaftliches Band mit wahrer Liebe verwechselten."
 
 # game/episode006.rpy:1691
 translate german episode006_06b15e8f:
 
     # "Then the realization hit me, how wrong we’d been about each other, being brother and sister instead of just friends."
-    ""
+    "Dann wurde mir klar, wie sehr wir uns geirrt hatten, weil wir Bruder und Schwester waren und nicht nur Freunde."
 
 # game/episode006.rpy:1693
 translate german episode006_d74133d3:
 
     # "Then the realization hit me, how right we’d been about each other, being brother and sister."
-    ""
+    "Dann wurde mir klar, wie recht wir in Bezug auf einander hatten, weil wir Bruder und Schwester waren."
 
 # game/episode006.rpy:1696
 translate german episode006_1fcf77e5:
 
     # "Then the realization hit me, how wrong we’d been about each other, being friends instead of brother and sister."
-    ""
+    "Dann wurde mir klar, wie sehr wir uns geirrt hatten, Freunde statt Bruder und Schwester zu sein."
 
 # game/episode006.rpy:1698
 translate german episode006_057c8209:
 
     # "Then the realization hit me, how right we’d been about each other, being childhood friends."
-    ""
+    "Dann wurde mir klar, wie recht wir hatten, dass wir seit unserer Kindheit Freunde waren."
 
 # game/episode006.rpy:1701
 translate german episode006_8d455db8:
 
     # "Aven had to steady herself against the wall and looked at me intently through tear-filled eyes."
-    ""
+    "Aven musste sich an der Wand abstützen und sah mich aufmerksam aus tränenerfüllten Augen an."
 
 # game/episode006.rpy:1702
 translate german episode006_9cdd9c6c:
 
     # "Was she ashamed of herself, of the feelings she confessed to me when we were just strangers in a cell together?"
-    ""
+    "Schämte sie sich für sich selbst, für die Gefühle, die sie mir gestand, als wir noch Fremde zusammen in einer Zelle waren?"
 
 # game/episode006.rpy:1703
 translate german episode006_3a289b85:
 
     # "The sound of a station broadcast disturbed my thoughts and put me back in the here and now."
-    ""
+    "Das Geräusch einer Stations Durchsage unterbrach meine Gedanken und brachte mich zurück ins hier und jetzt."
 
 # game/episode006.rpy:1704
 translate german episode006_8c19a991:
 
     # "When I felt my legs could carry me again I motioned the others to follow me."
-    ""
+    "Als ich das Gefühl hatte das meine Beine mich wieder tragen konnten gab ich den andern ein Zeichen mir zu folgen."
 
 # game/episode006.rpy:1706
 translate german episode006_3cdba977:
 
     # "We walked unsteadily through a long corridor to find a large plaza."
-    ""
+    "Wir gingen etwas unsicher durch einen langen Korridor und fanden einen großen offenen Platz. "
 
 # game/episode006.rpy:1707
 translate german episode006_616056ee:
 
     # "That’s when another realization hit me square in the face."
-    ""
+    "Da traf mich eine weitere Erkenntnis mitten ins Gesicht."
 
 # game/episode006.rpy:1708
 translate german episode006_b592542b:
 
     # "A huge wall domaniated the plaza, covered in huge lettering announcing the name of company in charge of this research station."
-    ""
+    "Eine riesige Mauer dominierte den Platz und war mit riesigen Buchstaben bedeckt, die den Namen des Unternehmens verkündeten, das für diese Forschungsstation verantwortlich war."
 
 # game/episode006.rpy:1710
 translate german episode006_7efc1202:
 
     # "The doctor had already mentioned the name ConVitæ before, but I was too drugged to make any kind of mental connection."
-    ""
+    "Der Arzt hatte den Namen ConVitæ bereits zuvor erwähnt, aber ich war zu sehr unter Drogen, um irgendeinen mentalen Zusammenhang herzustellen."
 
 # game/episode006.rpy:1711
 translate german episode006_87e0065a:
 
     # "With the haze of the drugs cleared, I remembered the name ConVitæ well enough."
-    ""
+    "Nachdem der Dunst der Medikamente verflogen war, erinnerte ich mich nur zu gut an den Namen ConVitæ."
 
 # game/episode006.rpy:1713
 translate german episode006_f154266b:
 
     # "I very much regretted signing that ConVitæ paperwork back on Verdant Station."
-    ""
+    "In dem Moment bereute ich sehr die Dokumente der ConVitæ unterschrieben zu haben."
 
 # game/episode006.rpy:1714
 translate german episode006_271bbdbc:
 
     # "In retrospect, everything just screamed ‘evil corporation’ and they’d sure honored that reputation."
-    ""
+    "Im Nachhinein schrie alles nur noch nach „böses Unternehmen“ und sie machten diesem Ruf auf jeden Fall alle Ehre."
 
 # game/episode006.rpy:1716
 translate german episode006_67a4ee4c:
 
     # "I was glad I didn’t sign any of the paperwork on Verdant Station."
-    ""
+    "Ich war froh keines von den Dokumenten auf der Verdant Station unterschrieben zu haben."
 
 # game/episode006.rpy:1717
 translate german episode006_49d96e8c:
 
     # "I had a feeling those fuckers weren’t to be trusted."
-    ""
+    "Ich hatte das gefühl diesen Scheißkerlen sollte man besser nicht vertrauen."
 
 # game/episode006.rpy:1718
 translate german episode006_99887822:
 
     # "Everything just screamed ‘evil corporation’ and they’d sure honored that reputation."
-    ""
+    "Alles schrie nur „böses Unternehmen“ und sie würden diesem Ruf auf jeden Fall alle Ehre machen."
 
 # game/episode006.rpy:1720
 translate german episode006_e7323c32:
 
     # "I already knew back on Verdant Station that those fuckers weren’t to be trusted."
-    ""
+    "Ich wusste bereits auf der Verdant Station, dass man diesen Scheißkerlen nicht trauen kann."
 
 # game/episode006.rpy:1721
 translate german episode006_99887822_1:
 
     # "Everything just screamed ‘evil corporation’ and they’d sure honored that reputation."
-    ""
+    "Alles schrie nur „böses unternehmen“ und sie würden diesem Ruf auf jeden Fall alle Ehre machen."
 
 # game/episode006.rpy:1722
 translate german episode006_43b36aae:
 
     # "This was probably one of the facilities where they tested out new simulated experiences and did fuck knows what else."
-    ""
+    "Das ist wahrscheinlich eine dieser Einrichtungen wo sie neue Simulationen testen und keine Ahnung was noch alles für einen kranken Scheiß"
 
 # game/episode006.rpy:1756
 translate german episode006_4412b89a:
 
     # c "We must keep moving."
-    c ""
+    c "Wir müssen in Bewegung bleiben."
 
 # game/episode006.rpy:1757
 translate german episode006_8af9e72e:
 
     # c "There's another elevator on this floor that will take us to the docks."
-    c ""
+    c "Auf dieser Ebene ist ein weiterer Fahrstuhl der uns zu den Docks bringen wird"
 
 # game/episode006.rpy:1758
 translate german episode006_fe29fe49:
 
     # c "We might encounter more people on this level, so try to act natural."
-    c ""
+    c "Wir werden auf dieser Ebene vielleicht mehr leute treffen, also verhaltet euch normal."
 
 # game/episode006.rpy:1760
 translate german episode006_28d3b9ab:
 
     # "We entered the plaza and tried to blend in."
-    ""
+    "Wir betraten den Platz und versuchten uns unaufällig zu verhalten"
 
 # game/episode006.rpy:1761
 translate german episode006_b570ae1d:
 
     # "Jade, Céline and Nadya feigned an animated conversation about some made-up scientific topic, while the others looked determined and cut a confident path across the square."
-    ""
+    "Jade, Céline und Nadya täuschten ein angeregtes Gespräch über ein erfundenes wissenschaftliches Thema vor, während die anderen entschlossen wirkten und sich selbstbewusst ihren Weg über den Platz bahnten."
 
 # game/episode006.rpy:1763
 translate german episode006_427fa76b:
 
     # "Nobody paid any attention to us as we neared the elevator."
-    ""
+    "Keine schenkte uns Beachtung während wir uns der Fahrstuhl nährten."
 
 # game/episode006.rpy:1764
 translate german episode006_cb1db3ce:
 
     # "At least, that's what we thought."
-    ""
+    "Zumindest, dachten wir das"
 
 # game/episode006.rpy:1767
 translate german episode006_3a32af89:
 
     # man "You there."
-    man ""
+    man "Ihr da."
 
 # game/episode006.rpy:1768
 translate german episode006_8304187f:
 
     # man "We need you on Sublevel 11-XXXVIII."
-    man ""
+    man "Wir brauchen euch auf Unterebene 11-XXXVIII."
 
 # game/episode006.rpy:1773
 translate german episode006_cad617fb:
 
     # c "We have orders to escort these scientists to the docks, on the double."
-    c ""
+    c "Wir haben den Befehl, diese Wissenschaftler im Handumdrehen zu den Docks zu eskortieren."
 
 # game/episode006.rpy:1775
 translate german episode006_c4a36093:
 
     # man "The docks?"
-    man ""
+    man "Den Docks?"
 
 # game/episode006.rpy:1776
 translate german episode006_0849740e:
 
     # man "Why would they need to go there?"
-    man ""
+    man "Warum sollten sie dort hin müssen?"
 
 # game/episode006.rpy:1777
 translate german episode006_36477d49:
 
     # c "They're assigned to some special project, I think."
-    c ""
+    c "Sie sind einem spezial Projekt zugewiesen glaube ich."
 
 # game/episode006.rpy:1778
 translate german episode006_b824c28b:
 
     # man "First I've heard about it."
-    man ""
+    man "Davon höre ich zum ersten mal."
 
 # game/episode006.rpy:1779
 translate german episode006_e0db08fb:
 
     # man "What kind of project?"
-    man ""
+    man "Was für ein Projekt?"
 
 # game/episode006.rpy:1780
 translate german episode006_f2c0c113:
 
     # c "Beats me, they never tell you anything do they?"
-    c ""
+    c "Kein Plan, sie erzählen uns ja nie was"
 
 # game/episode006.rpy:1782
 translate german episode006_4ddd702b:
 
     # man "Right, bunch of stuck-up cunts."
-    man ""
+    man "Richtig, Haufen elitärer idioten."
 
 # game/episode006.rpy:1783
 translate german episode006_f9c698b6:
 
     # c "Exactly."
-    c ""
+    c "Exakt."
 
 # game/episode006.rpy:1784
 translate german episode006_92f45d3b:
 
     # man "On your way then."
-    man ""
+    man "Dann weiter mit euch."
 
 # game/episode006.rpy:1786
 translate german episode006_2eb1b545:
 
     # c "I'm tasked with escorting these scientists to the docking bay."
-    c ""
+    c "Ich habe den Befehl diese Wissenschaftler zu den Docks zu eskortieren."
 
 # game/episode006.rpy:1787
 translate german episode006_f8bbe063:
 
     # man "And I'm ordering you to come with me."
-    man ""
+    man "Und ich befehle dir mit mir zu kommen."
 
 # game/episode006.rpy:1788
 translate german episode006_e69e42b8:
 
     # c "No."
-    c ""
+    c "Nein."
 
 # game/episode006.rpy:1789
 translate german episode006_a9ddb992:
 
     # man "Who's your superior?"
-    man ""
+    man "Wer ist dein Vorgesetzter?"
 
 # game/episode006.rpy:1790
 translate german episode006_06b47e62:
 
     # c "None of your fucking business."
-    c ""
+    c "Geht dich einen Scheiß an."
 
 # game/episode006.rpy:1792
 translate german episode006_d3d83811:
 
     # man "I ought to report you!"
-    man ""
+    man "Ich sollte dich melden!"
 
 # game/episode006.rpy:1793
 translate german episode006_6aa2ddc5:
 
     # c "You really don't."
-    c ""
+    c "Das solltest du nicht tun."
 
 # game/episode006.rpy:1794
 translate german episode006_b6fffb31:
 
     # c "Now fuck off and let me do my job."
-    c ""
+    c "Jetzt verpiss dich und lass mich meinen Job machen."
 
 # game/episode006.rpy:1795
 translate german episode006_232ab2ea:
 
     # "The guard stared long and hard at me, but turned on his heel eventually."
-    ""
+    "Der Wachmann starrte mich lange und eindringlich an, drehte sich aber schließlich um."
 
 # game/episode006.rpy:1797
 translate german episode006_14ed197c:
 
     # av "Fuck, I really thought he was going to punch you in the face or something."
-    av ""
+    av "Scheiße, Ich dachte echt der schlägt dir gleich ins gesicht oder so."
 
 # game/episode006.rpy:1798
 translate german episode006_ce675839:
 
     # c "That would have been rude..."
-    c ""
+    c "Das wäre unhöflich gewesen..."
 
 # game/episode006.rpy:1801
 translate german episode006_569a3708:
 
     # c "Let's go inside that elevator before more of his friends start to get ideas and order us around."
-    c ""
+    c "Gehen wir in den Aufzug, bevor noch mehr seiner Freunde auf die Idee kommen uns herumzukommandieren."
 
 # game/episode006.rpy:1802
 translate german episode006_2f5e8679:
 
     # "We entered the large elevator and the doors started to close agonizingly slow."
-    ""
+    "Wir betraten den großen Aufzug und die Türen begannen sich quälend langsam zu schließen."
 
 # game/episode006.rpy:1804
 translate german episode006_76917802:
 
     # "The elevator ride itself was very fast and we were greeted by the smell of engine fuel, oil and metal as soon as the doors opened."
-    ""
+    "Die Fahrt mit dem Aufzug selbst verlief sehr schnell und sobald sich die Türen öffneten, wurden wir vom Geruch von Kraftstoff, Öl und Metall begrüßt."
 
 # game/episode006.rpy:1805
 translate german episode006_30f1af24:

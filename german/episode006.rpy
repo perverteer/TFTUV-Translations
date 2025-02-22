@@ -6424,589 +6424,589 @@ translate german episode006_76917802:
 translate german episode006_30f1af24:
 
     # "The Bastard was docked here together with several other ships."
-    ""
+    "Die Bastard lag hier zusammen mit mehreren anderen Schiffen."
 
 # game/episode006.rpy:1807
 translate german episode006_1b7b8ac2:
 
     # "Our vessel didn't look that much worse for wear, at least not more than it usually did."
-    ""
+    "Unser Schiff sah nicht viel abgenutzter aus, zumindest nicht mehr als sonst."
 
 # game/episode006.rpy:1808
 translate german episode006_f3c5a2a4:
 
     # c "We need that identification code, it's on a computer here somewhere."
-    c ""
+    c "Wir brauchen diesen Identifikations Code, Er muss hier irgendwo auf einem der Computer zu finden sein."
 
 # game/episode006.rpy:1810
 translate german episode006_76e9fee0:
 
     # j "I guess I might be able to help with that."
-    j ""
+    j "Ich denke damit kann ich helfen."
 
 # game/episode006.rpy:1811
 translate german episode006_87c27547:
 
     # j "Unless there are a lot of guards..."
-    j ""
+    j "Außer es sind viele Wachen da."
 
 # game/episode006.rpy:1813
 translate german episode006_3c6d92b0:
 
     # av "We'll handle those."
-    av ""
+    av "Um die kümmern wir uns."
 
 # game/episode006.rpy:1814
 translate german episode006_f5f7c27d:
 
     # c "Right."
-    c ""
+    c "Richtig."
 
 # game/episode006.rpy:1815
 translate german episode006_fa09410f:
 
     # c "Jade, Aven and me will try and find that docking computer."
-    c ""
+    c "Jade, Aven und ich werden versuchen den Docking-Computer zu finden"
 
 # game/episode006.rpy:1816
 translate german episode006_3903b797:
 
     # c "Everyone else, take up position near the Bastard and try to gain access."
-    c ""
+    c "Alle anderen, ihr versucht euch neben der Bastard in Position zu bringen und hinein zu gelangen."
 
 # game/episode006.rpy:1818
 translate german episode006_8e27dd67:
 
     # "A central command post looked out over all the docking bays and that would be our best bet to gain access to the computer system."
-    ""
+    "Ein zentraler Kommandoposten überwachte alle Andockbuchten und das wäre unsere beste Möglichkeit, Zugang zum Computersystem zu erhalten."
 
 # game/episode006.rpy:1819
 translate german episode006_1f579bc6:
 
     # "Trying to look confident we marched towards the entrance door and barged in."
-    ""
+    "Wir versuchten, selbstbewusst auszusehen, marschierten zur Eingangstür und stürmten hinein."
 
 # game/episode006.rpy:1821
 translate german episode006_e4f2b911:
 
     # "I was ready to bark orders to the any surprised guards, but there weren't any, the control post was completely empty."
-    ""
+    "Ich war bereit, den überraschten Wachen Befehle zu geben, aber es gab keine, der Kontrollposten war völlig leer."
 
 # game/episode006.rpy:1823
 translate german episode006_36ab23c0:
 
     # av "Shouldn't someone be monitoring stuff?"
-    av ""
+    av "Sollte hier nicht jemand sein und alles überwachen?"
 
 # game/episode006.rpy:1824
 translate german episode006_0fb2215c:
 
     # c "Maybe they're on a lunch break?"
-    c ""
+    c "Vielleicht machen sie Mittagspause?"
 
 # game/episode006.rpy:1825
 translate german episode006_8fa99572:
 
     # av "Yeah...{w} I don't like this."
-    av ""
+    av "Klar...{w} Mir gefällt das nicht."
 
 # game/episode006.rpy:1826
 translate german episode006_ab21e5d1:
 
     # "We pulled our guns and cased the area."
-    ""
+    "Wir zogen unsere Waffen und sicherten die Umgebung."
 
 # game/episode006.rpy:1828
 translate german episode006_6ddfa9cc:
 
     # j "There's a computer console over there."
-    j ""
+    j "Hier is eine Computer Konsole."
 
 # game/episode006.rpy:1829
 translate german episode006_c7418ef7:
 
     # c "You might as well take advantage of the situation and start working."
-    c ""
+    c "Warum nutzt du die Situation nicht aus und machst dich an die arbeit."
 
 # game/episode006.rpy:1830
 translate german episode006_72cfe61b:
 
     # j "Right away."
-    j ""
+    j "Schon dabei."
 
 # game/episode006.rpy:1832
 translate german episode006_8dbef54d:
 
     # av "Why isn't anyone here?"
-    av ""
+    av "Warum ist hier niemand?"
 
 # game/episode006.rpy:1833
 translate german episode006_a0068289:
 
     # "Right at that moment I heard a distinct yelp coming from a backroom."
-    ""
+    "Genau in dem Moment hörte ich jemanden deutlich nach Luft schnappen in einem der Hinterzimmer.  "
 
 # game/episode006.rpy:1834
 translate german episode006_224dcd90:
 
     # c "Over here!"
-    c ""
+    c "Hier drüben!"
 
 # game/episode006.rpy:1836
 translate german episode006_a655d576:
 
     # "We carefully approached the door leading to a maintenance room."
-    ""
+    "Wir gingen vorsichtig auf die Tür zu, die zu einer art Abstellkammer führte."
 
 # game/episode006.rpy:1837
 translate german episode006_aa98ddbb:
 
     # "There were sounds coming from behind it."
-    ""
+    "Hinter der Tür konnte man Geräusche vernehmen."
 
 # game/episode006.rpy:1838
 translate german episode006_ac69e335:
 
     # av "Either someone is in pain or they're having a good time."
-    av ""
+    av "Entweder hat jemand Schmerzen, oder sehr viel Spaß."
 
 # game/episode006.rpy:1839
 translate german episode006_0e898381:
 
     # "I opened the door slightly and saw two guards hunched over the screen of a handheld device."
-    ""
+    "Ich öffnete die Tür einen spalt weit und sah zwei Wachen über eine Art Tablett gebeugt."
 
 # game/episode006.rpy:1841
 translate german episode006_472b3a15:
 
     # man "Fuck!{w} Is that thing really going in there?!"
-    man ""
+    man "Scheiße!{w} Geht das Ding echt da rein?!"
 
 # game/episode006.rpy:1842
 translate german episode006_b0e77dbc:
 
     # man "No, she didn't!"
-    man ""
+    man "Nein, hat sie nicht gemacht!"
 
 # game/episode006.rpy:1843
 translate german episode006_04ec5fe6:
 
     # man "All the way?{w} Damn!"
-    man ""
+    man "Bis zu Ende?{w} Wow!"
 
 # game/episode006.rpy:1848
 translate german episode006_82b0f6d8:
 
     # "I closed the door softly and left the guards to whatever nasty pornography they were admiring."
-    ""
+    "Ich schloss leise die Tür und überließ die Wachen der abscheulichen Pornografie, die sie bewunderten."
 
 # game/episode006.rpy:1849
 translate german episode006_8eb2c00b:
 
     # c "Let's leave them to it and hurry the fuck up."
-    c ""
+    c "Lassen wir sie in Ruhe und beeilen uns."
 
 # game/episode006.rpy:1851
 translate german episode006_cd7d03e2:
 
     # "Jade was still hovered over the console when we got back."
-    ""
+    "Jade war noch immer an der Konsole zu gange als wir zurück kamen."
 
 # game/episode006.rpy:1852
 translate german episode006_27dd7033:
 
     # j "Just a couple of minutes."
-    j ""
+    j "Nur ein paar Minuten."
 
 # game/episode006.rpy:1853
 translate german episode006_b8e151f6:
 
     # c "I hope the boys will be occupied long enough back there."
-    c ""
+    c "Ich hoffe die Jungs sind dort lange genug beschäftigt."
 
 # game/episode006.rpy:1854
 translate german episode006_31bc1b1f:
 
     # j "Boys?"
-    j ""
+    j "Jungs?"
 
 # game/episode006.rpy:1855
 translate german episode006_c63e21ab:
 
     # c "Never mind, just focus on getting us those access codes."
-    c ""
+    c "Nicht so wichtig, fokusieren wir uns auf die Zugangs Codes."
 
 # game/episode006.rpy:1857
 translate german episode006_b6f186f4:
 
     # "Jade's fingers danced frantically over the keyboard and she sighed in frustration multiple times."
-    ""
+    "Jades Finger tanzten hektisch über die Tastatur und sie seufzte mehrmals frustriert."
 
 # game/episode006.rpy:1858
 translate german episode006_addf2625:
 
     # "The system evidently resisted her attempts to gain entry and I started to fear we'd get caught."
-    ""
+    "Das System wehrte sich offensichtlich gegen ihre Versuche, sich Zutritt zu verschaffen, und ich begann zu fürchten, dass wir erwischt würden."
 
 # game/episode006.rpy:1860
 translate german episode006_b6589d01:
 
     # j "Nearly got it!"
-    j ""
+    j "Habs gleich!"
 
 # game/episode006.rpy:1861
 translate german episode006_fca7018f:
 
     # "We heard the closet door slide open and the two guards emerged."
-    ""
+    "Wir hörten die Kammertür aufgehen und die zwei Wachen traten hervor."
 
 # game/episode006.rpy:1862
 translate german episode006_b437b351_1:
 
     # c "Fuck."
-    c ""
+    c "Scheiße."
 
 # game/episode006.rpy:1864
 translate german episode006_7ab67169:
 
     # man "What are you doing here?!"
-    man ""
+    man "Was macht ihr hier?"
 
 # game/episode006.rpy:1868
 translate german episode006_420a2edd:
 
     # c "We're to relieve you."
-    c ""
+    c "Wir sollen euch ablösen."
 
 # game/episode006.rpy:1870
 translate german episode006_ad2df50a:
 
     # man "Nonsense, that's only supposed to happen in an hour."
-    man ""
+    man "Schwachsinn, das soll erst in einer Stunde passieren."
 
 # game/episode006.rpy:1871
 translate german episode006_9b357a07:
 
     # c "Plans have changed, command tried to contact you, but got no response."
-    c ""
+    c "Pläne ändern sich, Das Kommando hat versucht euch zu erreichen und keine Antwort bekommen."
 
 # game/episode006.rpy:1872
 translate german episode006_4694d46a:
 
     # c "You probably had a good reason for leaving your post, didn't you?"
-    c ""
+    c "Ihr hatten sicher einen guten Grund eure Posten zu verlassen, richtg?"
 
 # game/episode006.rpy:1873
 translate german episode006_b5181e0b:
 
     # man "I'm going to call command and sort this mess out."
-    man ""
+    man "Ich ruf beim Kommando an und regle das."
 
 # game/episode006.rpy:1874
 translate german episode006_b437b351_2:
 
     # c "Fuck."
-    c ""
+    c "Scheiße."
 
 # game/episode006.rpy:1876
 translate german episode006_42f0aee3:
 
     # "I shot him in the face before the guard could bring his communicator to his mouth."
-    ""
+    "Ich schoss ihm direkt ins gesicht bevor der Wächter sein Funkgerät heben konnte."
 
 # game/episode006.rpy:1878
 translate german episode006_0adfeca7:
 
     # "Aven took care of the other guard who dropped with a shocked look on his face."
-    ""
+    "Aven kümmerte sich um den Anderen Wächter der mit einem erschrockenen Blick zu boden fiel."
 
 # game/episode006.rpy:1879
 translate german episode006_5c981ec1:
 
     # "Just as the men both hit the floor Jade exclaimed her success."
-    ""
+    "Gerade als die Männer beide auf dem Boden landeten, verkündete Jade ihren Erfolg."
 
 # game/episode006.rpy:1882
 translate german episode006_f9cdf1f9:
 
     # "Before the guard could say anything else I shot him in the face."
-    ""
+    "Bevor der Wächter etwas sagen konnte schoss ich ihm ins Gesicht."
 
 # game/episode006.rpy:1884
 translate german episode006_a6ca2945:
 
     # "The other guard attempted to bring his communicator to his mouth, but was caught by a blast from Aven's gun."
-    ""
+    "Der andere Wächter versucht einen Funkspruch abzusetzen, doch wurde vorher von einem schuss aus Aven's Waffe niedergestreckt."
 
 # game/episode006.rpy:1885
 translate german episode006_5c981ec1_1:
 
     # "Just as the men both hit the floor Jade exclaimed her success."
-    ""
+    "Gerade als die Männer beide auf dem Boden landeten, verkündete Jade ihren Erfolg."
 
 # game/episode006.rpy:1887
 translate german episode006_eb7774b9:
 
     # j "I've got it!"
-    j ""
+    j "Ich habs!"
 
 # game/episode006.rpy:1888
 translate german episode006_4f204449:
 
     # j "I've got the codes and we're cleared for launch."
-    j ""
+    j "Ich habe die Codes wir haben die Freigabe zu Starten."
 
 # game/episode006.rpy:1890
 translate german episode006_7b1b4587:
 
     # "Only then she seemed to notice the shooting that had just happened and her face contorted in disgust."
-    ""
+    "Erst dann schien sie die Schießerei zu bemerken, die gerade stattgefunden hatte, und ihr Gesicht verzog sich vor Abscheu."
 
 # game/episode006.rpy:1891
 translate german episode006_30333273:
 
     # av "Fuck, what a mess."
-    av ""
+    av "Scheiße, was für ein Durcheinander"
 
 # game/episode006.rpy:1892
 translate german episode006_9bd157a4:
 
     # c "Let's leave here quickly, hopefully the others are already on the Bastard."
-    c ""
+    c "Lasst uns hier schnell verschwinden, hoffentlich sind die anderen schon auf der Bastard."
 
 # game/episode006.rpy:1895
 translate german episode006_a89325b1:
 
     # "Much to Aven's shock I kicked the door in."
-    ""
+    "Sehr zu Aven's Schock, trat ich die Tür ein."
 
 # game/episode006.rpy:1897
 translate german episode006_df0e55c0:
 
     # c "What the fuck do you think you're doing here?"
-    c ""
+    c "Was zu Fick glaubt ihr was ihr hier macht?"
 
 # game/episode006.rpy:1898
 translate german episode006_b5afd43a:
 
     # "The guards were startled beyond belief and stared at us with mouths agape."
-    ""
+    "Die Wachen erstarrten vor Schreck und schauten uns mit offenem Mund an. "
 
 # game/episode006.rpy:1899
 translate german episode006_06aff4b6:
 
     # "One of them still held the tablet showing a woman stuffing her butthole with an incredibly large dildo."
-    ""
+    "Einer von ihnen hielt immer noch das Tablet in der Hand, auf dem eine Frau zu sehen war, die ihren Arsch mit einem riesiegen Dildo stopfte."
 
 # game/episode006.rpy:1901
 translate german episode006_572f12a8:
 
     # man "Sir...{w} we..."
-    man ""
+    man "Sir...{w} Wir..."
 
 # game/episode006.rpy:1902
 translate german episode006_fcc6ed6e:
 
     # c "You both abandoned your posts to lock yourself up in a closet and look at porn?!"
-    c ""
+    c "Ihr beide habt euren Posten verlassen um euch hier einzuschließen und Pornos zu schauen?!"
 
 # game/episode006.rpy:1903
 translate german episode006_6bb53a7f:
 
     # c "I should shoot you on sight."
-    c ""
+    c "Ich sollte euch hier und jetzt erschießen."
 
 # game/episode006.rpy:1904
 translate german episode006_76c85855:
 
     # man "Please...{w} sir..."
-    man ""
+    man "Bitte...{w} Sir..."
 
 # game/episode006.rpy:1905
 translate german episode006_db096f3d:
 
     # c "Shut the fuck up."
-    c ""
+    c "Haltet euer Maul."
 
 # game/episode006.rpy:1906
 translate german episode006_c2dfb571:
 
     # c "Report to your commander immediately and make sure to tell him everything."
-    c ""
+    c "Meldet euch bei eurem Kommandanten sofort und erzählt ihm alles."
 
 # game/episode006.rpy:1907
 translate german episode006_17951023:
 
     # c "Make sure to tell him everything, because I intend to verify your story once my guard shift here is done."
-    c ""
+    c "Stellt sicher das ihr ihm alles erzählt, denn wenn meine Wachschicht hier vorbei ist werde ich eure Geschichte persönlich überprüfen."
 
 # game/episode006.rpy:1909
 translate german episode006_307edfac:
 
     # man "But sir, we weren't supposed to be relieved until the next hour."
-    man ""
+    man "Aber Sir, wir sollten erst in einer Stunde abgelöst werden."
 
 # game/episode006.rpy:1910
 translate german episode006_3544b32a:
 
     # c "Do I look like I care?"
-    c ""
+    c "Seh ich so aus als würde mich das interresieren?"
 
 # game/episode006.rpy:1911
 translate german episode006_e9bff769:
 
     # c "Get the fuck out of here at once!"
-    c ""
+    c "Bewegt euren Arsch hier raus aber sofort!"
 
 # game/episode006.rpy:1913
 translate german episode006_7e01a0ae:
 
     # "The guards were too flustered to really think about the whole situation and hurried out in shame."
-    ""
+    "Die Wachen waren zu nervös, um wirklich über die ganze Situation nachzudenken, und eilten beschämt davon."
 
 # game/episode006.rpy:1914
 translate german episode006_fe1562e4:
 
     # "They didn't even notice Jade working on the console on their way out."
-    ""
+    "Sie bemerkten nicht einmal das Jade noch immer an der Konsole beschäftigt war."
 
 # game/episode006.rpy:1916
 translate german episode006_005a529d:
 
     # av "Damn, you really made them shit their britches, [p_name_short]."
-    av ""
+    av "Verdammt, du hast echt dafür gesorgt das sie sich in die hosen machen, [p_name_short]."
 
 # game/episode006.rpy:1918
 translate german episode006_71f42dd3:
 
     # j "What was that about?"
-    j ""
+    j "Was war da los?"
 
 # game/episode006.rpy:1919
 translate german episode006_cd447b3c:
 
     # c "Just some guys slacking off at work."
-    c ""
+    c "Nur ein paar Typen, die etwas unvorsichtig waren während der Arbeit."
 
 # game/episode006.rpy:1920
 translate german episode006_47cf5a4a:
 
     # c "I put them in their place."
-    c ""
+    c "Ich habe sie auf ihre Plätze verwiesen."
 
 # game/episode006.rpy:1921
 translate german episode006_3c2ad325:
 
     # j "You sure did."
-    j ""
+    j "Das hast du allerdings."
 
 # game/episode006.rpy:1922
 translate german episode006_d0c204fa:
 
     # j "Just a couple of minutes and we should have those access codes."
-    j ""
+    j "Nur noch ein Paar Minuten dann hab ich die Codes."
 
 # game/episode006.rpy:1924
 translate german episode006_b6f186f4_1:
 
     # "Jade's fingers danced frantically over the keyboard and she sighed in frustration multiple times."
-    ""
+    "Jades Finger tanzten hektisch über die Tastatur und sie seufzte mehrmals frustriert."
 
 # game/episode006.rpy:1925
 translate german episode006_addf2625_1:
 
     # "The system evidently resisted her attempts to gain entry and I started to fear we'd get caught."
-    ""
+    "Das System wehrte sich offensichtlich gegen ihre Versuche, sich Zutritt zu verschaffen, und ich begann zu fürchten, dass wir erwischt würden."
 
 # game/episode006.rpy:1926
 translate german episode006_b6589d01_1:
 
     # j "Nearly got it!"
-    j ""
+    j "Habs gleich!"
 
 # game/episode006.rpy:1927
 translate german episode006_0d6af297:
 
     # "I just hoped the guards we dismissed didn't get any second thoughts and mess things up for us."
-    ""
+    "Ich hoffte nur, dass die Wachen, die wir entlassen hatten, keine Bedenken bekamen und die Dinge für uns durcheinander brachten."
 
 # game/episode006.rpy:1928
 translate german episode006_32fc5984:
 
     # "Luckily, nobody disturbed us."
-    ""
+    "Zum Glück hat uns niemand gestört."
 
 # game/episode006.rpy:1930
 translate german episode006_eb7774b9_1:
 
     # j "I've got it!"
-    j ""
+    j "Ich habs!"
 
 # game/episode006.rpy:1931
 translate german episode006_4f204449_1:
 
     # j "I've got the codes and we're cleared for launch."
-    j ""
+    j "Ich habe die Codes und wir haben eine Startfreigabe."
 
 # game/episode006.rpy:1932
 translate german episode006_d7c74fc4:
 
     # c "Great work!"
-    c ""
+    c "Gute Arbeit!"
 
 # game/episode006.rpy:1933
 translate german episode006_9bd157a4_1:
 
     # c "Let's leave here quickly, hopefully the others are already on the Bastard."
-    c ""
+    c "Lasst uns hier schnell verschwinden, hoffentlich sind die anderen schon auf der Bastard."
 
 # game/episode006.rpy:1936
 translate german episode006_dd9d84ae:
 
     # "We hurried down towards the Iron Bastard."
-    ""
+    "Wir beeilten uns zur Bastard zu gelangen."
 
 # game/episode006.rpy:1937
 translate german episode006_074b6572:
 
     # "Nobody opposed us and the few maintenance droids stalking the premises didn't even register us."
-    ""
+    "Niemand hielt uns auf und die paar Wartungs Droiden die herumliefen bemerkten uns nicht einmal."
 
 # game/episode006.rpy:1938
 translate german episode006_cabef848:
 
     # "There was nobody in the vicinity of the Bastard and the entrance hatch was open."
-    ""
+    "Es war niemand in der Nähe der Bastard und die Einstiegsluke war offen."
 
 # game/episode006.rpy:1939
 translate german episode006_7a4feae0:
 
     # c "Everyone's already inside, let's get the fuck out of here."
-    c ""
+    c "Sie sind schon alle drinnen, los lasst uns hier verschwinden."
 
 # game/episode006.rpy:1940
 translate german episode006_f5bbacc1:
 
     # "The hatch closed immediately after we climbed aboard the ship."
-    ""
+    "Die Luke schloss sich augenblicklich nachdem wir an Bord geklettert waren."
 
 # game/episode006.rpy:1941
 translate german episode006_a86a4eb0:
 
     # "We rushed towards the bridge to find Céline and the others already strapped in."
-    ""
+    "Wir rannten zur Brücke und fanden Céline und die anderen bereits festgeschnallt."
 
 # game/episode006.rpy:1943
 translate german episode006_d86f1932:
 
     # ce "Ready for take-off."
-    ce ""
+    ce "Bereit zum abheben."
 
 # game/episode006.rpy:1944
 translate german episode006_843dd4f2:
 
     # "The Iron Bastard hummed as Céline started the engines and the docking bay doors opened."
-    ""
+    "Der Eiserne Bastard summte als Céline die Triebwerke startete und die Dock Türen öffneten sich."
 
 # game/episode006.rpy:1945
 translate german episode006_31642874:

@@ -7012,157 +7012,157 @@ translate german episode006_843dd4f2:
 translate german episode006_31642874:
 
     # "No alarms interrupted us and we sped outside the docking bay in seconds."
-    ""
+    "Kein Alarm störte uns und wir rasten in Sekundenschnelle aus der Andockbucht heraus."
 
 # game/episode006.rpy:1947
 translate german episode006_3dd61539:
 
     # "The ship prompted us for an identification code which Jade recited to Céline."
-    ""
+    "Das Schiff verlangte von uns einen identifikations Code den Jade an Céline weitergab."
 
 # game/episode006.rpy:1948
 translate german episode006_31483359:
 
     # "After punching in the code we had to wait for a number of agonizing seconds until the screen turned green in approval."
-    ""
+    "Nachdem der Code eingegeben war, mussten wir einige sehr langsam vergehende Sekunden warten bis der Bildschirm uns ein grünes Signal gab."
 
 # game/episode006.rpy:1949
 translate german episode006_b50af0ec:
 
     # "Full thrust, we flew back into the asteroid field and left the station behind."
-    ""
+    "Mit voller Kraft flogen wir zurück in das Asteroidenfeld und ließen die Station hinter uns."
 
 # game/episode006.rpy:1950
 translate german episode006_d3a9ae72:
 
     # c "Set a course for Almagest."
-    c ""
+    c "Setz einen Kurs nach Almagest."
 
 # game/episode006.rpy:1952
 translate german episode006_89df5ed2:
 
     # ce "Uh, [p_name_short]...{w} about that..."
-    ce ""
+    ce "Uh, [p_name_short]...{w} was das angeht..."
 
 # game/episode006.rpy:1953
 translate german episode006_3502305f_1:
 
     # c "What's the matter?"
-    c ""
+    c "Was ist los?"
 
 # game/episode006.rpy:1954
 translate german episode006_15fe7996:
 
     # ce "I had a look at the ship's records to find the date we were captured."
-    ce ""
+    ce "Ich habe mir die Aufzeichnungen unseres Schiffes angeschaut um herauszufinden wann wir gefangen genommen wurden."
 
 # game/episode006.rpy:1955
 translate german episode006_49d3f91d:
 
     # c "And?"
-    c ""
+    c "Und?"
 
 # game/episode006.rpy:1957
 translate german episode006_476d42f6:
 
     # ce "That was almost six months ago."
-    ce ""
+    ce "Das war vor fast sechs Monaten."
 
 # game/episode006.rpy:1959
 translate german episode006_5796059d:
 
     # c "Six months?"
-    c ""
+    c "Sechs Monate?"
 
 # game/episode006.rpy:1960
 translate german episode006_3ac6f83d:
 
     # c "That can't be true."
-    c ""
+    c "Das kann nicht sein."
 
 # game/episode006.rpy:1961
 translate german episode006_a704c68f:
 
     # ce "I double-checked it."
-    ce ""
+    ce "Ich habs doppelt geprüft."
 
 # game/episode006.rpy:1963
 translate german episode006_e8017228:
 
     # "The thought of losing almost half a year sent me reeling and I had to support myself by grabbing hold of a chair."
-    ""
+    "Der Gedanke, fast ein halbes Jahr verloren zu haben, versetzte mich ins Wanken und ich musste mich an einem Stuhl festhalten."
 
 # game/episode006.rpy:1964
 translate german episode006_14cae485:
 
     # c "We'll find a way to deal with this."
-    c ""
+    c "Wir werden einen Weg finden damit umzugehen."
 
 # game/episode006.rpy:1965
 translate german episode006_ad34098a:
 
     # c "Plot a course to Almagest, we'll get that information one way or another."
-    c ""
+    c "Setz einen Kurs nach Almagest, wir kriegen diese Informationen egal wie."
 
 # game/episode006.rpy:1967
 translate german episode006_20f7f609:
 
     # ki "We could turn back Barranthis, maybe ask that Vitriv for help again?"
-    ki ""
+    ki "Wir könnten zurück fliegen nach Barranthis, vielleicht können wir diesen Vitriv nochmal nach hilfe fragen. "
 
 # game/episode006.rpy:1969
 translate german episode006_7dcb9eef:
 
     # th "I'm not sure we're going to find him that easily."
-    th ""
+    th "Ich bin mir nicht sicher das wir ihn so einfach finden."
 
 # game/episode006.rpy:1970
 translate german episode006_9d7b937d:
 
     # th "Also, you can bet on Doarn giving us a warm welcome, we've made a powerful enemy there."
-    th ""
+    th "Außerdem kannst du darauf wetten, dass Doarn uns herzlich willkommen heißen wird, wir haben uns dort einen mächtigen Feind gemacht."
 
 # game/episode006.rpy:1971
 translate german episode006_875acc8c:
 
     # c "I don't want to waste more time, we'll think of something once we reach Almagest."
-    c ""
+    c "Ich will nicht noch mehr Zeit verschwenden, wir überlegen uns was wir in Almagest ankommen."
 
 # game/episode006.rpy:1973
 translate german episode006_b4059751:
 
     # "Once Céline fed the Bastard the coordinates to the Psi1-Draconis system and we were in for a long journey through several jumpgates."
-    ""
+    "Nachdem Céline der Bastard die Koordinaten an das Psi1-Draconis-System übermittelt hatte, stand uns eine lange Reise durch mehrere Sprungtore bevor."
 
 # game/episode006.rpy:1974
 translate german episode006_ee8427c1:
 
     # "Now was as good a time as any to settle a few things with some of my crew mates."
-    ""
+    "Jetzt war genau der richtige Zeitpunkt, um mit einigen meiner Crewmitglieder ein paar Dinge zu klären."
 
 # game/episode006.rpy:1990
 translate german ep006_sim_01_b57ea409:
 
     # "Suddenly I was overwhelmed by a familiar nausea."
-    ""
+    "Plötzlich überkam mich eine bekannte Übelkeit."
 
 # game/episode006.rpy:1992
 translate german ep006_sim_01_392b6e31:
 
     # "The darkness in front of me was pierced by several spotlights and I saw two figures, unmistakably female."
-    ""
+    "Mehrere Scheinwerfer durchdrangen die Dunkelheit vor mir und ich sah zwei Gestalten, unverkennbar weiblich."
 
 # game/episode006.rpy:1994
 translate german ep006_sim_01_4847d439:
 
     # "One of the women was completely naked and kneeling, her shapely ass turned towards me."
-    ""
+    "Eine der Frauen war völlig nackt und kniete, ihr wohlgeformter Hintern war mir zugewandt."
 
 # game/episode006.rpy:1996
 translate german ep006_sim_01_924d11fc:
 
     # "The other woman was scantly clad and walking circles around the naked woman, carrying a whip."
-    ""
+    "Die andere Frau war spärlich bekleidet und ging mit einer Peitsche in der Hand um die nackte Frau herum."
 
 # game/episode006.rpy:1998
 translate german ep006_sim_01_908e3894:

@@ -7168,1573 +7168,1573 @@ translate german ep006_sim_01_924d11fc:
 translate german ep006_sim_01_908e3894:
 
     # "When her face was illuminated by one of the spotlights a wave of emotion coursed through me."
-    ""
+    "Als ihr Gesicht von einem der Scheinwerfer beleuchtet wurde, durchströmte mich eine Welle von Emotionen."
 
 # game/episode006.rpy:1999
 translate german ep006_sim_01_99abf4fa:
 
     # "I felt I should recognize the woman because of the ferociousness of my feelings, a burning hatred, but my mind drew a blank."
-    ""
+    "Ich hatte das Gefühl, ich sollte die Frau aufgrund der Wildheit meiner Gefühle und eines brennenden Hasses erkennen, aber meine Gedanken waren leer."
 
 # game/episode006.rpy:2001
 translate german ep006_sim_01_3ed1407d:
 
     # "The woman let the whip touch the skin of the other woman's back."
-    ""
+    "Die Frau lies die Peitsche über der Rücken der anderen frau gleiten."
 
 # game/episode006.rpy:2002
 translate german ep006_sim_01_f744b2fa:
 
     # "I heard her whimper."
-    ""
+    "Ich hörte sie schluchzen."
 
 # game/episode006.rpy:2003
 translate german ep006_sim_01_0ffe782f:
 
     # "The other woman spoke, she had a commanding voice that brooked no contradiction."
-    ""
+    "Die andere Frau sprach, sie hatte eine gebieterische Stimme, die keinen Widerspruch duldete."
 
 # game/episode006.rpy:2005
 translate german ep006_sim_01_b5221fa6:
 
     # woman2 "Do you deny you're a slut?"
-    woman2 ""
+    woman2 "Leugnest du das du eine Schlampe bist?"
 
 # game/episode006.rpy:2006
 translate german ep006_sim_01_36b150fa:
 
     # "The woman on the floor replied in a whisper as she shirked away from the tip of the whip."
-    ""
+    "Die Frau auf dem Boden antwortete flüsternd, während sie vor der Spitze der Peitsche zurückschreckte."
 
 # game/episode006.rpy:2007
 translate german ep006_sim_01_cd7621ce:
 
     # "Her long blonde hair fell as a waterfall on the floor."
-    ""
+    "Ihre langen blonden Haare fielen wir ein Wasserfall auf den den Boden."
 
 # game/episode006.rpy:2008
 translate german ep006_sim_01_d405f583:
 
     # woman2 "I can't hear you, slut."
-    woman2 ""
+    woman2 "Ich kann dich nicht hören, Schlampe."
 
 # game/episode006.rpy:2009
 translate german ep006_sim_01_2f7c9f17:
 
     # woman2 "Speak up!"
-    woman2 ""
+    woman2 "Sprich!"
 
 # game/episode006.rpy:2012
 translate german ep006_sim_01_e7bac75e:
 
     # yve "I'm not a slut!"
-    yve ""
+    yve "Ich bin keine Schlampe!"
 
 # game/episode006.rpy:2013
 translate german ep006_sim_01_e6f9af68:
 
     # "With a flick of her wrist the woman attacked with her whip."
-    ""
+    "Mit einer Bewegung ihres Handgelenkes schlug sie mit der Peitsche zu."
 
 # game/episode006.rpy:2014
 translate german ep006_sim_01_e9224166:
 
     # "I saw her buttocks clench as the coarse leather lashed viciously against the helpless slave."
-    ""
+    "Ich sah, wie sich ihr Arsch verkrampfte, als das grobe Leder brutal gegen die hilflose Sklavin schlug."
 
 # game/episode006.rpy:2016
 translate german ep006_sim_01_4c4cd46a:
 
     # woman2 "You will address me as Mistress!"
-    woman2 ""
+    woman2 "Du wirst mich als Herrin ansprechen!"
 
 # game/episode006.rpy:2020
 translate german ep006_sim_01_e2d13523:
 
     # yve "I'm not a slut, Mistress."
-    yve ""
+    yve "Ich bin keine Schlampe Herrin."
 
 # game/episode006.rpy:2022
 translate german ep006_sim_01_962c0ec1:
 
     # woman2 "But you are."
-    woman2 ""
+    woman2 "Aber das bist du."
 
 # game/episode006.rpy:2023
 translate german ep006_sim_01_f4bdcf85:
 
     # woman2 "You've slept with so many men."
-    woman2 ""
+    woman2 "Du hast mit so vielen Männern geschlafen."
 
 # game/episode006.rpy:2024
 translate german ep006_sim_01_f2f6681e:
 
     # woman2 "Or should I say boys?"
-    woman2 ""
+    woman2 "oder sollte ich sagen Jungs?"
 
 # game/episode006.rpy:2025
 translate german ep006_sim_01_63e4a576:
 
     # woman2 "You like those eighteen and nineteen-year olds, don't you, because they still have the stamina to fuck you all night?"
-    woman2 ""
+    woman2 "Du magst diese Achtzehn- und Neunzehnjährigen, nicht wahr, weil sie immer noch die Ausdauer haben, dich die ganze Nacht durch zu ficken?"
 
 # game/episode006.rpy:2026
 translate german ep006_sim_01_616568d0:
 
     # woman2 "Admit it!"
-    woman2 ""
+    woman2 "Gib es zu!"
 
 # game/episode006.rpy:2027
 translate german ep006_sim_01_2a0cc03a:
 
     # "The Mistress lashed her slave several times before she could answer."
-    ""
+    "Die Herrin schlug ihre Sklavin mehrmals, bevor sie antworten konnte."
 
 # game/episode006.rpy:2028
 translate german ep006_sim_01_51287ce6:
 
     # woman2 "Stand up, slut."
-    woman2 ""
+    woman2 "Steh auf, Schlampe."
 
 # game/episode006.rpy:2029
 translate german ep006_sim_01_1fb9b302:
 
     # "The blonde slave just whimpered which earned her two slaps on the bare soles of her feet."
-    ""
+    "Die blonde Sklavin wimmerte nur, was ihr zwei hiebe auf die nackten Fußsohlen einbrachte."
 
 # game/episode006.rpy:2031
 translate german ep006_sim_01_c404da9f:
 
     # "She yelped and struggled to get up."
-    ""
+    "Sie schrie und kämpfte darum aufzustehen."
 
 # game/episode006.rpy:2032
 translate german ep006_sim_01_630d7c6a:
 
     # "Her long hair covered most of her well-sculpted back and stopped just above her ass."
-    ""
+    "Ihr langes Haar bedeckte den größten Teil ihres wohlgeformten Rückens und endete knapp über ihrem Hintern."
 
 # game/episode006.rpy:2034
 translate german ep006_sim_01_b62c829c:
 
     # woman2 "Face me, whore."
-    woman2 ""
+    woman2 "Schau mich an, Hure."
 
 # game/episode006.rpy:2035
 translate german ep006_sim_01_ad593ad2:
 
     # "The slave finally turned around, the harsh light hitting her face."
-    ""
+    "Die Sklavin drehte sich um, das helle Licht traf ihr Gesicht."
 
 # game/episode006.rpy:2037
 translate german ep006_sim_01_16942a61:
 
     # "I was struck with another torrent of emotions, a little more ambivalent than what I felt for the Mistress."
-    ""
+    "Ich wurde von einer weiteren Flut von Gefühlen erfasst, die etwas ambivalenter waren als das, was ich für die Herrin empfand."
 
 # game/episode006.rpy:2038
 translate german ep006_sim_01_d16c867e:
 
     # "A weird kind of affection and familiarity, mixed with the same hatred I felt for the other woman."
-    ""
+    "Eine seltsame Art von Zuneigung und Vertrautheit, gemischt mit dem gleichen Hass, den ich für die andere Frau empfand."
 
 # game/episode006.rpy:2039
 translate german ep006_sim_01_d9a0b16d:
 
     # "Strangely, both women also aroused me."
-    ""
+    "Setsamerweise, erregten die beiden Frauen mich. "
 
 # game/episode006.rpy:2040
 translate german ep006_sim_01_e5bf9c77:
 
     # "My erection was straining against the coverall I was wearing."
-    ""
+    "Meine Erektion drückte gegen den Overall, den ich trug."
 
 # game/episode006.rpy:2042
 translate german ep006_sim_01_ffe88ddc:
 
     # woman2 "You love to be fucked by teenage cocks, don't you?"
-    woman2 ""
+    woman2 "Du liebst es von jungen Schwänzen gefickt zu werden, richtig?"
 
 # game/episode006.rpy:2043
 translate german ep006_sim_01_f0f84cda:
 
     # woman2 "Say it."
-    woman2 ""
+    woman2 "Sag es."
 
 # game/episode006.rpy:2045
 translate german ep006_sim_01_cd553726:
 
     # yve "No, mistress."
-    yve ""
+    yve "Nein Herrin."
 
 # game/episode006.rpy:2049
 translate german ep006_sim_01_aca3baa2:
 
     # "The Mistress savagely whipped her slave's buttocks and I saw the blonde woman clench her teeth to deal with the pain."
-    ""
+    "Die Herrin schlug brutal auf das Gesäß ihrer Sklavin ein und ich sah, wie die blonde Frau die Zähne zusammenbiss, um den Schmerz zu ertragen."
 
 # game/episode006.rpy:2050
 translate german ep006_sim_01_0d3fd0cd:
 
     # woman2 "You love to get fucked."
-    woman2 ""
+    woman2 "Du liebst es gefickt zu werden."
 
 # game/episode006.rpy:2051
 translate german ep006_sim_01_f0f84cda_1:
 
     # woman2 "Say it."
-    woman2 ""
+    woman2 "Sag es."
 
 # game/episode006.rpy:2053
 translate german ep006_sim_01_d7fb4683:
 
     # "The woman now faced her captive and she stroked the woman's hard nipples with the tip of the whip."
-    ""
+    "Die Frau stand nun ihrer Gefangenen gegenüber und streichelte mit der Peitschenspitze die harten Brustwarzen der Frau."
 
 # game/episode006.rpy:2054
 translate german ep006_sim_01_f0f84cda_2:
 
     # woman2 "Say it."
-    woman2 ""
+    woman2 "Sag es."
 
 # game/episode006.rpy:2056
 translate german ep006_sim_01_141f506c:
 
     # yve "I love to get fucked."
-    yve ""
+    yve "Ich liebe es gefickt zu werden."
 
 # game/episode006.rpy:2057
 translate german ep006_sim_01_4c439d83:
 
     # "A vicious slap and the blonde woman's large breasts were marked with the whip's red mark."
-    ""
+    "Ein heftiger hieb und die großen Brüste der blonden Frau wurden mit dem roten Mal der Peitsche markiert."
 
 # game/episode006.rpy:2058
 translate german ep006_sim_01_e7514b56:
 
     # woman2 "Louder!"
-    woman2 ""
+    woman2 "Lauter!"
 
 # game/episode006.rpy:2059
 translate german ep006_sim_01_58c20422:
 
     # yve "I love to get fucked!"
-    yve ""
+    yve "Ich liebe es gefickt zu werden!"
 
 # game/episode006.rpy:2060
 translate german ep006_sim_01_7f85e1e2:
 
     # woman2 "Because you're a slut."
-    woman2 ""
+    woman2 "Weil du eine Schlampe bist."
 
 # game/episode006.rpy:2061
 translate german ep006_sim_01_57bd48d1:
 
     # yve "Because I'm a slut!"
-    yve ""
+    yve "Weil ich eine Schlampe bin."
 
 # game/episode006.rpy:2062
 translate german ep006_sim_01_f00e60f8:
 
     # woman2 "Good girl."
-    woman2 ""
+    woman2 "Gutes Mädchen."
 
 # game/episode006.rpy:2064
 translate german ep006_sim_01_8fd28141:
 
     # "The whip was now between the trembling slave's legs and the Mistress slowly stroked her inner thighs."
-    ""
+    "Die Peitsche befand sich nun zwischen den Beinen der zitternden Sklavin und die Herrin streichelte langsam die Innenseiten ihrer Schenkel."
 
 # game/episode006.rpy:2065
 translate german ep006_sim_01_614a6f0b:
 
     # "She swished the instrument upwards and lightly touched the slave's cunt."
-    ""
+    "Sie schwang das Instrument nach oben und berührte leicht die Pussy der Sklavin."
 
 # game/episode006.rpy:2066
 translate german ep006_sim_01_3e19e7c3:
 
     # woman2 "Again."
-    woman2 ""
+    woman2 "Nochmal."
 
 # game/episode006.rpy:2068
 translate german ep006_sim_01_71655d73:
 
     # yve "I love to get fucked, because I'm a slut!"
-    yve ""
+    yve "Ich liebe es gefickt zu werden, weil ich eine Schlampe bin."
 
 # game/episode006.rpy:2069
 translate german ep006_sim_01_b53206e9:
 
     # woman2 "Good, very good."
-    woman2 ""
+    woman2 "Gut, sehr gut."
 
 # game/episode006.rpy:2070
 translate german ep006_sim_01_a5f37088:
 
     # woman2 "You're learning to be a good pet."
-    woman2 ""
+    woman2 "Du lernst, ein gutes Haustier zu sein."
 
 # game/episode006.rpy:2071
 translate german ep006_sim_01_51a1a140:
 
     # woman2 "But you have a lot to atone for, so on your knees again."
-    woman2 ""
+    woman2 "Aber du hast viel zu büßen, also wieder auf die Knie."
 
 # game/episode006.rpy:2083
 translate german ep006_sim_02_56542ee7:
 
     # woman2 "Are you ready to be punished again, slut?"
-    woman2 ""
+    woman2 "Bist du bereit wieder bestraft zu werden, Schlampe?"
 
 # game/episode006.rpy:2084
 translate german ep006_sim_02_91ff76f5:
 
     # yve "No, mistress, I'm not."
-    yve ""
+    yve "Nein, Herrin, bin ich nicht."
 
 # game/episode006.rpy:2085
 translate german ep006_sim_02_103cc940:
 
     # woman2 "Sure you are."
-    woman2 ""
+    woman2 "Klar bist du das."
 
 # game/episode006.rpy:2086
 translate german ep006_sim_02_2db11677:
 
     # woman2 "You've trained your holes so well, letting all those boys use you like a common whore."
-    woman2 ""
+    woman2 "Du hast deine Löcher so gut trainiert und zugelassen, dass all diese Jungs dich wie eine gewöhnliche Hure benutzen."
 
 # game/episode006.rpy:2088
 translate german ep006_sim_02_73b5fd72:
 
     # yve "Yes, mistress."
-    yve ""
+    yve "Ja, Herrin."
 
 # game/episode006.rpy:2089
 translate german ep006_sim_02_8abd302f:
 
     # woman2 "Tell me, did you like all that seed running from your gash onto your thighs?"
-    woman2 ""
+    woman2 "Sag mir, hat dir das ganze Sperma gefallen, das von deiner Pussy auf deine Schenkel läuft?"
 
 # game/episode006.rpy:2090
 translate german ep006_sim_02_ba8a6e84:
 
     # woman2 "Did you relish swallowing the cum from all those hard cocks you took so eagerly in your mouth?"
-    woman2 ""
+    woman2 "Hat es dir Spaß gemacht, das Sperma all der harten Schwänze zu schlucken, die du so gierig in deinen Mund genommen hast?"
 
 # game/episode006.rpy:2092
 translate german ep006_sim_02_e838809b:
 
     # yve "I did, mistress."
-    yve ""
+    yve "Hat es, Herrin."
 
 # game/episode006.rpy:2093
 translate german ep006_sim_02_6f97dfb1:
 
     # woman2 "Of course you did."
-    woman2 ""
+    woman2 "Nätürlich hat es das."
 
 # game/episode006.rpy:2094
 translate german ep006_sim_02_40082d24:
 
     # woman2 "There won't be any cock for you now though."
-    woman2 ""
+    woman2 "Allerdings wird es jetzt keinen Schwanz mehr für dich geben."
 
 # game/episode006.rpy:2096
 translate german ep006_sim_02_48eb56b0:
 
     # woman2 "Just this."
-    woman2 ""
+    woman2 "Nur das hier."
 
 # game/episode006.rpy:2097
 translate german ep006_sim_02_f1b24185:
 
     # yve "Mistress, please, it's too big!"
-    yve ""
+    yve "Herrin, bitte, es ist zu groß!"
 
 # game/episode006.rpy:2098
 translate german ep006_sim_02_258f3e23:
 
     # woman2 "Nonsense."
-    woman2 ""
+    woman2 "Schwachsinn."
 
 # game/episode006.rpy:2099
 translate german ep006_sim_02_5bf31b38:
 
     # woman2 "Kneel."
-    woman2 ""
+    woman2 "Knie nieder."
 
 # game/episode006.rpy:2100
 translate german ep006_sim_02_7d2f34de:
 
     # woman2 "Ass in the air."
-    woman2 ""
+    woman2 "Arsch in die Luft."
 
 # game/episode006.rpy:2102
 translate german ep006_sim_02_d55a4ace:
 
     # "The blonde slave obliged, giving me a perfect view of her buttocks."
-    ""
+    "Die blonde Sklavin gehorchte und gab mir einen perfekten Blick auf ihren Arsch."
 
 # game/episode006.rpy:2104
 translate german ep006_sim_02_c40c3dc5:
 
     # "The Mistress slapped them lightly with the flat of her hand."
-    ""
+    "Die Herrin schlug sie leicht mit der flachen Hand."
 
 # game/episode006.rpy:2105
 translate german ep006_sim_02_cc90bc91:
 
     # woman2 "Such a sturdy ass."
-    woman2 ""
+    woman2 "So ein kräftiger Arsch."
 
 # game/episode006.rpy:2106
 translate german ep006_sim_02_5d7438a8:
 
     # woman2 "Did you like it when you got fucked from behind?"
-    woman2 ""
+    woman2 "Hat es dir gefallen als du von hinten gefickt wurdest?"
 
 # game/episode006.rpy:2107
 translate german ep006_sim_02_12898e17:
 
     # yve "No, mistress, I didn't."
-    yve ""
+    yve "Nein, Herrin, hat es nicht."
 
 # game/episode006.rpy:2108
 translate german ep006_sim_02_931bd414:
 
     # woman2 "Don't lie, you loved a big fat cock inside your asshole, didn't you?"
-    woman2 ""
+    woman2 "Lüg nicht, du hast es geliebt einen dicken fetten Schwanz in deinem Arschloch zu haben, richtig?"
 
 # game/episode006.rpy:2110
 translate german ep006_sim_02_41c3cfea:
 
     # "She slapped the woman's ass hard leaving a red impression of her hand."
-    ""
+    "Sie schlug der Frau heftig auf den Hintern und hinterließ einen roten Abdruck ihrer Hand."
 
 # game/episode006.rpy:2112
 translate german ep006_sim_02_0618abe9:
 
     # "The girl yelped in pain as the Mistress roughly shoved her hand across her cunt."
-    ""
+    "Das Mädchen schrie vor Schmerz auf, als die Herrin ihre Hand grob über ihre Fotze schob."
 
 # game/episode006.rpy:2113
 translate german ep006_sim_02_4e23c136:
 
     # woman2 "You can try all you want, but your body is not going to lie."
-    woman2 ""
+    woman2 "Du kannst versuchen was du willst, aber dein Körper wird nicht lügen."
 
 # game/episode006.rpy:2115
 translate german ep006_sim_02_ff711c01:
 
     # "The slave whimpered as she eyed the large toy the Mistress held in her fist."
-    ""
+    "Die Sklavin wimmerte, als sie das große Spielzeug betrachtete, das die Herrin in ihrer Faust hielt."
 
 # game/episode006.rpy:2116
 translate german ep006_sim_02_4291b66a:
 
     # "The domineering woman spat between the kneeling slave's butt cheeks and spread the saliva with her finger around the asshole."
-    ""
+    "Die herrschsüchtige Frau spuckte zwischen die Arschbacken der knienden Sklavin und verteilte den Speichel mit ihrem Finger um das Arschloch herum."
 
 # game/episode006.rpy:2117
 translate german ep006_sim_02_a97fa081:
 
     # "Tenderly, she stroked the blonde woman's anus, making it open very slightly."
-    ""
+    "Zärtlich streichelte sie den Anus der blonden Frau und öffnete ihn ganz leicht."
 
 # game/episode006.rpy:2119
 translate german ep006_sim_02_df8dff42:
 
     # woman2 "See, you're opening up to me already."
-    woman2 ""
+    woman2 "Siehst du, du öffnest dich mir bereits."
 
 # game/episode006.rpy:2120
 translate german ep006_sim_02_a5668f80:
 
     # yve "No, I'm not, Mistress, mercy! Please!"
-    yve ""
+    yve "Nein, tuh ich nicht, Herrin, Gnade! Bitte!"
 
 # game/episode006.rpy:2121
 translate german ep006_sim_02_ed611fd3:
 
     # "My hard cock pressed violently against the taut fabric of my coverall."
-    ""
+    "Mein harter Schwanz drückte heftig gegen den straffen Stoff meines Overalls."
 
 # game/episode006.rpy:2122
 translate german ep006_sim_02_5caf56c3:
 
     # "If my arms weren't restrained to the chair I would've masturbated at the sight of those two depraved women."
-    ""
+    "Wenn meine Arme nicht an den Stuhl gefesselt wären, hätte ich beim Anblick dieser beiden verdorbenen Frauen masturbiert."
 
 # game/episode006.rpy:2123
 translate german ep006_sim_02_2fc70138:
 
     # "The only thing I could do now was look."
-    ""
+    "Das einzige was ich jetzt tun konnte war hinzusehen."
 
 # game/episode006.rpy:2125
 translate german ep006_sim_02_1ec2dcce:
 
     # "The Mistress had pressed the dildo against the folds of the slave's butthole."
-    ""
+    "Die Herrin hatten den Dildo bereits gegen das Arschloch der Sklavin gedrückt."
 
 # game/episode006.rpy:2126
 translate german ep006_sim_02_08aa66ab:
 
     # "The blonde woman had balled her hands to fists and waited for the toy to enter her rectum."
-    ""
+    "Die blonde Frau hatte ihre Hände zu Fäusten geballt und wartete darauf, dass das Spielzeug in ihr Rektum eindrang."
 
 # game/episode006.rpy:2128
 translate german ep006_sim_02_ba1d25e2:
 
     # "Little by little the Mistress slid the toy inside the other woman's asshole."
-    ""
+    "Nach und nach schob die Herrin das Spielzeug in das Arschloch der anderen Frau."
 
 # game/episode006.rpy:2129
 translate german ep006_sim_02_c73ac607:
 
     # woman2 "Look at that."
-    woman2 ""
+    woman2 "Schau dir das an."
 
 # game/episode006.rpy:2130
 translate german ep006_sim_02_7b7bf952:
 
     # woman2 "Look at that big thing sliding so easily inside your hole."
-    woman2 ""
+    woman2 "Schau wie leicht dieses Ding in dein Loch rutscht."
 
 # game/episode006.rpy:2131
 translate german ep006_sim_02_6851149d:
 
     # woman2 "Too big you said!"
-    woman2 ""
+    woman2 "Zu groß hast du gesagt!"
 
 # game/episode006.rpy:2132
 translate german ep006_sim_02_6f3c9b8d:
 
     # woman2 "A lying whore, that's what you are."
-    woman2 ""
+    woman2 "Eine Lügende Hure, das bist du."
 
 # game/episode006.rpy:2134
 translate german ep006_sim_02_60370707:
 
     # "The toy was now fully inside of her and the slave gritted her teeth as the cold dildo probed her asshole."
-    ""
+    "Das Spielzeug befand sich nun vollständig in ihr und die Sklavin biss die Zähne zusammen, als der kalte Dildo ihr Arschloch sondierte."
 
 # game/episode006.rpy:2135
 translate german ep006_sim_02_22169240:
 
     # woman2 "Do you like that thing inside your ass, slut?"
-    woman2 ""
+    woman2 "Gefällt dir das Ding in deinem Arschloch, Schlampe?"
 
 # game/episode006.rpy:2136
 translate german ep006_sim_02_cd553726:
 
     # yve "No, mistress."
-    yve ""
+    yve "Nein, Herrin."
 
 # game/episode006.rpy:2137
 translate german ep006_sim_02_d1020d45:
 
     # woman2 "Don't lie."
-    woman2 ""
+    woman2 "Lüg nicht."
 
 # game/episode006.rpy:2139
 translate german ep006_sim_02_02987887:
 
     # yve "It's so big, mistress."
-    yve ""
+    yve "Es ist zu groß, Herrin."
 
 # game/episode006.rpy:2140
 translate german ep006_sim_02_03546510:
 
     # woman2 "Answer me!"
-    woman2 ""
+    woman2 "Antworte mir!"
 
 # game/episode006.rpy:2141
 translate german ep006_sim_02_8971a691:
 
     # woman2 "Do you like that thing stuffed inside of you?"
-    woman2 ""
+    woman2 "Gefällt dir das Ding so tief in deinem Arschloch?"
 
 # game/episode006.rpy:2143
 translate german ep006_sim_02_5dc84c7b:
 
     # yve "Yes, I do, mistress."
-    yve ""
+    yve "Ja, tuht es, Herrin."
 
 # game/episode006.rpy:2144
 translate german ep006_sim_02_1305a76d:
 
     # woman2 "Do you want to get fucked in your ass?"
-    woman2 ""
+    woman2 "Willst du in deinen Arsch gefickt werden?"
 
 # game/episode006.rpy:2146
 translate german ep006_sim_02_73b5fd72_1:
 
     # yve "Yes, mistress."
-    yve ""
+    yve "Ja, Herrin."
 
 # game/episode006.rpy:2148
 translate german ep006_sim_02_0ff66f74:
 
     # "The Mistress grinned and she began to move the dildo up and down inside the slave's anal cavity."
-    ""
+    "Die Herrin grinste und begann, den Dildo in der Analhöhle des Sklaven auf und ab zu bewegen."
 
 # game/episode006.rpy:2149
 translate german ep006_sim_02_311c3532:
 
     # "Sighs and moans could be heard from the blonde woman as her asshole was fucked by the ribbed toy."
-    ""
+    "Seufzen und Stöhnen waren von der blonden Frau zu hören, als ihr Arschloch von dem gerippten Spielzeug gefickt wurde."
 
 # game/episode006.rpy:2151
 translate german ep006_sim_02_df179411:
 
     # woman2 "You want to cum, don't you?"
-    woman2 ""
+    woman2 "Du willst kommen, richtig?"
 
 # game/episode006.rpy:2152
 translate german ep006_sim_02_49f95b94:
 
     # yve "Yes!"
-    yve ""
+    yve "Ja!"
 
 # game/episode006.rpy:2153
 translate german ep006_sim_02_28105156:
 
     # woman2 "Yes, what?!"
-    woman2 ""
+    woman2 "Ja, was?!"
 
 # game/episode006.rpy:2155
 translate german ep006_sim_02_b455e77b:
 
     # "The Mistress suddenly rammed the full length of the dildo inside the other woman's asshole."
-    ""
+    "Plötzlich rammte die Herrin den ganzen Dildo in das Arschloch der anderen Frau."
 
 # game/episode006.rpy:2156
 translate german ep006_sim_02_7917f805:
 
     # yve "Ahh!{w} Yes, mistress."
-    yve ""
+    yve "Ahh!{w} Ja, Herrin."
 
 # game/episode006.rpy:2157
 translate german ep006_sim_02_045c42ab:
 
     # "Satisfied by the answer, the Mistress continued fucking the slave's ass with the dildo."
-    ""
+    "Zufrieden mit der Antwort fickte die Herrin den Arsch der Sklavein weiter mit dem Dildo."
 
 # game/episode006.rpy:2159
 translate german ep006_sim_02_9d4403a9:
 
     # woman2 "Tell me you love getting fucked like this."
-    woman2 ""
+    woman2 "Sag mir, dass du es liebst, so gefickt zu werden."
 
 # game/episode006.rpy:2160
 translate german ep006_sim_02_ccbad0fb:
 
     # yve "I love it, mistress!"
-    yve ""
+    yve "Ich liebe es, Herrin!"
 
 # game/episode006.rpy:2161
 translate german ep006_sim_02_4e52b883:
 
     # yve "I love it!"
-    yve ""
+    yve "Ich liebe es!"
 
 # game/episode006.rpy:2162
 translate german ep006_sim_02_f00e60f8:
 
     # woman2 "Good girl."
-    woman2 ""
+    woman2 "Gutes Mädchen."
 
 # game/episode006.rpy:2163
 translate german ep006_sim_02_a74fd788:
 
     # woman2 "You're allowed to cum."
-    woman2 ""
+    woman2 "Du darfst kommen."
 
 # game/episode006.rpy:2165
 translate german ep006_sim_02_deac4bb1:
 
     # "Using her fingers, it took just a few flicks of the blonde woman's clit and she convulsed violently."
-    ""
+    "Mit ihren Fingern brauchte sie nur ein paar Bewegungen über die Klitoris der blonden Frau, und sie zuckte heftig."
 
 # game/episode006.rpy:2166
 translate german ep006_sim_02_9ff1c556:
 
     # "The strength of her orgasm nearly made the dominant woman lose grip on the dildo, but she managed to keep fucking the slave's ass while she climaxed wildly."
-    ""
+    "Die Stärke ihres Orgasmus ließ die dominante Frau beinahe den Griff um den Dildo verlieren, aber sie schaffte es, den Arsch des Sklaven weiter zu ficken, während sie wild zum Höhepunkt kam."
 
 # game/episode006.rpy:2168
 translate german ep006_sim_02_a9df961a:
 
     # "Completely spent, the blonde woman collapsed to the floor, the dildo still sticking out of her ass."
-    ""
+    "Völlig erschöpft brach die blonde Frau zu Boden, der Dildo ragte immer noch aus ihrem Arsch."
 
 # game/episode006.rpy:2171
 translate german ep006_sim_02_6bfda001:
 
     # "That's when the lights blinked out and moments later I was alone in my chair again, my boner still raging between my legs."
-    ""
+    "In diesem Moment gingen die Lichter aus und Augenblicke später saß ich wieder allein auf meinem Stuhl, meine Erektion tobte immer noch zwischen meinen Beinen."
 
 # game/episode006.rpy:2182
 translate german ep006_sim_03_83d1282d:
 
     # "The slave lay helpless on the floor, her arms and legs spread wide, while her captor circled her."
-    ""
+    "Die Sklavin lag hilflos auf dem Boden, ihre Arme und Beine weit gespreizt, während ihre Entführerin sie umkreiste."
 
 # game/episode006.rpy:2183
 translate german ep006_sim_03_8c5230b0:
 
     # "The whip flashed multiple times and left marks on the blonde woman's breasts and her inner thighs."
-    ""
+    "Die Peitsche zuckte mehrmals und hinterließ Spuren auf den Brüsten und den Innenseiten der Oberschenkel der blonden Frau."
 
 # game/episode006.rpy:2184
 translate german ep006_sim_03_c8fbb229:
 
     # woman2 "You're going to satisfy me with that whore mouth of yours again."
-    woman2 ""
+    woman2 "Du wirst mich wieder mit deinem Hurenmaul befriedigen."
 
 # game/episode006.rpy:2186
 translate german ep006_sim_03_73b5fd72:
 
     # yve "Yes, mistress."
-    yve ""
+    yve "Ja, Herrin."
 
 # game/episode006.rpy:2188
 translate german ep006_sim_03_d4941165:
 
     # "Without giving her slave time to adjust, the Mistress squatted on the woman's face."
-    ""
+    "Ohne ihrer Sklavin Zeit zu geben, sich anzupassen, hockte sich die Herrin auf das Gesicht der Frau."
 
 # game/episode006.rpy:2189
 translate german ep006_sim_03_a08e8edb:
 
     # woman2 "Lick!"
-    woman2 ""
+    woman2 "Leck!"
 
 # game/episode006.rpy:2190
 translate german ep006_sim_03_ae4f9ade:
 
     # woman2 "That's right!"
-    woman2 ""
+    woman2 "So ist es richtig!"
 
 # game/episode006.rpy:2191
 translate german ep006_sim_03_84089f03:
 
     # woman2 "Faster!"
-    woman2 ""
+    woman2 "Schneller!"
 
 # game/episode006.rpy:2193
 translate german ep006_sim_03_4e70c60c:
 
     # "I heard the blonde woman slobber and suck eagerly at her mistress' cunt."
-    ""
+    "Ich hörte die blonde Frau sabbern und eifrig an der Fotze ihrer Herrin saugen."
 
 # game/episode006.rpy:2195
 translate german ep006_sim_03_3d1dd5d7:
 
     # "The squatting woman rocked back and forth while amusing herself by playing with the breasts of her prisoner."
-    ""
+    "Die hockende Frau schaukelte hin und her und vergnügte sich damit, mit den Brüsten ihrer Gefangenen zu spielen."
 
 # game/episode006.rpy:2196
 translate german ep006_sim_03_d5bcf4e1:
 
     # "I saw the blonde woman's cunt starting to glisten in the spotlight, as she became more and more aroused."
-    ""
+    "Ich sah, wie die Pussy der blonden Frau im Scheinwerferlicht zu glitzern begann, je mehr sie erregt wurde."
 
 # game/episode006.rpy:2197
 translate german ep006_sim_03_2ca5cb2c:
 
     # woman2 "Deeper!"
-    woman2 ""
+    woman2 "Tiefer!"
 
 # game/episode006.rpy:2198
 translate german ep006_sim_03_77aa4aff:
 
     # woman2 "Make me cum with that slutty mouth of yours."
-    woman2 ""
+    woman2 Bring mich zum Orgasmus mit deinem Hurenmaul."
 
 # game/episode006.rpy:2200
 translate german ep006_sim_03_76060f7f:
 
     # "The Mistress pressed her wet gash even more forceful on her slave's mouth."
-    ""
+    "Die Herrin drückte ihre feuchte Fotze noch stärker auf den Mund ihrer Sklavin."
 
 # game/episode006.rpy:2202
 translate german ep006_sim_03_f562a18d:
 
     # "She kneaded the blonde woman's large breasts, leaving agressive marks in the luscious flesh."
-    ""
+    "Sie knetete die großen Brüste der blonden Frau und hinterließ aggressive Spuren im üppigen Fleisch."
 
 # game/episode006.rpy:2203
 translate german ep006_sim_03_2aa193e4:
 
     # "The wet sounds of the woman's tongue lapping at the Mistress' cunt were muffled now, but the slave's fervor didn't seem diminished."
-    ""
+    "Die feuchten Geräusche der Zunge der Frau, die die Fotze der Herrin berührte, waren jetzt gedämpft, aber die Leidenschaft der Sklavin schien nicht nachgelassen zu haben."
 
 # game/episode006.rpy:2204
 translate german ep006_sim_03_fac772f5:
 
     # woman2 "Yes!{w} Yes!{w} Oh yes!"
-    woman2 ""
+    woman2 "Ja!{w} Ja!{w} Oh ja! "
 
 # game/episode006.rpy:2206
 translate german ep006_sim_03_f956c482:
 
     # "The Mistress began to shudder and a torrent of ejaculate squirted out of her mound, drenching the slave's body."
-    ""
+    "Die Herrin begann zu zittern und ein Schwall Ejakulat spritzte aus ihrer Pussy und durchnässte den Körper des Sklaven."
 
 # game/episode006.rpy:2208
 translate german ep006_sim_03_571654d5:
 
     # "Her face was flooded with pussy juice and she drank eagerly while her mistress moaned loudly."
-    ""
+    "Ihr Gesicht war mit Muschisaft überflutet und sie trank eifrig, während ihre Herrin laut stöhnte."
 
 # game/episode006.rpy:2209
 translate german ep006_sim_03_03111b4f:
 
     # "Only when the blonde slave had cleaned the other woman's dripping slit was she allowed to sit up and breathe freely."
-    ""
+    "Erst als die blonde Sklavin den tropfenden Schlitz der anderen Frau gereinigt hatte, durfte sie sich aufsetzen und frei atmen."
 
 # game/episode006.rpy:2211
 translate german ep006_sim_03_827b9594:
 
     # woman2 "Good work, little whore."
-    woman2 ""
+    woman2 "Gute Arbeit, kleine Hure."
 
 # game/episode006.rpy:2214
 translate german ep006_sim_03_c620064b:
 
     # "The women suddenly disappeared and I was alone in the chair again."
-    ""
+    "Die Frauen verschwanden plötzlich und ich saß wieder allein auf dem Stuhl."
 
 # game/episode006.rpy:2222
 translate german ep006_aven_shower_6efb30ee:
 
     # "Aven was resting against one of the walls of the shower, her legs spread."
-    ""
+    "Aven lehnte mit gespreizten Beinen an einer der Wände der Dusche."
 
 # game/episode006.rpy:2223
 translate german ep006_aven_shower_1fa92f91:
 
     # "She had her eyes closed and rocked back and forth while her fingers massaged her slit."
-    ""
+    "Sie hatte die Augen geschlossen und schaukelte hin und her, während ihre Finger ihren Schlitz massierten."
 
 # game/episode006.rpy:2224
 translate german ep006_aven_shower_d5b590b0:
 
     # "Her moans were louder now and she whispered softly."
-    ""
+    "Ihr Stöhnen war jetzt lauter und sie flüsterte leise."
 
 # game/episode006.rpy:2226
 translate german ep006_aven_shower_c2fd6fb8:
 
     # "She massaged one of her firm breasts, twisting her hard nipples between thumb and finger."
-    ""
+    "Sie massierte eine ihrer festen Brüste und drehte ihre harten Nippel zwischen Daumen und Finger."
 
 # game/episode006.rpy:2228
 translate german ep006_aven_shower_db3dc4de:
 
     # av "Mmmm, oh yes, touch me there...{w} oh!"
-    av ""
+    av "Mmmm, oh ja, fass mich da an...{w} oh!"
 
 # game/episode006.rpy:2229
 translate german ep006_aven_shower_60b1ee4b:
 
     # "It almost seemed as if she was imagining someone else touching her intimately."
-    ""
+    "Es schien fast so, als würde sie sich vorstellen, dass jemand anderes sie innig berührte."
 
 # game/episode006.rpy:2231
 translate german ep006_aven_shower_1f6019e9:
 
     # "Two fingers were now lingering in the vicinity of her clitoris."
-    ""
+    "Zwei Finger verweilten nun in der Nähe ihrer Klitoris."
 
 # game/episode006.rpy:2233
 translate german ep006_aven_shower_148c2432:
 
     # "When she applied pressure, Aven gasped, her eyes still closed and her hand still massaging her breast."
-    ""
+    "Als sie Druck ausübte, schnappte Aven nach Luft, ihre Augen waren immer noch geschlossen und ihre Hand massierte immer noch ihre Brust."
 
 # game/episode006.rpy:2234
 translate german ep006_aven_shower_718cf991:
 
     # av "Right there...{w} mmmmm!"
-    av ""
+    av "Genau da...{w} mmmmm!"
 
 # game/episode006.rpy:2236
 translate german ep006_aven_shower_128dce78:
 
     # "The girl was now bringing herself ever closer to her inevitable climax."
-    ""
+    "Das Mädchen kam nun ihrem unvermeidlichen Höhepunkt immer näher."
 
 # game/episode006.rpy:2238
 translate german ep006_aven_shower_ba65b11c:
 
     # "Her breathing became labored as the juices from her pussy mixed with the water of the shower still pearling her skin."
-    ""
+    "Ihr Atem wurde schwer, als sich der Saft aus ihrer Muschi mit dem Wasser der Dusche vermischte, das immer noch auf ihrer Haut perlte."
 
 # game/episode006.rpy:2239
 translate german ep006_aven_shower_4b594ff9:
 
     # av "Yes! Touch me right there!"
-    av ""
+    av "Ja! Berühre mich genau dort!"
 
 # game/episode006.rpy:2240
 translate german ep006_aven_shower_7703ce8a:
 
     # av "Right there!"
-    av ""
+    av "Genau da!"
 
 # game/episode006.rpy:2242
 translate german ep006_aven_shower_2cda2007:
 
     # av "Oh [p_name]!"
-    av ""
+    av "Oh [p_name]!"
 
 # game/episode006.rpy:2244
 translate german ep006_aven_shower_58ab19f8:
 
     # "The mention of my name sent an electric shock through my body."
-    ""
+    "Die Erwähnung meines Namens löste einen elektrischen Schlag in meinem Körper aus."
 
 # game/episode006.rpy:2245
 translate german ep006_aven_shower_4c7ab9fc:
 
     # "All the while she'd been thinking of me..."
-    ""
+    "Die ganze Zeit hatte sie an mich gedacht..."
 
 # game/episode006.rpy:2246
 translate german ep006_aven_shower_7e8acc4f:
 
     # "She'd been acting strange ever since Lilly and I entered the cell, but was that enough to explain this behavior?"
-    ""
+    "Seit Lilly und ich die Zelle betreten hatten, verhielt sie sich seltsam, aber reichte das aus, um dieses Verhalten zu erklären?"
 
 # game/episode006.rpy:2248
 translate german ep006_aven_shower_bcf7d5ad:
 
     # "Aven let out a very restrained moan as her body shuddered against the wall."
-    ""
+    "Aven stieß ein sehr verhaltenes Stöhnen aus, als ihr Körper gegen die Wand gelehnt zitterte."
 
 # game/episode006.rpy:2249
 translate german ep006_aven_shower_877c74b0:
 
     # "She climaxed with my name on her lips."
-    ""
+    "Sie erreichte ihren Höhepunkt mit meinem Namen auf ihren Lippen."
 
 # game/episode006.rpy:2251
 translate german ep006_aven_shower_ddd52310:
 
     # "As she sat there, her hand still between her legs, I decided it was safer to slip back into my bed."
-    ""
+    "Als sie dort saß, die Hand immer noch zwischen ihren Beinen, beschloss ich, dass es sicherer war, zurück in mein Bett zu schlüpfen."
 
 # game/episode006.rpy:2260
 translate german ep006_doctor_sex_5148b937:
 
     # "When I looked at the doctor, she was unbuttoning her dress."
-    ""
+    "Als ich die Ärztin ansah, knöpfte sie gerade ihr Kleid auf."
 
 # game/episode006.rpy:2265
 translate german ep006_doctor_sex_fef76619:
 
     # "My cock already stirred when the dress fell to her ankles."
-    ""
+    "Mein Schwanz bewegte sich bereits, als das Kleid bis zu ihren Knöcheln fiel."
 
 # game/episode006.rpy:2266
 translate german ep006_doctor_sex_6f9f2d31:
 
     # chrone "Time to show me if you can deliver on those promises."
-    chrone ""
+    chrone "Zeit, mir zu zeigen, ob du diese Versprechen einhalten kannst."
 
 # game/episode006.rpy:2268
 translate german ep006_doctor_sex_bed522b4:
 
     # "Eyeing her naked body, I quickly undressed myself."
-    ""
+    "Ich beäugte ihren nackten Körper und zog mich schnell aus."
 
 # game/episode006.rpy:2269
 translate german ep006_doctor_sex_81b54d58:
 
     # "I could see a glint of approval when I revealed my hardened cock to her."
-    ""
+    "Ich konnte einen Anflug von Zustimmung sehen, als ich ihr meinen harten Schwanz zeigte."
 
 # game/episode006.rpy:2270
 translate german ep006_doctor_sex_9fce1da5:
 
     # "With two steps I crossed the distance between her and me."
-    ""
+    "Mit zwei Schritten überwand ich die Distanz zwischen ihr und mir."
 
 # game/episode006.rpy:2272
 translate german ep006_doctor_sex_c76bf970:
 
     # "I seized her arms and spun her around, forcing her to lean on the examination chair."
-    ""
+    "Ich packte sie an den Armen, drehte sie herum und zwang sie, sich auf den Untersuchungsstuhl zu lehnen."
 
 # game/episode006.rpy:2274
 translate german ep006_doctor_sex_ab5a5989:
 
     # "She gasped when I shoved her legs apart and felt between them with my fingers."
-    ""
+    "Sie schnappte nach Luft, als ich ihre Beine auseinander schob und mit meinen Fingern dazwischen tastete."
 
 # game/episode006.rpy:2275
 translate german ep006_doctor_sex_b14a1d55:
 
     # c "You're wet, doctor."
-    c ""
+    c "Sie sind Feucht, frau Doktor"
 
 # game/episode006.rpy:2277
 translate german ep006_doctor_sex_7126bcce:
 
     # "The woman only gasped, because she felt the tip of my dick against her moist lips."
-    ""
+    "Die Frau schnappte nur nach Luft, weil sie die Spitze meines Schwanzes an ihren feuchten Lippen spürte."
 
 # game/episode006.rpy:2279
 translate german ep006_doctor_sex_6d95fdce:
 
     # "Holding her flanks, I parted her lower lips with the tip of my cock and speared her pussy in one swift motion."
-    ""
+    "Ich hielt sie an den Flanken, öffnete ihre Inneren Lippen mit der Spitze meines Schwanzes und spießte ihre Muschi mit einer schnellen Bewegung auf."
 
 # game/episode006.rpy:2280
 translate german ep006_doctor_sex_51f7d323:
 
     # "She clenched her teeth as my balls slapped against her soft flesh."
-    ""
+    "Sie biss die Zähne zusammen, als meine Eier gegen ihr weiches Fleisch klatschten."
 
 # game/episode006.rpy:2281
 translate german ep006_doctor_sex_ea9e53e3:
 
     # c "How does that feel, doctor?"
-    c ""
+    c "Wie fühlt sich das an, frau Doktor?"
 
 # game/episode006.rpy:2283
 translate german ep006_doctor_sex_da829244:
 
     # "I didn't wait for her answer, but started fucking her hard."
-    ""
+    "Ich wartete nicht auf ihre Antwort, sondern fing an, sie hart zu ficken."
 
 # game/episode006.rpy:2284
 translate german ep006_doctor_sex_acfeab02:
 
     # "The woman had to steady herself against the creaking chair, her hands buried deeply in the leather cushions."
-    ""
+    "Die Frau musste sich gegen den knarrenden Stuhl stützen, ihre Hände tief in den Lederkissen vergraben."
 
 # game/episode006.rpy:2286
 translate german ep006_doctor_sex_88bd2662:
 
     # "Because of the violence of my thrusts, her moans came out haltingly, as if she were stuttering."
-    ""
+    "Aufgrund der Heftigkeit meiner Stöße kam ihr Stöhnen stockend heraus, als würde sie stottern."
 
 # game/episode006.rpy:2287
 translate german ep006_doctor_sex_e0c19877:
 
     # "The guards still had their backs turned towards us and remained silent."
-    ""
+    "Die Wachen hatten uns immer noch den Rücken zugewandt und schwiegen."
 
 # game/episode006.rpy:2288
 translate german ep006_doctor_sex_1d2d6ff8:
 
     # "The only thing that could be heard where the doctor's moans and the sounds of my cock plunging wetly into her depths."
-    ""
+    "Das Einzige, was zu hören war, war das Stöhnen der Ärtztin und die Geräusche meines Schwanzes, der feucht in ihre Tiefen eintauchte."
 
 # game/episode006.rpy:2290
 translate german ep006_doctor_sex_86b12a4d:
 
     # "I grabbed her braids and pulled her towards me, her back straining to arch towards me."
-    ""
+    "Ich packte ihre Zöpfe und zog sie zu mir, wobei sich ihr Rücken anstrengte, um sich zu mir zu wölben."
 
 # game/episode006.rpy:2292
 translate german ep006_doctor_sex_a8200921:
 
     # "Holding her upper body in a strangled embrace, I buried my cock to the root inside her cunt."
-    ""
+    "Ich hielt ihren Oberkörper in einer würgenden Umarmung und vergrub meinen Schwanz bis zur Wurzel in ihrer Fotze."
 
 # game/episode006.rpy:2294
 translate german ep006_doctor_sex_b0e95a1d:
 
     # "The doctor's panting and moans were tinged with a raw edge of pain, but she allowed me keep fucking her mercilessly."
-    ""
+    "Das Keuchen und Stöhnen der Ärztin war von einem scharfen Schmerz begleitet, aber sie erlaubte mir, sie weiterhin gnadenlos zu ficken."
 
 # game/episode006.rpy:2295
 translate german ep006_doctor_sex_2ac72686:
 
     # c "Do you like that pain, doc?"
-    c ""
+    c "Gefällt dir der Schmerz, doc?"
 
 # game/episode006.rpy:2297
 translate german ep006_doctor_sex_67774d3a:
 
     # chrone "I...{w} I...{w} I fucking love it!"
-    chrone ""
+    chrone "Ich...{w} Ich...{w} Ich liebe es verdammt noch mal!"
 
 # game/episode006.rpy:2298
 translate german ep006_doctor_sex_cca0abd8:
 
     # chrone "Keep fucking me with that hard dick!"
-    chrone ""
+    chrone "Fick mich weiter mit diesem harten Schwanz!"
 
 # game/episode006.rpy:2300
 translate german ep006_doctor_sex_8f26a3b2:
 
     # "I had no intention of doing otherwise, but right at that moment my cock slipped from her wet gash."
-    ""
+    "Ich hatte nicht vor, etwas anderes zu tun, aber genau in diesem Moment glitt mein Schwanz aus ihrer nassen Pussy"
 
 # game/episode006.rpy:2301
 translate german ep006_doctor_sex_85595d8c:
 
     # chrone "Put it back in, quickly!"
-    chrone ""
+    chrone "Steck ihn wieder rein, Schnell!"
 
 # game/episode006.rpy:2308
 translate german ep006_doctor_sex_c5d398ac:
 
     # "I was about to stuff her pussy again, when I got a better idea."
-    ""
+    "Ich wollte gerade noch einmal ihre Muschi stopfen, als mir eine bessere Idee kam."
 
 # game/episode006.rpy:2310
 translate german ep006_doctor_sex_dcb4bf25:
 
     # "Forcing her lower body down, I pushed against the folds of her anus."
-    ""
+    "Ich zwang ihren Unterkörper nach unten und drückte gegen die Falten ihres Anus."
 
 # game/episode006.rpy:2312
 translate german ep006_doctor_sex_7f1fb118:
 
     # chrone "Wrong entrance!"
-    chrone ""
+    chrone "Falscher Eingang!"
 
 # game/episode006.rpy:2313
 translate german ep006_doctor_sex_b4409624:
 
     # "The doctor tried to guide my cock inside her pussy again, but I slapped her hand away."
-    ""
+    "Die Ärtztin versuchte erneut, meinen Schwanz in ihre Muschi zu führen, aber ich schlug ihre Hand weg."
 
 # game/episode006.rpy:2315
 translate german ep006_doctor_sex_9552ae32:
 
     # "Grabbing her arms together, I stuffed my throbbing cock inside her asshole."
-    ""
+    "Ich packte ihre Arme und stopfte meinen pochenden Schwanz in ihr Arschloch."
 
 # game/episode006.rpy:2316
 translate german ep006_doctor_sex_534e713f:
 
     # "The woman yelped in pain as the first inches slid inside her and she tried speak."
-    ""
+    "Die Frau schrie vor Schmerz auf, als die ersten Zentimeter in sie hineinglitten und sie versuchte zu sprechen."
 
 # game/episode006.rpy:2317
 translate german ep006_doctor_sex_034f3156:
 
     # "Whatever she wanted to say got lost as my entire length disappeared into her rectum."
-    ""
+    "Was auch immer sie sagen wollte, ging verloren, als meine gesamte Länge in ihrem Rektum verschwand."
 
 # game/episode006.rpy:2318
 translate german ep006_doctor_sex_4b7062d7:
 
     # "Instead she tried to back away and let my cock slip from her ass."
-    ""
+    "Stattdessen versuchte sie, einen Schritt zurückzutreten und meinen Schwanz aus ihrem Arsch gleiten zu lassen."
 
 # game/episode006.rpy:2319
 translate german ep006_doctor_sex_2cefec47:
 
     # "I wouldn't let her."
-    ""
+    "Ich ließ sie nicht."
 
 # game/episode006.rpy:2321
 translate german ep006_doctor_sex_5f792dac:
 
     # "So I held her down and started to thrust."
-    ""
+    "Also hielt ich sie fest und begann zu stoßen."
 
 # game/episode006.rpy:2322
 translate german ep006_doctor_sex_04800e68:
 
     # "The first few attempts I encountered too much friction, but by the fourth trust she relaxed her asshole and I slid in and out with ease."
-    ""
+    "Bei den ersten paar Versuchen stieß ich auf zu viel Reibung, aber beim vierten Versuch entspannte sie ihr Arschloch und ich glitt mit Leichtigkeit hinein und heraus."
 
 # game/episode006.rpy:2324
 translate german ep006_doctor_sex_3306fa15:
 
     # chrone "Fuck!{w} You're so big."
-    chrone ""
+    chrone "Scheiße!{w} Du bist so groß."
 
 # game/episode006.rpy:2325
 translate german ep006_doctor_sex_c08ab861:
 
     # chrone "You're burning me up!"
-    chrone ""
+    chrone "Du verbrennst mich!"
 
 # game/episode006.rpy:2327
 translate german ep006_doctor_sex_bc34b78f:
 
     # "Her ass was still tight as hell, but I could fuck her as deeply as before, no doubt helped by her pussy juice coating my dick."
-    ""
+    "Ihr Arsch war immer noch höllisch eng, aber ich konnte sie genauso tief ficken wie zuvor, zweifellos unterstützt durch ihren Muschisaft, der meinen Schwanz bedeckte."
 
 # game/episode006.rpy:2329
 translate german ep006_doctor_sex_e0053171:
 
     # "Getting a little tired of remaining in the same position, I shoved her on top of me while I sat down on the chair."
-    ""
+    "Da ich es ein wenig satt hatte, in der gleichen Position zu bleiben, schob ich sie auf mich, während ich mich auf den Stuhl setzte."
 
 # game/episode006.rpy:2331
 translate german ep006_doctor_sex_fb1e9988:
 
     # "She was forced to ride me cowgirl, my cock still firmly rooted inside her ass."
-    ""
+    "Sie wurde gezwungen, mich als Cowgirl zu reiten, während mein Schwanz immer noch fest in ihrem Arsch verwurzelt war."
 
 # game/episode006.rpy:2332
 translate german ep006_doctor_sex_dfdac521:
 
     # "Her firm butt hit on my stomach time and time again, until my cock began to twitch."
-    ""
+    "Ihr fester Hintern schlug immer wieder auf meinen Bauch, bis mein Schwanz zu zucken begann."
 
 # game/episode006.rpy:2337
 translate german ep006_doctor_sex_db7bc209:
 
     # "Without warning I was about to cum, I held her fast and thrust my cock deep inside her ass and warm cum started to flow in thick waves."
-    ""
+    "Ohne Vorwarnung war ich kurz davor abzuspritzen, ich hielt sie fest und steckte meinen Schwanz tief in ihren Arsch und warmes Sperma begann in dicken Wellen zu fließen."
 
 # game/episode006.rpy:2340
 translate german ep006_doctor_sex_f4bf31d1:
 
     # "When my cock slipped from her asshole, a stream of cum dripped down on the chair."
-    ""
+    "Als mein Schwanz aus ihrem Arschloch glitt, tropfte ein Strahl Sperma auf den Stuhl."
 
 # game/episode006.rpy:2341
 translate german ep006_doctor_sex_315913bc:
 
     # "The doctor rested for a while on the chair, playing with the cum oozing from her butthole."
-    ""
+    "Die Ärztin ruhte sich eine Weile auf dem Stuhl aus und spielte mit dem Sperma, das aus ihrem Arschloch sickerte."
 
 # game/episode006.rpy:2345
 translate german ep006_doctor_sex_a7a5603c:
 
     # "Without warning I was about to cum, I pushed her off me and sprayed her butt and lower back with wave after wave of warm cum."
-    ""
+    "Ohne Vorwarnung war ich kurz davor abzuspritzen, ich stieß sie von mir und bespritzte ihren Hintern und den unteren Rücken mit einer Welle nach der anderen voll warmen Spermas."
 
 # game/episode006.rpy:2346
 translate german ep006_doctor_sex_4138b00a:
 
     # "The doctor rested for a while on the chair, playing with the cum splashed on her body."
-    ""
+    "Die Ärztin ruhte sich eine Weile auf dem Stuhl aus und spielte mit dem Sperma, das auf ihren Körper gespritzt war."
 
 # game/episode006.rpy:2350
 translate german ep006_doctor_sex_a9a37055:
 
     # "I pushed her flat on her stomach on the chair and re-entered her."
-    ""
+    "Ich drückte sie flach auf den Bauch auf den Stuhl und drang wieder in sie ein."
 
 # game/episode006.rpy:2351
 translate german ep006_doctor_sex_457479ed:
 
     # "Using the full weight of my body, I pinned her down and fucked her with short, aggressive strokes."
-    ""
+    "Mit meinem ganzen Körpergewicht drückte ich sie fest und fickte sie mit kurzen, aggressiven Stößen."
 
 # game/episode006.rpy:2353
 translate german ep006_doctor_sex_fa33ce3b:
 
     # "The force of my thrusts drove her into the leather cushions of the chair and muffled any cries she let out."
-    ""
+    "Die Kraft meiner Stöße trieb sie in die Lederkissen des Stuhls und dämpfte alle Schreie, die sie ausstieß."
 
 # game/episode006.rpy:2354
 translate german ep006_doctor_sex_bb662d01:
 
     # "She was incredibly wet and I drove my cock deeper and deeper inside of her."
-    ""
+    "Sie war unglaublich nass und ich trieb meinen Schwanz immer tiefer in sie hinein."
 
 # game/episode006.rpy:2355
 translate german ep006_doctor_sex_ca4be0b1:
 
     # "The doctor struggled under me and tried to get upright."
-    ""
+    "Der Arzt kämpfte unter mir und versuchte aufzustehen."
 
 # game/episode006.rpy:2357
 translate german ep006_doctor_sex_0a0c5302:
 
     # "When I let her, she moaned loudly, almost out of breath."
-    ""
+    "Als ich sie ließ, stöhnte sie laut, fast außer Atem."
 
 # game/episode006.rpy:2359
 translate german ep006_doctor_sex_3165461a:
 
     # chrone "Fuck me!{w} Fuck me harder!"
-    chrone ""
+    chrone "Fick mich!{w} Fick mich härter!"
 
 # game/episode006.rpy:2361
 translate german ep006_doctor_sex_416c1702:
 
     # "I pulled the woman on her side to get better access to her large breasts."
-    ""
+    "Ich zog die Frau auf die Seite, um besseren Zugang zu ihren großen Brüsten zu bekommen."
 
 # game/episode006.rpy:2362
 translate german ep006_doctor_sex_b10a0bea:
 
     # "Still driving myself mercilessly inside her wet cunt, I began kneading her breasts."
-    ""
+    "Ich trieb mich immer noch gnadenlos in ihre nasse Fotze und begann, ihre Brüste zu kneten."
 
 # game/episode006.rpy:2364
 translate german ep006_doctor_sex_22c2e8bb:
 
     # "Her closed eyes blinked open when I pinched and twisted her nipples."
-    ""
+    "Ihre geschlossenen Augen öffneten sich blinzelnd, als ich ihre Brustwarzen kniff und drehte."
 
 # game/episode006.rpy:2365
 translate german ep006_doctor_sex_54fbd294:
 
     # chrone "Oh!{w} What are you doing?"
-    chrone ""
+    chrone "Oh!{w} Was machst du?"
 
 # game/episode006.rpy:2367
 translate german ep006_doctor_sex_146cb315:
 
     # "I looked her in the eye and slapped her breasts."
-    ""
+    "Ich sah ihr in die Augen und schlug ihr auf die Brüste."
 
 # game/episode006.rpy:2368
 translate german ep006_doctor_sex_431d9661:
 
     # "She tried to look away, but I grabbed hold of her chin and continued to torment her nipple with my other hand."
-    ""
+    "Sie versuchte wegzuschauen, aber ich packte sie am Kinn und quälte mit der anderen Hand weiterhin ihre Brustwarze."
 
 # game/episode006.rpy:2369
 translate german ep006_doctor_sex_8e5370ea:
 
     # c "I told you this was going to be a hate-fuck."
-    c ""
+    c "Ich habe ihnen gesagt, dass das ein Hassfick wird."
 
 # game/episode006.rpy:2371
 translate german ep006_doctor_sex_3410072a:
 
     # chrone "I don't care, just don't stop!"
-    chrone ""
+    chrone "Mir völlig egal, hör nur nicht auf!"
 
 # game/episode006.rpy:2372
 translate german ep006_doctor_sex_1c36719e:
 
     # "That was a request I could honor and I kept drilling her cunt as it leaked pussy juice all over her thighs."
-    ""
+    "Das war eine Bitte, der ich nachkommen konnte, und ich bohrte weiter in ihre Fotze, während ihr Muschisaft über ihre Schenkel lief."
 
 # game/episode006.rpy:2374
 translate german ep006_doctor_sex_728172bb:
 
     # "At long last, I knew I was about to cum."
-    ""
+    "Endlich wusste ich, dass ich gleich abspritzen würde."
 
 # game/episode006.rpy:2379
 translate german ep006_doctor_sex_812ac146:
 
     # "Without warning I was about to cum, I held her fast and thrusted my cock deep inside her vagina and warm cum started to flow in thick waves."
-    ""
+    "Ohne Vorwarnung war ich kurz davor abzuspritzen, ich hielt sie fest und stieß meinen Schwanz tief in ihre Vagina und warmes Sperma begann in dicken Wellen zu fließen."
 
 # game/episode006.rpy:2382
 translate german ep006_doctor_sex_03afd984:
 
     # "When my cock slipped from her wet slit, a stream of cum dripped down on the chair."
-    ""
+    "Als mein Schwanz aus ihrem nassen Schlitz glitt, tropfte ein Strahl Sperma auf den Stuhl."
 
 # game/episode006.rpy:2384
 translate german ep006_doctor_sex_30434966:
 
     # "The doctor rested for a while on the chair, playing with the cum oozing from her cunt."
-    ""
+    "Die Ärztin ruhte sich eine Weile auf dem Stuhl aus und spielte mit dem Sperma, das aus ihrer Fotze sickerte."
 
 # game/episode006.rpy:2388
 translate german ep006_doctor_sex_37684756:
 
     # "Without warning I was about to cum, I pulled out of her and coated her back with wave after wave of warm cum."
-    ""
+    "Ohne Vorwarnung war ich kurz davor abzuspritzen, ich zog mich aus ihr heraus und bedeckte ihren Rücken mit einer Welle nach der anderen mit warmem Sperma."
 
 # game/episode006.rpy:2390
 translate german ep006_doctor_sex_4138b00a_1:
 
     # "The doctor rested for a while on the chair, playing with the cum splashed on her body."
-    ""
+    "Die Ärztin ruhte sich eine Weile auf dem Stuhl aus und spielte mit dem Sperma, das auf ihren Körper gespritzt war."
 
 translate german strings:
 
     # game/episode006.rpy:89
     old "Barranthis Asteroid Belt"
-    new ""
+    new "Barranthis Asteroiden Gürtel"
 
     # game/episode006.rpy:216
     old "Ignore the women"
-    new ""
+    new "Ignoriere die Frauen"
 
     # game/episode006.rpy:216
     old "Look at them"
-    new ""
+    new "Schau sie dir an"
 
     # game/episode006.rpy:285
     old "Look at her"
-    new ""
+    new "Schau dir sie an"
 
     # game/episode006.rpy:285
     old "Leave her to it"
-    new ""
+    new "Lass sie machen"
 
     # game/episode006.rpy:299
     old "Remain seated"
-    new ""
+    new "Bleib Sitzen"
 
     # game/episode006.rpy:326
     old "You can have it"
-    new ""
+    new "Du kannst es haben"
 
     # game/episode006.rpy:326
     old "Sleep together"
-    new ""
+    new "Zusammen Schlafen"
 
     # game/episode006.rpy:409
     old "Push her away"
-    new ""
+    new "Schieb sie weg"
 
     # game/episode006.rpy:409
     old "Pull her closer"
-    new ""
+    new "Zieh sie näher"
 
     # game/episode006.rpy:443
     old "Watch"
-    new ""
+    new "Schau"
 
     # game/episode006.rpy:443
     old "Think of other things"
-    new ""
+    new "Denk an andere Sachen."
 
     # game/episode006.rpy:569
     old "Maybe we're family"
-    new ""
+    new "Vielleicht sind wir Familie"
 
     # game/episode006.rpy:569
     old "Maybe we're friends"
-    new ""
+    new "Vielleicht sind wir Freunde"
 
     # game/episode006.rpy:569
     old "Maybe we're in love"
-    new ""
+    new "Vielleicht sind wir Verliebt"
 
     # game/episode006.rpy:637
     old "Let her sleep"
-    new ""
+    new "Lass sie Schlafen"
 
     # game/episode006.rpy:657
     old "Keep holding her"
-    new ""
+    new "Halte sie fest"
 
     # game/episode006.rpy:855
     old "Remain in bed"
-    new ""
+    new "Bleib im Bett"
 
     # game/episode006.rpy:892
     old "We’re in love"
-    new ""
+    new "Wir sind verliebt"
 
     # game/episode006.rpy:892
     old "I don’t know"
-    new ""
+    new "ich weiß nicht"
 
     # game/episode006.rpy:956
     old "Ask about her feelings"
-    new ""
+    new "Frag nach ihren Gefühlen"
 
     # game/episode006.rpy:956
     old "Ignore her feelings"
-    new ""
+    new "Ignorier ihre Gefühle"
 
     # game/episode006.rpy:981
     old "Acknowledge the feeling"
-    new ""
+    new "Sag du fühlst genau so"
 
     # game/episode006.rpy:981
     old "Don’t talk about it"
-    new ""
+    new "Rede nicht darüber"
 
     # game/episode006.rpy:1102
     old "Dr. Moora"
-    new ""
+    new "Dr. Moora"
 
     # game/episode006.rpy:1102
     old "A doctor at the mysterious science facility where the crew was held after flying into an asteroid field as part of their escape from Barranthis."
-    new ""
+    new "Eine Ärtztin in der mysteriösen Wissenschaftseinrichtung, in der die Besatzung festgehalten wurde, nachdem sie im Rahmen ihrer Flucht aus Barranthis in ein Asteroidenfeld geflogen war."
 
     # game/episode006.rpy:1163
     old "No (Lie)"
-    new ""
+    new "Nein (lüge)"
 
     # game/episode006.rpy:1215
     old "Heightened"
-    new ""
+    new "Höher"
 
     # game/episode006.rpy:1215
     old "Lowered"
-    new ""
+    new "tiefer"
 
     # game/episode006.rpy:1215
     old "No change"
-    new ""
+    new "Keine veränderung"
 
     # game/episode006.rpy:1414
     old "A doctor at the Höfel MDCL science facility where the crew was held after flying into an asteroid field as part of their escape from Barranthis."
-    new ""
+    new "Eine Ärtztin in der MDCL-Wissenschaftseinrichtung Höfel, wo die Besatzung festgehalten wurde, nachdem sie im Rahmen ihrer Flucht aus Barranthis in ein Asteroidenfeld geflogen war."
 
     # game/episode006.rpy:1613
     old "Ignore her"
-    new ""
+    new "Ignoriere sie"
 
     # game/episode006.rpy:1627
     old "Berate her"
-    new ""
+    new "Beschimpfe sie"
 
     # game/episode006.rpy:1726
     old "ConVitæ"
-    new ""
+    new "ConVitæ"
 
     # game/episode006.rpy:1726
     old "A research company primarily interested in creating immersive sims. The company had a small office on Verdant Station where [p_name] was part of a voluntary experiment involving simulation research."
-    new ""
+    new "Ein Forschungsunternehmen, das hauptsächlich an der Erstellung immersiver Simulationen interessiert ist. Das Unternehmen hatte ein kleines Büro auf der Verdant Station, wo [p_name] an einem freiwilligen Experiment zur Simulationsforschung teilnahm."
 
     # game/episode006.rpy:1726
     old "The company also maintained the Höfel MDCL research base where the crew of the Iron Bastard was held against their will and experimented upon."
-    new ""
+    new "Das Unternehmen unterhielt auch die Forschungsbasis Höfel MDCL, wo die Besatzung der Iron Bastard gegen ihren Willen festgehalten und an ihnen experimentiert wurde."
 
     # game/episode006.rpy:1736
     old "A research company primarily interested in creating immersive sims. The company had a small office on Verdant Station where [p_name] was declined to be part of a voluntary experiment involving simulation research."
-    new ""
+    new "Ein Forschungsunternehmen, das hauptsächlich an der Erstellung immersiver Simulationen interessiert ist. Das Unternehmen hatte ein kleines Büro auf der Verdant Station, wo [p_name] die Teilnahme an einem freiwilligen Experiment zur Simulationsforschung abgelehnt wurde."
 
     # game/episode006.rpy:1746
     old "A research company primarily interested in creating immersive sims. The company had a small office on Verdant Station."
-    new ""
+    new "Ein Forschungsunternehmen, das hauptsächlich an der Erstellung immersiver Simulationen interessiert ist. Das Unternehmen hatte ein kleines Büro in der Verdant Station."
 
     # game/episode006.rpy:1770
     old "Bluff"
-    new ""
+    new "Bluff"
 
     # game/episode006.rpy:1770
     old "Intimidate"
-    new ""
+    new "Einschüchtern"
 
     # game/episode006.rpy:1844
     old "Close the door"
-    new ""
+    new "Schließe die Tür"
 
     # game/episode006.rpy:1844
     old "Confront the guards"
-    new ""
+    new "Konfrontiere die Wachen"
 
     # game/episode006.rpy:1866
     old "Shoot them"
-    new ""
+    new "Schieß auf sie"
 
     # game/episode006.rpy:2303
     old "Blowjob"
-    new ""
+    new "Blowjob"
 
     # game/episode006.rpy:2303
     old "Anal"
-    new ""
+    new "Anal"
 
     # game/episode006.rpy:2303
     old "Vaginal"
-    new ""
+    new "Vaginal"
 
 # TODO: Translation updated at 2021-07-17 21:27
 
@@ -8742,87 +8742,87 @@ translate german strings:
 translate german episode006_0ce5c0f6:
 
     # co "Because of his determination to find his friend, the boy is still our best source of information."
-    co ""
+    co "Aufgrund seiner Entschlossenheit, seine Freundin zu finden, ist der Junge immer noch unsere beste Informationsquelle."
 
 # game/episode006.rpy:379
 translate german episode006_b2d24653:
 
     # "We both lay on the mattress and I pulled the covers over us."
-    ""
+    "Wir lagen beide auf der Matratze und ich zog die Decke über uns."
 
 # game/episode006.rpy:431
 translate german episode006_8e115758:
 
     # c "Good morning."
-    c ""
+    c "Guten Morgen."
 
 # game/episode006.rpy:649
 translate german episode006_af7f625d:
 
     # "It took quite a while for the trembling to subside and her breathing to steady."
-    ""
+    "Es dauerte eine ganze Weile, bis das Zittern nachließ und sich ihre Atmung beruhigte."
 
 # game/episode006.rpy:856
 translate german episode006_93805115:
 
     # "Above Lilly's light snoring I could eventually hear distinct sighs coming from the shower cubicle."
-    ""
+    "Über Lillys leises Schnarchen hinweg konnte ich schließlich deutliche Seufzer aus der Duschkabine hören."
 
 # game/episode006.rpy:867
 translate german episode006_3ce53e42:
 
     # "I understood the urge to relieve the tension all too well and decided to leave Aven be for the moment."
-    ""
+    "Ich verstand den Drang, die Spannung abzubauen, nur zu gut und beschloss, Aven für den Moment in Ruhe zu lassen."
 
 # game/episode006.rpy:950
 translate german episode006_fe1fd99d:
 
     # av "The scene plays out with some variations, but right at the moment where things start to get good everything stops."
-    av ""
+    av "Die Szene spielt sich mit einigen Variationen ab, aber genau in dem Moment, in dem es anfängt, gut zu werden, hört alles auf."
 
 # game/episode006.rpy:1399
 translate german episode006_963fdc82:
 
     # "The doctor moved to the comm console and pressed one of the speaker buttons."
-    ""
+    "Die Ärtztin ging zur Kommunikationskonsole und drückte eine der Lautsprechertasten."
 
 # game/episode006.rpy:1658
 translate german episode006_5ba0dc4e:
 
     # ra "As I said, I'll be fine in a moment."
-    ra ""
+    ra "Wie gesagt, mir geht es gleich wieder gut."
 
 # game/episode006.rpy:1721
 translate german episode006_3ac3e988:
 
     # "A huge wall dominated the plaza, covered in huge lettering announcing the name of company in charge of this research station."
-    ""
+    "Eine riesige Mauer dominierte den Platz und war mit großen Buchstaben bedeckt, die den Namen des Unternehmens verkündeten, das für diese Forschungsstation verantwortlich war."
 
 # game/episode006.rpy:2216
 translate german ep006_sim_03_fae9d957:
 
     # "She kneaded the blonde woman's large breasts, leaving aggressive marks in the luscious flesh."
-    ""
+    "Sie knetete die großen Brüste der blonden Frau und hinterließ aggressive Spuren im üppigen Fleisch."
 
 # game/episode006.rpy:2393
 translate german ep006_doctor_sex_1bfda6f0:
 
     # "Without warning I was about to cum, I held her fast and thrust my cock deep inside her vagina and warm cum started to flow in thick waves."
-    ""
+    "Ohne Vorwarnung war ich kurz davor abzuspritzen, ich hielt sie fest und steckte meinen Schwanz tief in ihre Vagina und warmes Sperma begann in dicken Wellen zu fließen."
 
 translate german strings:
 
     # game/episode006.rpy:1423
     old "Höfel MDCL"
-    new ""
+    new "Höfel MDCL"
 
     # game/episode006.rpy:1423
     old "Location: Heveliun Belt"
-    new ""
+    new "Standort: Heveliun-Gürtel"
 
     # game/episode006.rpy:1423
     old "A science facility operated by ConVitæ where the crew was held after flying into an asteroid field as part of their escape from Barranthis."
-    new ""
+    new "Eine von ConVitæ betriebene wissenschaftliche Einrichtung, in der die Besatzung festgehalten wurde, nachdem sie im Rahmen ihrer Flucht aus Barranthis in ein Asteroidenfeld geflogen war."
 
 # TODO: Translation updated at 2021-09-24 09:06
 
@@ -8830,13 +8830,13 @@ translate german strings:
 translate german episode006_0787cd9f:
 
     # chrone "I'm afraid that won't happen, as it would be far too easy for you to overpower me and use me as a hostage."
-    chrone ""
+    chrone "Ich fürchte, das wird nicht passieren, denn es wäre viel zu einfach für dich, mich zu überwältigen und als Geisel zu nehmen."
 
 # game/episode006.rpy:1453
 translate german episode006_b8ae7812:
 
     # c "So you take us prisoner, pry into our brains, drug us, subject us to mind games..."
-    c ""
+    c "Also nimmst du uns gefangen, schnüffelst in unseren Gehirnen herum, betäubst uns, unterwirfst uns Gedankenspielen ..."
 
 # TODO: Translation updated at 2022-05-22 20:05
 
@@ -8844,11 +8844,11 @@ translate german episode006_b8ae7812:
 translate german episode006_a3e40928:
 
     # co "Sadly, Hreir wasn't very forthcoming during his final confession, but maybe his records will show us where those warrior women took the boy's friend."
-    co ""
+    co "Leider war Hreir bei seinem letzten Geständnis nicht sehr entgegenkommend, aber vielleicht zeigen uns seine Aufzeichnungen, wohin diese Kriegerinnen die Freundin des Jungen gebracht haben."
 
 # game/episode006.rpy:135
 translate german episode006_6700ecb2:
 
     # "A small window allowed me to view the area just beyond, a corridor, just as unremarkable as my cell."
-    ""
+    "Durch ein kleines Fenster konnte ich den Bereich direkt dahinter überblicken, einen Korridor, der genauso unauffällig war wie meine Zelle."
 

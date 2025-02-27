@@ -8850,5 +8850,5 @@ translate german episode006_a3e40928:
 translate german episode006_6700ecb2:
 
     # "A small window allowed me to view the area just beyond, a corridor, just as unremarkable as my cell."
-    "Durch ein kleines Fenster konnte ich den Bereich direkt dahinter überblicken, einen Korridor, der genauso unauffällig war wie meine Zelle."
+    "Durch ein kleines Fenster konnte ich den Bereich direkt dahinter überblicken, einen Korridor, der genauso unauffällig war wie meine Zelle." 
 

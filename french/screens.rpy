@@ -554,4 +554,3 @@ translate french strings:
     # game/screens.rpy:1418
     old "Chinese (Traditional)"
     new "Chinese (Traditional)"
-

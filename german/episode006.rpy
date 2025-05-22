@@ -7954,7 +7954,7 @@ translate german ep006_sim_03_2ca5cb2c:
 translate german ep006_sim_03_77aa4aff:
 
     # woman2 "Make me cum with that slutty mouth of yours."
-    woman2 Bring mich zum Orgasmus mit deinem Hurenmaul."
+    woman2 "Bring mich zum Orgasmus mit deinem Hurenmaul."
 
 # game/episode006.rpy:2200
 translate german ep006_sim_03_76060f7f:

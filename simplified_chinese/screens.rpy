@@ -337,3 +337,207 @@ translate simplified_chinese strings:
     old "Menu"
     new "菜单"
 
+# TODO: Translation updated at 2025-05-22 09:47
+
+translate simplified_chinese strings:
+
+    # game/screens.rpy:300
+    old "Codex"
+    new ""
+
+    # game/screens.rpy:363
+    old "Continue"
+    new ""
+
+    # game/screens.rpy:369
+    old "Choices"
+    new ""
+
+    # game/screens.rpy:388
+    old "Achievements"
+    new ""
+
+    # game/screens.rpy:391
+    old "Bonus"
+    new ""
+
+    # game/screens.rpy:790
+    old "Relationships"
+    new ""
+
+    # game/screens.rpy:796
+    old "Close"
+    new ""
+
+    # game/screens.rpy:828
+    old "Relationship: %s"
+    new ""
+
+    # game/screens.rpy:831
+    old "Pregnant: %s"
+    new ""
+
+    # game/screens.rpy:911
+    old "View by: "
+    new ""
+
+    # game/screens.rpy:913
+    old "character"
+    new ""
+
+    # game/screens.rpy:915
+    old "episode"
+    new ""
+
+    # game/screens.rpy:961
+    old "Extras"
+    new ""
+
+    # game/screens.rpy:963
+    old "Ep"
+    new ""
+
+    # game/screens.rpy:1060
+    old "Achievements Unlocked: %d / %d"
+    new ""
+
+    # game/screens.rpy:1093
+    old "Version "
+    new ""
+
+    # game/screens.rpy:1093
+    old "[config.version!t]\n"
+    new ""
+
+    # game/screens.rpy:1099
+    old "Translations"
+    new ""
+
+    # game/screens.rpy:1102
+    old "Music"
+    new ""
+
+    # game/screens.rpy:1126
+    old "License: "
+    new ""
+
+    # game/screens.rpy:1130
+    old "Website: "
+    new ""
+
+    # game/screens.rpy:1134
+    old "{size=-8}Uses portions of the {a=https://github.com/jsfehler/renpy-encyclopaedia}Encyclopaedia Framework for Ren'Py{/a} by jsfehler"
+    new ""
+
+    # game/screens.rpy:1135
+    old "{size=-8}Ashtar Flying Disk, Federation Interceptor HN48, Endor Battlecruiser, Sky Ranger Dominator, Titan Class II Cargo Ship, Wraith Raider Starship, Eagle 5 Transport models created by {a=https://www.renderosity.com/?uid=767619}sevein/Herminio Nieves{/a}"
+    new ""
+
+    # game/screens.rpy:1136
+    old "{size=-8}Crucero Space Army and Space Gate models created by {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}"
+    new ""
+
+    # game/screens.rpy:1137
+    old "{size=-8}Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+    new ""
+
+    # game/screens.rpy:1211
+    old "Jump to page: "
+    new ""
+
+    # game/screens.rpy:1352
+    old "Please name your save:"
+    new ""
+
+    # game/screens.rpy:1369
+    old "Save game"
+    new ""
+
+    # game/screens.rpy:1403
+    old "Player Names"
+    new ""
+
+    # game/screens.rpy:1404
+    old "Name: "
+    new ""
+
+    # game/screens.rpy:1405
+    old "Nickname: "
+    new ""
+
+    # game/screens.rpy:1417
+    old "Rollback Side"
+    new ""
+
+    # game/screens.rpy:1438
+    old "Show Portraits"
+    new ""
+
+    # game/screens.rpy:1439
+    old "Show"
+    new ""
+
+    # game/screens.rpy:1444
+    old "Notifications"
+    new ""
+
+    # game/screens.rpy:1462
+    old "Incest"
+    new ""
+
+    # game/screens.rpy:1468
+    old "Language"
+    new ""
+
+    # game/screens.rpy:1472
+    old "English"
+    new ""
+
+    # game/screens.rpy:1473
+    old "Italiano"
+    new ""
+
+    # game/screens.rpy:1474
+    old "Português"
+    new ""
+
+    # game/screens.rpy:1475
+    old "Français"
+    new ""
+
+    # game/screens.rpy:1478
+    old "Русский"
+    new ""
+
+    # game/screens.rpy:1479
+    old "Español"
+    new ""
+
+    # game/screens.rpy:1480
+    old "Türkçe"
+    new ""
+
+    # game/screens.rpy:1481
+    old "Polski (częściowo)"
+    new ""
+
+    # game/screens.rpy:1488
+    old "Lovense"
+    new ""
+
+    # game/screens.rpy:1490
+    old "Connect your toy"
+    new ""
+
+    # game/screens.rpy:1501
+    old "Dialog Box Visibility"
+    new ""
+
+    # game/screens.rpy:1809
+    old "Shows the relationships screen"
+    new ""
+
+    # game/screens.rpy:1813
+    old "Shows the codex"
+    new ""
+

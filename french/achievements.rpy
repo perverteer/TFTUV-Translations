@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-translate french strings:
+﻿translate french strings:
 
     # game/achievements.rpy:3
     old "Where no man has gone before"

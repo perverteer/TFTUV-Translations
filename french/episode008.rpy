@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-# game/episode008.rpy:52
+﻿# game/episode008.rpy:52
 translate french episode008_0272f9ac:
 
     # centered "{=chapter_heading}EPISODE 8{/=chapter_heading}"

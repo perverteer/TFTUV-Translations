@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-08-24 15:49
-
 # game/episode007.rpy:35
 translate french episode007_cbf80bf9:
 

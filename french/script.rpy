@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-translate french strings:
+﻿translate french strings:
 
     # game/script.rpy:29
     old "Taboo Edition disabled"
@@ -121,4 +119,16 @@ translate french strings:
     # game/script.rpy:544
     old "What is your nickname?"
     new "Quel est ton surnom ?"
+
+# TODO: Translation updated at 2025-05-19 22:36
+
+translate french strings:
+
+    # game/script.rpy:369
+    old "THANK YOU"
+    new "MERCI"
+
+    # game/script.rpy:370
+    old "A big thank you to my top tier backers, you rock!"
+    new "Un grand merci à mes donateurs de premier rang, vous êtes géniaux !"
 

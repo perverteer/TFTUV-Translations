@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-# game/episode012a_conversations.rpy:52
+﻿# game/episode012a_conversations.rpy:52
 translate french ep012_nadya_talk_e0187b25:
 
     # c "Hey, are you alright?"

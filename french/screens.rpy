@@ -300,9 +300,6 @@ translate french strings:
     # game/screens.rpy:1083
     old "Opens the accessibility menu."
     new "Ouvre le menu d'accessibilité."
-# TODO: Translation updated at 2024-08-24 15:49
-
-translate french strings:
 
     # game/screens.rpy:300
     old "Codex"
@@ -515,9 +512,6 @@ translate french strings:
     # game/screens.rpy:1781
     old "Mouse Wheel Up\nClick Rollback Side"
     new "Molette de la souris vers le haut\nCliquez sur le côté de retour en arrière"
-# TODO: Translation updated at 2024-08-30 22:28
-
-translate french strings:
 
     # game/screens.rpy:1386
     old "Name: "
@@ -543,14 +537,41 @@ translate french strings:
     old "Pregnant: %s"
     new "Enceinte : %s"
 
-    # game/screens.rpy:1416
+    # game/screens.rpy:1424
     old "Language"
-    new "Langue"
+    new "Langue"# TODO: Translation updated at 2025-05-19 22:36
 
-    # game/screens.rpy:1417
-    old "Chinese (Simplified)"
-    new "Chinese (Simplified)"
+translate french strings:
 
-    # game/screens.rpy:1418
-    old "Chinese (Traditional)"
-    new "Chinese (Traditional)"
+    # game/screens.rpy:369
+    old "Choices"
+    new "Choix"
+
+    # game/screens.rpy:1473
+    old "Italiano"
+    new "Italiano"
+
+    # game/screens.rpy:1474
+    old "Português"
+    new "Português"
+
+    # game/screens.rpy:1475
+    old "Français"
+    new "Français"
+
+    # game/screens.rpy:1478
+    old "Русский"
+    new "Русский"
+
+    # game/screens.rpy:1479
+    old "Español"
+    new "Español"
+
+    # game/screens.rpy:1480
+    old "Türkçe"
+    new "Türkçe"
+
+    # game/screens.rpy:1481
+    old "Polski (częściowo)"
+    new "Polski (częściowo)"
+

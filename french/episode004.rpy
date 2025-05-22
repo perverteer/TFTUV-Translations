@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-# game/episode004.rpy:24
+﻿# game/episode004.rpy:24
 translate french episode004_37e7765b:
 
     # centered "{=chapter_heading}EPISODE 4{/=chapter_heading}"
@@ -6162,3 +6160,46 @@ translate french strings:
 
     old "Translator"
     new "Traductrice"
+
+# game/episode004.rpy:417
+translate french episode004_e59a68e6:
+
+    # man "I hope this message gets to you, because they’re finally coming for me."
+    man "J'espère que ce message te parviendra, car ils viennent enfin me chercher."
+
+# game/episode004.rpy:418
+translate french episode004_04ad401c:
+
+    # man "I don’t know who it is, but they’re nearly through the security doors."
+    man "Je ne sais pas qui c'est, mais ils ont presque franchi les portes de sécurité."
+
+# game/episode004.rpy:419
+translate french episode004_6c455e78:
+
+    # man "Maybe it has something to do with you, or maybe it’s just my time."
+    man "Peut-être que cela a quelque chose à voir avec toi, ou peut-être que c'est juste mon heure."
+
+# game/episode004.rpy:420
+translate french episode004_81c18d62:
+
+    # man "It doesn’t matter now."
+    man "Cela n'a plus d'importance maintenant."
+
+# game/episode004.rpy:421
+translate french episode004_a2b51a76:
+
+    # man "The warrior women you’re searching for are the Acarhyn, product of an illicit genetics experiment."
+    man "Les guerrières que tu cherches sont les Acarhyn, produit d'une expérience génétique illicite."
+
+# game/episode004.rpy:422
+translate french episode004_7dac7e49:
+
+    # man "The location of their home planet is unknown, but Ranimo Cetruvar probably knows."
+    man "L'emplacement de leur planète d'origine est inconnu, mais Ranimo Cetruvar le sait probablement."
+
+# game/episode004.rpy:423
+translate french episode004_7b5c2575:
+
+    # man "Nadya, you’ve been a loyal friend, I-"
+    man "Nadya, tu as été une amie fidèle, je..."
+

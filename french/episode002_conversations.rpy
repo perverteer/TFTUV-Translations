@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-# game/episode002_conversations.rpy:93
+﻿# game/episode002_conversations.rpy:93
 translate french ep002_conversation_choices_e76551ce:
 
     # ce "[p_name_short]?!"

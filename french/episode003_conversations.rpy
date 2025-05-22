@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-# game/episode003_conversations.rpy:67
+﻿# game/episode003_conversations.rpy:67
 translate french ep003_vess_talk_74878570:
 
     # ve "I thought we were done for back in the asteroid field."

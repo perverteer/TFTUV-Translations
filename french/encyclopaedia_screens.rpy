@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-translate french strings:
+﻿translate french strings:
 
     # game/encyclopaedia_screens.rpy:113
     old "Filters"

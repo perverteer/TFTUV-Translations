@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-# game/episode006_conversations.rpy:56
+﻿# game/episode006_conversations.rpy:56
 translate french ep006_lilly_talk_80c59c43:
 
     # "Lilly had retired to her quarters almost immediately after we set course for Almagest."

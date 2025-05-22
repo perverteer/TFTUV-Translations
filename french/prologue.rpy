@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-# game/prologue.rpy:13
+﻿# game/prologue.rpy:13
 translate french prologue_a4af39c4:
 
     # centered "{=chapter_heading}PROLOGUE{/=chapter_heading}"

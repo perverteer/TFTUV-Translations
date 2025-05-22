@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-# game/episode012a.rpy:44
+﻿# game/episode012a.rpy:44
 translate french episode012a_248470f3:
 
     # centered "{=chapter_heading}EPISODE 12{/=chapter_heading}"

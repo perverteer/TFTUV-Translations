@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-# game/extras.rpy:90
+﻿# game/extras.rpy:90
 translate french extra_scene_01_52c8d1d0:
 
     # "Céline smiled at me and took a firm hold of my penis, moving her hand slowly up and down."
@@ -5131,10 +5129,10 @@ translate french extra_scene_22_88dc96f5:
     "Elle a continué à le sucer pendant qu'il pompait une grande quantité de sperme dans sa bouche,"
 
 # game/extras.rpy:1624
-translate french extra_scene_22_95509110:
+translate french extra_scene_22_7878535c:
 
-    # "The commander swallowed everything and turned her attention back to me."
-    "La commandante a tout avalé et a reporté son attention sur moi."
+    # "After swallowing everything, she returned her attention to me."
+    "Après avoir tout avalé, elle a reporté son attention sur moi."
 
 # game/extras.rpy:1626
 translate french extra_scene_22_e43a18bd:
@@ -7353,3 +7351,11 @@ translate french strings:
     # game/extras.rpy:2225
     old "Siora"
     new "Siora"
+# TODO: Translation updated at 2025-05-19 22:36
+
+# game/extras.rpy:1989
+translate french extra_scene_22_95509110:
+
+    # "The commander swallowed everything and turned her attention back to me."
+    "La commandante a tout avalé et a reporté son attention sur moi."
+

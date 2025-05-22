@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-# game/episode005.rpy:75
+﻿# game/episode005.rpy:75
 translate french episode005_5933694a:
 
     # centered "{=chapter_heading}EPISODE 5{/=chapter_heading}"
@@ -6019,10 +6017,10 @@ translate french ep005_thim_2d4e9582:
     t "Pourquoi es-tu surpris ?"
 
 # game/episode005.rpy:1712
-translate french ep005_thim_c5f9a2ed:
+translate french ep005_thim_a1a3f202:
 
-    # c "I just thought you were happy with that guaranteed officer title waiting on you after graduation."
-    c "Je pensais juste que tu étais heureux avec ce titre d'officier garanti qui t'attendait après l'obtention de ton diplôme."
+    # c "I just though you were happy with that guaranteed officer title waiting on you after graduation."
+    c "Je pensais que tu étais heureux avec ce titre d'officier garanti qui t'attendait après l'obtention de ton diplôme."
 
 # game/episode005.rpy:1713
 translate french ep005_thim_b6fa0f91:
@@ -13317,6 +13315,11 @@ translate french strings:
 
     old "Mistress"
     new "Maîtresse"
+# TODO: Translation updated at 2025-05-19 22:36
 
+# game/episode005.rpy:1712
+translate french ep005_thim_c5f9a2ed:
 
+    # c "I just thought you were happy with that guaranteed officer title waiting on you after graduation."
+    c "Je pensais que tu étais heureux avec ce titre d'officier garanti qui t'attendait après l'obtention de ton diplôme."
 

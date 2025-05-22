@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-24 13:09
-
-translate french strings:
+﻿translate french strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
@@ -1246,10 +1244,6 @@ translate french strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Copie le fichier errors.txt dans le presse-papiers sous forme de Markdown pour Discord."
 
-# TODO: Translation updated at 2024-06-15 19:03
-
-translate french strings:
-
     # renpy/common/00director.rpy:1745
     old "Click to toggle attribute, right click to toggle negative attribute."
     new "Clique pour faire basculer l'attribut, clique droit pour faire basculer l'attribut négatif."
@@ -1458,21 +1452,13 @@ translate french strings:
     old "Retry"
     new "Réessayer"
 
-# TODO: Translation updated at 2024-09-16 16:03
-
-translate french strings:
-
     # renpy/common/00accessibility.rpy:197
     old "Self-voicing support is limited when using a touch screen."
     new "La prise en charge de l'auto-expression vocale est limitée lorsqu'on utilise un écran tactile."
 
-# TODO: Translation updated at 2024-12-11 22:15
-
-translate french strings:
-
     # renpy/common/00translation.rpy:63
     old "Translation identifier: [identifier]"
-    new "Identifiant de traduction : [identifier]"
+    new "Identificateur de traduction : [identifier]"
 
     # renpy/common/00translation.rpy:84
     old " translates [tl.filename]:[tl.linenumber]"

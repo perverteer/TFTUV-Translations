@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-# game/episode011.rpy:33
+﻿# game/episode011.rpy:33
 translate french episode011_c6e8be29:
 
     # centered "{=chapter_heading}EPISODE 11{/=chapter_heading}"
@@ -5269,10 +5267,10 @@ translate french ep011_feast_orgy_f49c9e60:
     "Ceci étant dit, les Acarhyn ont commencé à nous déshabiller et à nous inciter doucement à nous allonger sur les coussins."
 
 # game/episode011.rpy:1636
-translate french ep011_feast_orgy_a104c94d:
+translate french ep011_feast_orgy_0c6e8a23:
 
-    # woman2 "They’re both very big boys, aren’t they?"
-    woman2 "Ce sont tous les deux de très grands garçons, n'est-ce pas ?"
+    # "They’re both very big boys, aren’t they?"
+    "Ce sont tous les deux de très grands garçons, n'est-ce pas ?"
 
 # game/episode011.rpy:1637
 translate french ep011_feast_orgy_6729e00f:
@@ -5341,10 +5339,10 @@ translate french ep011_feast_orgy_3965b129:
     "Cela fait, les Acarhyn a commencé à me déshabiller et m'a doucement incité à m'allonger sur les coussins."
 
 # game/episode011.rpy:1673
-translate french ep011_feast_orgy_78c80ce2:
+translate french ep011_feast_orgy_b998d48e:
 
-    # woman2 "He’s a big boy, isn’t he?"
-    woman2 "C'est un grand garçon, n'est-ce pas ?"
+    # "He’s a big boy, isn’t he?"
+    "C'est un grand garçon, n'est-ce pas ?"
 
 # game/episode011.rpy:1674
 translate french ep011_feast_orgy_af7677f3:
@@ -6444,4 +6442,17 @@ translate french strings:
     new "Annonceur"
 
     old "Acarhyn Warrior"
-    new "Guerrière Acarhyn"
+    new "Guerrière Acarhyn"# TODO: Translation updated at 2025-05-19 22:36
+
+# game/episode011.rpy:1636
+translate french ep011_feast_orgy_a104c94d:
+
+    # woman2 "They’re both very big boys, aren’t they?"
+    woman2 "Ils sont tous les deux très grands, n'est-ce pas ?"
+
+# game/episode011.rpy:1673
+translate french ep011_feast_orgy_78c80ce2:
+
+    # woman2 "He’s a big boy, isn’t he?"
+    woman2 "C'est un grand garçon, n'est-ce pas ?"
+

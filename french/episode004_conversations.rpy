@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-# game/episode004_conversations.rpy:113
+﻿# game/episode004_conversations.rpy:113
 translate french ep004_lilly_talk_91c70eeb:
 
     # c "Hey sis."

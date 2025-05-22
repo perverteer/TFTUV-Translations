@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-# game/episode012b.rpy:47
+﻿# game/episode012b.rpy:47
 translate french episode012b_c326708c:
 
     # bl "You’re telling me this is the likeliest place they went based on their jump trajectory?"

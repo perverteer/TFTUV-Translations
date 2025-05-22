@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-# game/episode008_conversations.rpy:48
+﻿# game/episode008_conversations.rpy:48
 translate french ep008_aven_talk_2cadf1e2:
 
     # "Aven occupied my thoughts almost completely and I found myself wandering towards her quarters."

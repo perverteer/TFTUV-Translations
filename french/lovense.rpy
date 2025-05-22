@@ -84,4 +84,15 @@ translate french strings:
 
     # game/screens.rpy:1479
     old "Connect your toy"
-    new "Connectez votre jouet"
+    new "Connectez votre jouet"# TODO: Translation updated at 2025-05-19 14:40
+
+translate french strings:
+
+    # game/lovense.rpy:304
+    old "[[x] Close"
+    new "[[x] Close"
+
+    # game/lovense.rpy:374
+    old "Test Device"
+    new "Test Device"
+

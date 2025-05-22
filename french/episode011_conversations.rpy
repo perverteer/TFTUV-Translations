@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-24 15:49
-
-# game/episode011_conversations.rpy:89
+﻿# game/episode011_conversations.rpy:89
 translate french ep011_vess_talk_alt_c156fe42:
 
     # "The Bastard's brig had previously been used as a utility closet."
